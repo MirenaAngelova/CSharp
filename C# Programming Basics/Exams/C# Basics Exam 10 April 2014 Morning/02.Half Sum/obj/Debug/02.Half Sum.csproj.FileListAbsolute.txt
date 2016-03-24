@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Half Sum\bin\Debug\02.Half Sum.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Half Sum\bin\Debug\02.Half Sum.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Half Sum\bin\Debug\02.Half Sum.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Half Sum\obj\Debug\02.Half Sum.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Half Sum\obj\Debug\02.Half Sum.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Half Sum\obj\Debug\02.Half Sum.pdb

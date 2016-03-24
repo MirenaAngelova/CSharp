@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Weird Combinations\bin\Debug\04.Weird Combinations.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Weird Combinations\bin\Debug\04.Weird Combinations.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Weird Combinations\bin\Debug\04.Weird Combinations.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Weird Combinations\obj\Debug\04.Weird Combinations.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Weird Combinations\obj\Debug\04.Weird Combinations.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Weird Combinations\obj\Debug\04.Weird Combinations.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\04.Weird Combinations\bin\Debug\04.Weird Combinations.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics July 3\04.Weird Combinations\obj\Debug\04.Weird Combinations.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\04.Weird Combinations\obj\Debug\04.Weird Combinations.pdb

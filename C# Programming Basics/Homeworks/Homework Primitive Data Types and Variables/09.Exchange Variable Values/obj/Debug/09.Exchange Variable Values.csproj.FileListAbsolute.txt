@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\09.Exchange Variable Values\bin\Debug\09.Exchange Variable Values.exe.config
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\09.Exchange Variable Values\bin\Debug\09.Exchange Variable Values.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\09.Exchange Variable Values\bin\Debug\09.Exchange Variable Values.pdb
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\09.Exchange Variable Values\obj\Debug\09.Exchange Variable Values.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\09.Exchange Variable Values\obj\Debug\09.Exchange Variable Values.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\09.Exchange Variable Values\obj\Debug\09.Exchange Variable Values.pdb

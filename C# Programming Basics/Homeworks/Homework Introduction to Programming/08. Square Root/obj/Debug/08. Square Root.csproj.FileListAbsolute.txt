@@ -1,0 +1,5 @@
+C:\Users\Pete\Desktop\Homework Introduction to Programming\08. Square Root\bin\Debug\_08.Square_Root.exe.config
+C:\Users\Pete\Desktop\Homework Introduction to Programming\08. Square Root\bin\Debug\_08.Square_Root.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\08. Square Root\bin\Debug\_08.Square_Root.pdb
+C:\Users\Pete\Desktop\Homework Introduction to Programming\08. Square Root\obj\Debug\_08.Square_Root.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\08. Square Root\obj\Debug\_08.Square_Root.pdb

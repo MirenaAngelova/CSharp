@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Console Input Output\17.Catch the Bits\bin\Debug\17.Catch the Bits.exe.config
+C:\Users\Pete\Desktop\Homework Console Input Output\17.Catch the Bits\bin\Debug\17.Catch the Bits.exe
+C:\Users\Pete\Desktop\Homework Console Input Output\17.Catch the Bits\bin\Debug\17.Catch the Bits.pdb
+C:\Users\Pete\Desktop\Homework Console Input Output\17.Catch the Bits\obj\Debug\17.Catch the Bits.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Console Input Output\17.Catch the Bits\obj\Debug\17.Catch the Bits.exe
+C:\Users\Pete\Desktop\Homework Console Input Output\17.Catch the Bits\obj\Debug\17.Catch the Bits.pdb

@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics April\02. Students Cables\bin\Debug\_02.Students_Cables.exe.config
+C:\Users\Pete\Desktop\Programming Basics April\02. Students Cables\bin\Debug\_02.Students_Cables.exe
+C:\Users\Pete\Desktop\Programming Basics April\02. Students Cables\bin\Debug\_02.Students_Cables.pdb
+C:\Users\Pete\Desktop\Programming Basics April\02. Students Cables\obj\Debug\02. Student Cables.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics April\02. Students Cables\obj\Debug\_02.Students_Cables.exe
+C:\Users\Pete\Desktop\Programming Basics April\02. Students Cables\obj\Debug\_02.Students_Cables.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April\02. Students Cables\bin\Debug\_02.Students_Cables.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April\02. Students Cables\obj\Debug\_02.Students_Cables.exe
+D:\SOFTUNI\Exsersises\Programming Basics April\02. Students Cables\obj\Debug\_02.Students_Cables.pdb

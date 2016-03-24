@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Loops\01.Numbers from 1 to N\bin\Debug\01.Numbers from 1 to N.exe.config
+C:\Users\Pete\Desktop\Homework Loops\01.Numbers from 1 to N\bin\Debug\01.Numbers from 1 to N.exe
+C:\Users\Pete\Desktop\Homework Loops\01.Numbers from 1 to N\bin\Debug\01.Numbers from 1 to N.pdb
+C:\Users\Pete\Desktop\Homework Loops\01.Numbers from 1 to N\obj\Debug\01.Numbers from 1 to N.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Loops\01.Numbers from 1 to N\obj\Debug\01.Numbers from 1 to N.exe
+C:\Users\Pete\Desktop\Homework Loops\01.Numbers from 1 to N\obj\Debug\01.Numbers from 1 to N.pdb

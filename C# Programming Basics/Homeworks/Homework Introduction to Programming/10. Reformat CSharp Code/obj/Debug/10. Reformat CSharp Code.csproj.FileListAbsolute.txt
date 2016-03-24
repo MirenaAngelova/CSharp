@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Introduction to Programming\10. Reformat CSharp Code\bin\Debug\_10.Reformat_CSharp_Code.exe.config
+C:\Users\Pete\Desktop\Homework Introduction to Programming\10. Reformat CSharp Code\bin\Debug\_10.Reformat_CSharp_Code.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\10. Reformat CSharp Code\bin\Debug\_10.Reformat_CSharp_Code.pdb
+C:\Users\Pete\Desktop\Homework Introduction to Programming\10. Reformat CSharp Code\obj\Debug\10. Reformat CSharp Code.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Introduction to Programming\10. Reformat CSharp Code\obj\Debug\_10.Reformat_CSharp_Code.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\10. Reformat CSharp Code\obj\Debug\_10.Reformat_CSharp_Code.pdb

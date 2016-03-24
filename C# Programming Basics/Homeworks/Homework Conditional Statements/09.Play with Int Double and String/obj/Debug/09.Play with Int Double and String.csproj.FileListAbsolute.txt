@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Conditional Statements\09.Play with Int Double and String\bin\Debug\09.Play with Int Double and String.exe.config
+C:\Users\Pete\Desktop\Homework Conditional Statements\09.Play with Int Double and String\bin\Debug\09.Play with Int Double and String.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\09.Play with Int Double and String\bin\Debug\09.Play with Int Double and String.pdb
+C:\Users\Pete\Desktop\Homework Conditional Statements\09.Play with Int Double and String\obj\Debug\09.Play with Int Double and String.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Conditional Statements\09.Play with Int Double and String\obj\Debug\09.Play with Int Double and String.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\09.Play with Int Double and String\obj\Debug\09.Play with Int Double and String.pdb

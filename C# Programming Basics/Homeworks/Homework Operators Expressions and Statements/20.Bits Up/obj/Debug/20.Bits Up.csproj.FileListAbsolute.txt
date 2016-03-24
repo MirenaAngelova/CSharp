@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\20.Bits Up\bin\Debug\20.Bits Up.exe.config
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\20.Bits Up\bin\Debug\20.Bits Up.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\20.Bits Up\bin\Debug\20.Bits Up.pdb
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\20.Bits Up\obj\Debug\20.Bits Up.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\20.Bits Up\obj\Debug\20.Bits Up.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\20.Bits Up\obj\Debug\20.Bits Up.pdb
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\20.Bits Up\bin\Debug\20.Bits Up.exe.config
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\20.Bits Up\obj\Debug\20.Bits Up.exe
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\20.Bits Up\obj\Debug\20.Bits Up.pdb

@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics April\05.Bit Shooter\bin\Debug\05.Bit Shooter.exe.config
+C:\Users\Pete\Desktop\Programming Basics April\05.Bit Shooter\bin\Debug\05.Bit Shooter.exe
+C:\Users\Pete\Desktop\Programming Basics April\05.Bit Shooter\bin\Debug\05.Bit Shooter.pdb
+C:\Users\Pete\Desktop\Programming Basics April\05.Bit Shooter\obj\Debug\05.Bit Shooter.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics April\05.Bit Shooter\obj\Debug\05.Bit Shooter.exe
+C:\Users\Pete\Desktop\Programming Basics April\05.Bit Shooter\obj\Debug\05.Bit Shooter.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April\05.Bit Shooter\bin\Debug\05.Bit Shooter.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April\05.Bit Shooter\obj\Debug\05.Bit Shooter.exe
+D:\SOFTUNI\Exsersises\Programming Basics April\05.Bit Shooter\obj\Debug\05.Bit Shooter.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Console Input Output\05.Formatting Numbers\bin\Debug\05.Formatting Numbers.exe.config
+C:\Users\Pete\Desktop\Homework Console Input Output\05.Formatting Numbers\bin\Debug\05.Formatting Numbers.exe
+C:\Users\Pete\Desktop\Homework Console Input Output\05.Formatting Numbers\bin\Debug\05.Formatting Numbers.pdb
+C:\Users\Pete\Desktop\Homework Console Input Output\05.Formatting Numbers\obj\Debug\05.Formatting Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Console Input Output\05.Formatting Numbers\obj\Debug\05.Formatting Numbers.exe
+C:\Users\Pete\Desktop\Homework Console Input Output\05.Formatting Numbers\obj\Debug\05.Formatting Numbers.pdb

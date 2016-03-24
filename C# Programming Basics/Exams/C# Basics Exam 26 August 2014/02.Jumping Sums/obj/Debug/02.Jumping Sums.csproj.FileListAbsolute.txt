@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Jumping Sums\bin\Debug\02.Jumping Sums.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Jumping Sums\bin\Debug\02.Jumping Sums.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Jumping Sums\bin\Debug\02.Jumping Sums.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Jumping Sums\obj\Debug\02.Jumping Sums.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Jumping Sums\obj\Debug\02.Jumping Sums.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Jumping Sums\obj\Debug\02.Jumping Sums.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\02.Jumping Sums\bin\Debug\02.Jumping Sums.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics July 3\02.Jumping Sums\obj\Debug\02.Jumping Sums.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\02.Jumping Sums\obj\Debug\02.Jumping Sums.pdb

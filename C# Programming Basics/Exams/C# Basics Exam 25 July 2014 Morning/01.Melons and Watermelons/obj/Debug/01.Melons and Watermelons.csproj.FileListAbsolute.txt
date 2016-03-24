@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\01.Melons and Watermelons\bin\Debug\01.Melons and Watermelons.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\01.Melons and Watermelons\bin\Debug\01.Melons and Watermelons.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\01.Melons and Watermelons\bin\Debug\01.Melons and Watermelons.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\01.Melons and Watermelons\obj\Debug\01.Melons and Watermelons.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\01.Melons and Watermelons\obj\Debug\01.Melons and Watermelons.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\01.Melons and Watermelons\obj\Debug\01.Melons and Watermelons.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\01.Melons and Watermelons\bin\Debug\01.Melons and Watermelons.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics July 3\01.Melons and Watermelons\obj\Debug\01.Melons and Watermelons.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\01.Melons and Watermelons\obj\Debug\01.Melons and Watermelons.pdb

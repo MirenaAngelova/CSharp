@@ -1,0 +1,9 @@
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\03.House\bin\Debug\03.House.exe.config
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\03.House\bin\Debug\03.House.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\03.House\bin\Debug\03.House.pdb
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\03.House\obj\Debug\03.House.csprojResolveAssemblyReference.cache
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\03.House\obj\Debug\03.House.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\03.House\obj\Debug\03.House.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\03.House\bin\Debug\03.House.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\03.House\obj\Debug\03.House.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\03.House\obj\Debug\03.House.pdb

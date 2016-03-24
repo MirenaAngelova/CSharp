@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics April\05.Bit Roller\bin\Debug\05.Bit Roller.exe.config
+C:\Users\Pete\Desktop\Programming Basics April\05.Bit Roller\bin\Debug\05.Bit Roller.exe
+C:\Users\Pete\Desktop\Programming Basics April\05.Bit Roller\bin\Debug\05.Bit Roller.pdb
+C:\Users\Pete\Desktop\Programming Basics April\05.Bit Roller\obj\Debug\05.Bit Roller.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics April\05.Bit Roller\obj\Debug\05.Bit Roller.exe
+C:\Users\Pete\Desktop\Programming Basics April\05.Bit Roller\obj\Debug\05.Bit Roller.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April\05.Bit Roller\bin\Debug\05.Bit Roller.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April\05.Bit Roller\obj\Debug\05.Bit Roller.exe
+D:\SOFTUNI\Exsersises\Programming Basics April\05.Bit Roller\obj\Debug\05.Bit Roller.pdb

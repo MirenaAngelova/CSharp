@@ -1,0 +1,9 @@
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Hayvan Numbers\bin\Debug\04.Hayvan Numbers.exe.config
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Hayvan Numbers\bin\Debug\04.Hayvan Numbers.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Hayvan Numbers\bin\Debug\04.Hayvan Numbers.pdb
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Hayvan Numbers\obj\Debug\04.Hayvan Numbers.csprojResolveAssemblyReference.cache
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Hayvan Numbers\obj\Debug\04.Hayvan Numbers.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Hayvan Numbers\obj\Debug\04.Hayvan Numbers.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Hayvan Numbers\bin\Debug\04.Hayvan Numbers.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Hayvan Numbers\obj\Debug\04.Hayvan Numbers.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Hayvan Numbers\obj\Debug\04.Hayvan Numbers.pdb

@@ -1,0 +1,9 @@
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\02.Pairs\bin\Debug\02.Pairs.exe.config
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\02.Pairs\bin\Debug\02.Pairs.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\02.Pairs\bin\Debug\02.Pairs.pdb
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\02.Pairs\obj\Debug\02.Pairs.csprojResolveAssemblyReference.cache
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\02.Pairs\obj\Debug\02.Pairs.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\02.Pairs\obj\Debug\02.Pairs.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Pairs\bin\Debug\02.Pairs.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Pairs\obj\Debug\02.Pairs.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Pairs\obj\Debug\02.Pairs.pdb

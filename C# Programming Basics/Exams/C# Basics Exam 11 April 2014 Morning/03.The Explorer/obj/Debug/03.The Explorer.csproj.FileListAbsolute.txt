@@ -1,0 +1,9 @@
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\03.The Explorer\bin\Debug\03.The Explorer.exe.config
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\03.The Explorer\bin\Debug\03.The Explorer.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\03.The Explorer\bin\Debug\03.The Explorer.pdb
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\03.The Explorer\obj\Debug\03.The Explorer.csprojResolveAssemblyReference.cache
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\03.The Explorer\obj\Debug\03.The Explorer.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\03.The Explorer\obj\Debug\03.The Explorer.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\03.The Explorer\bin\Debug\03.The Explorer.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\03.The Explorer\obj\Debug\03.The Explorer.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\03.The Explorer\obj\Debug\03.The Explorer.pdb

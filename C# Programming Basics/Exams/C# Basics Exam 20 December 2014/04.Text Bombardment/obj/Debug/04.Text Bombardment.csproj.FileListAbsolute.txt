@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Text Bombardment\bin\Debug\04.Text Bombardment.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Text Bombardment\bin\Debug\04.Text Bombardment.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Text Bombardment\bin\Debug\04.Text Bombardment.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Text Bombardment\obj\Debug\04.Text Bombardment.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Text Bombardment\obj\Debug\04.Text Bombardment.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Text Bombardment\obj\Debug\04.Text Bombardment.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\04.Text Bombardment\bin\Debug\04.Text Bombardment.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics July 3\04.Text Bombardment\obj\Debug\04.Text Bombardment.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\04.Text Bombardment\obj\Debug\04.Text Bombardment.pdb

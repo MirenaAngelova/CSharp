@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics April\04.Longest Alphabetical Word\bin\Debug\04.Longest Alphabetical Word.exe.config
+C:\Users\Pete\Desktop\Programming Basics April\04.Longest Alphabetical Word\bin\Debug\04.Longest Alphabetical Word.exe
+C:\Users\Pete\Desktop\Programming Basics April\04.Longest Alphabetical Word\bin\Debug\04.Longest Alphabetical Word.pdb
+C:\Users\Pete\Desktop\Programming Basics April\04.Longest Alphabetical Word\obj\Debug\04.Longest Alphabetical Word.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics April\04.Longest Alphabetical Word\obj\Debug\04.Longest Alphabetical Word.exe
+C:\Users\Pete\Desktop\Programming Basics April\04.Longest Alphabetical Word\obj\Debug\04.Longest Alphabetical Word.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April\04.Longest Alphabetical Word\bin\Debug\04.Longest Alphabetical Word.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April\04.Longest Alphabetical Word\obj\Debug\04.Longest Alphabetical Word.exe
+D:\SOFTUNI\Exsersises\Programming Basics April\04.Longest Alphabetical Word\obj\Debug\04.Longest Alphabetical Word.pdb

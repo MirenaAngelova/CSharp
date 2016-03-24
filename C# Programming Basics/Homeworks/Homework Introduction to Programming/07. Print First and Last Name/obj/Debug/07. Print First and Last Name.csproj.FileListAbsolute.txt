@@ -1,0 +1,5 @@
+C:\Users\Pete\Desktop\Homework Introduction to Programming\07. Print First and Last Name\bin\Debug\_07.Print_First_and_Last_Name.exe.config
+C:\Users\Pete\Desktop\Homework Introduction to Programming\07. Print First and Last Name\bin\Debug\_07.Print_First_and_Last_Name.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\07. Print First and Last Name\bin\Debug\_07.Print_First_and_Last_Name.pdb
+C:\Users\Pete\Desktop\Homework Introduction to Programming\07. Print First and Last Name\obj\Debug\_07.Print_First_and_Last_Name.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\07. Print First and Last Name\obj\Debug\_07.Print_First_and_Last_Name.pdb

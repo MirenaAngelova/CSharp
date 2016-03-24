@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\11.Bitwise Extract Bit 3\bin\Debug\11.Bitwise Extract Bit 3.exe.config
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\11.Bitwise Extract Bit 3\bin\Debug\11.Bitwise Extract Bit 3.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\11.Bitwise Extract Bit 3\bin\Debug\11.Bitwise Extract Bit 3.pdb
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\11.Bitwise Extract Bit 3\obj\Debug\11.Bitwise Extract Bit 3.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\11.Bitwise Extract Bit 3\obj\Debug\11.Bitwise Extract Bit 3.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\11.Bitwise Extract Bit 3\obj\Debug\11.Bitwise Extract Bit 3.pdb
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\11.Bitwise Extract Bit 3\bin\Debug\11.Bitwise Extract Bit 3.exe.config
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\11.Bitwise Extract Bit 3\obj\Debug\11.Bitwise Extract Bit 3.exe
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\11.Bitwise Extract Bit 3\obj\Debug\11.Bitwise Extract Bit 3.pdb

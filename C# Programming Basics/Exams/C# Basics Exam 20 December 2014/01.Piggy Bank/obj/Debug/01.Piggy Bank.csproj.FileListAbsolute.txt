@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\01.Piggy Bank\bin\Debug\01.Piggy Bank.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\01.Piggy Bank\bin\Debug\01.Piggy Bank.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\01.Piggy Bank\bin\Debug\01.Piggy Bank.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\01.Piggy Bank\obj\Debug\01.Piggy Bank.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\01.Piggy Bank\obj\Debug\01.Piggy Bank.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\01.Piggy Bank\obj\Debug\01.Piggy Bank.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\01.Piggy Bank\bin\Debug\01.Piggy Bank.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics July 3\01.Piggy Bank\obj\Debug\01.Piggy Bank.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\01.Piggy Bank\obj\Debug\01.Piggy Bank.pdb

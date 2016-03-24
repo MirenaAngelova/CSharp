@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\09.Extract URLs from Text\bin\Debug\09.Extract URLs from Text.exe.config
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\09.Extract URLs from Text\bin\Debug\09.Extract URLs from Text.exe
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\09.Extract URLs from Text\bin\Debug\09.Extract URLs from Text.pdb
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\09.Extract URLs from Text\obj\Debug\09.Extract URLs from Text.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\09.Extract URLs from Text\obj\Debug\09.Extract URLs from Text.exe
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\09.Extract URLs from Text\obj\Debug\09.Extract URLs from Text.pdb

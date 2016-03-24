@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Conditional Statements\13.Triangle\bin\Debug\13.Triangle.exe.config
+C:\Users\Pete\Desktop\Homework Conditional Statements\13.Triangle\bin\Debug\13.Triangle.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\13.Triangle\bin\Debug\13.Triangle.pdb
+C:\Users\Pete\Desktop\Homework Conditional Statements\13.Triangle\obj\Debug\13.Triangle.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Conditional Statements\13.Triangle\obj\Debug\13.Triangle.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\13.Triangle\obj\Debug\13.Triangle.pdb

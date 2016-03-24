@@ -1,0 +1,9 @@
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Magic Dates\bin\Debug\04.Magic Dates.exe.config
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Magic Dates\bin\Debug\04.Magic Dates.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Magic Dates\bin\Debug\04.Magic Dates.pdb
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Magic Dates\obj\Debug\04.Magic Dates.csprojResolveAssemblyReference.cache
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Magic Dates\obj\Debug\04.Magic Dates.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Magic Dates\obj\Debug\04.Magic Dates.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Magic Dates\bin\Debug\04.Magic Dates.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Magic Dates\obj\Debug\04.Magic Dates.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Magic Dates\obj\Debug\04.Magic Dates.pdb

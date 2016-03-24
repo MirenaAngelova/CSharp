@@ -1,0 +1,63 @@
+Problem 11. Programming Languages
+
+Perform a research (e.g. in Google or Wikipedia) and provide a short list with information about the most
+popular programming languages. How similar are they to C#? How do they differ from C#? Write in a text file
+called “programming-languages.txt” at least five languages along with 2-3 sentences about each of them. Use 
+English.
+
+The biggest climbers in the TIOBE index compared to last year are C++(+1.89), C#(+1.52)and Visual Basic.NET
+(+1.70). These three programming languages are also the key languages of Microsoft's Visual Studio.
+Microsoft's Visual Studio is one of the few commercial programming enviroments that stood the test of time.
+Together with Eclipse it is one of the most frequently used IDE's in industry.
+
+May 2015	May 2014   Change	       Programming Language	     Ratings	Change
+1	        2          change          Java	                     16.869%    -0.04%
+2	        1          change          C	                     16.847%    -0.08%
+3	        4          change	       C++	                     7.875%     +1.89%
+4	        3	       change	       Objective-C               5.393%     -6.40%
+5	        6	       change	       C#	                     5.264%	    +1.52%
+6	        8	       change	       Python	                 3.725%     +0.67%
+7	        9	       change	       JavaScript	             3.127%     +1.34%
+8	        11	       change	       Visual Basic .NET	     2.968%	    +1.70%
+9	        7	       change	       PHP	                     2.720%	    -0.67%
+10	        -	       change	       Visual Basic	             1.893%	    +1.89%
+
+Java is a general-purpose computer programming language that is concurent, class-based, object-oriented, 
+and specifically designed to have as few implementation dependencies as posssible, meaning  that compiled
+Java code can run on all platforms that support Java virtual machine regardless of computer architecture.
+The language derives much of it's syntax from C# and C++, but it has fewer low-level facilities than either 
+of them.
+
+C is general-purpose, imperative computer programming language. It supports structured programming, lexical
+variable scope and recursion, while a static type system prevents many unintended operations. By design, 
+C provides constructs that map efficiently to typical machine instructions, and therefore it has found 
+lasting use in applications that had formerly been coded is assembly language, uncluding operating system,
+as well as various application software for computers ranging from supercomputers to embedded systems. Many
+later languages have borrowed directly or indirectly from C, including C++, D, Go, Rust, Java, JavaScript, 
+Limbo, LPC, C#, Objective-C, Perl, PHP, Python, Verilog, and Unix's C shell.
+
+C++ is a general-purpose programming language. It has imperative, object-oriented and generic programming 
+features, while also providing the ficilities for low-level manipulation.
+
+C# is a multi-paradigm programming language encompassing strong typing, imperative, declarative, functional,
+generic, object-oriented, and component-oriented programming disciplines. It was developed by Microsoft
+within it's .NET initiative and later approved as a standard by Ecma and ISO. C# is one of the programming 
+languages designed for the Common Language Infrastructure.
+
+Python is an open source programming language that was made to both look good and be easy to read. Python
+is an interpreted language that allows the programmer to give the source code to the computer and the com-
+puters runs the code right away.
+
+What's similar between C# and Java?
+Both C# and Java have built-in garbage collection, and they are Type-Safe Languages, "Pure" Object-Oriented
+Languages. C# and Java allow only single inheritance, both have built-in thread and synchronization support
+in their language specifications. Both have support for format exception handling, like C++, both use only
+Unicode.
+
+What's different between C# and Java?
+C# and Java have different exception handling rules. Java will run on "any" operating system, C# compiled
+to MSIL. C# is a more complex language than Java. Comparing the keywords is C# and Java gives insight into
+major differences in the languages, from an application developer's perspective. C# allows indexers on 
+classes, while Java does not. Structs are allowed in C# but not Java. "Foreach/in" is supported in C# but 
+not Java.
+

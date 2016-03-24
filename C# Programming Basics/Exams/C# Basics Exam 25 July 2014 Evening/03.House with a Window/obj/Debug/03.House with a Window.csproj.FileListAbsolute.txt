@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\03.House with a Window\bin\Debug\03.House with a Window.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\03.House with a Window\bin\Debug\03.House with a Window.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\03.House with a Window\bin\Debug\03.House with a Window.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\03.House with a Window\obj\Debug\03.House with a Window.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\03.House with a Window\obj\Debug\03.House with a Window.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\03.House with a Window\obj\Debug\03.House with a Window.pdb

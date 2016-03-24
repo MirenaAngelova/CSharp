@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Friend Bits\bin\Debug\05.Friend Bits.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Friend Bits\bin\Debug\05.Friend Bits.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Friend Bits\bin\Debug\05.Friend Bits.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Friend Bits\obj\Debug\05.Friend Bits.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Friend Bits\obj\Debug\05.Friend Bits.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Friend Bits\obj\Debug\05.Friend Bits.pdb

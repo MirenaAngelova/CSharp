@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\03.Headphones\bin\Debug\03.Headphones.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\03.Headphones\bin\Debug\03.Headphones.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\03.Headphones\bin\Debug\03.Headphones.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\03.Headphones\obj\Debug\03.Headphones.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\03.Headphones\obj\Debug\03.Headphones.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\03.Headphones\obj\Debug\03.Headphones.pdb

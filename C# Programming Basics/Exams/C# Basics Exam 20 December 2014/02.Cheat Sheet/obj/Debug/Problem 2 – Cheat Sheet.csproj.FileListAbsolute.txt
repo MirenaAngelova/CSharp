@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\Problem 2 – Cheat Sheet\bin\Debug\Problem 2 – Cheat Sheet.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\Problem 2 – Cheat Sheet\bin\Debug\Problem 2 – Cheat Sheet.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\Problem 2 – Cheat Sheet\bin\Debug\Problem 2 – Cheat Sheet.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\Problem 2 – Cheat Sheet\obj\Debug\Problem 2 – Cheat Sheet.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\Problem 2 – Cheat Sheet\obj\Debug\Problem 2 – Cheat Sheet.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\Problem 2 – Cheat Sheet\obj\Debug\Problem 2 – Cheat Sheet.pdb

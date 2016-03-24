@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\03.Magic Wand\bin\Debug\03.Magic Wand.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\03.Magic Wand\bin\Debug\03.Magic Wand.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\03.Magic Wand\bin\Debug\03.Magic Wand.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\03.Magic Wand\obj\Debug\03.Magic Wand.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\03.Magic Wand\obj\Debug\03.Magic Wand.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\03.Magic Wand\obj\Debug\03.Magic Wand.pdb

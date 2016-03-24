@@ -1,0 +1,5 @@
+C:\Users\Pete\Desktop\Homework Introduction to Programming\03. Play with MSDN Library\bin\Debug\_03.Play_with_MSDN_Library.exe.config
+C:\Users\Pete\Desktop\Homework Introduction to Programming\03. Play with MSDN Library\bin\Debug\_03.Play_with_MSDN_Library.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\03. Play with MSDN Library\bin\Debug\_03.Play_with_MSDN_Library.pdb
+C:\Users\Pete\Desktop\Homework Introduction to Programming\03. Play with MSDN Library\obj\Debug\_03.Play_with_MSDN_Library.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\03. Play with MSDN Library\obj\Debug\_03.Play_with_MSDN_Library.pdb

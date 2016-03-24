@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\13.Magic Car Numbers\bin\Debug\13.Magic Car Numbers.exe.config
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\13.Magic Car Numbers\bin\Debug\13.Magic Car Numbers.exe
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\13.Magic Car Numbers\bin\Debug\13.Magic Car Numbers.pdb
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\13.Magic Car Numbers\obj\Debug\13.Magic Car Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\13.Magic Car Numbers\obj\Debug\13.Magic Car Numbers.exe
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\13.Magic Car Numbers\obj\Debug\13.Magic Car Numbers.pdb

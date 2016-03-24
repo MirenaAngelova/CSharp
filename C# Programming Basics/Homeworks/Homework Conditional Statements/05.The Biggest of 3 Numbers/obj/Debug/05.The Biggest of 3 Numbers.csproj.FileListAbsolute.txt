@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Conditional Statements\05.The Biggest of 3 Numbers\bin\Debug\05.The Biggest of 3 Numbers.exe.config
+C:\Users\Pete\Desktop\Homework Conditional Statements\05.The Biggest of 3 Numbers\bin\Debug\05.The Biggest of 3 Numbers.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\05.The Biggest of 3 Numbers\bin\Debug\05.The Biggest of 3 Numbers.pdb
+C:\Users\Pete\Desktop\Homework Conditional Statements\05.The Biggest of 3 Numbers\obj\Debug\05.The Biggest of 3 Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Conditional Statements\05.The Biggest of 3 Numbers\obj\Debug\05.The Biggest of 3 Numbers.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\05.The Biggest of 3 Numbers\obj\Debug\05.The Biggest of 3 Numbers.pdb

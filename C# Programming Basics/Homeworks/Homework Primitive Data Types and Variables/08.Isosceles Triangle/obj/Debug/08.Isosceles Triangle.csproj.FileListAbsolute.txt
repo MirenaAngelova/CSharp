@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\08.Isosceles Triangle\bin\Debug\_08.Isosceles_Triangle.exe.config
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\08.Isosceles Triangle\bin\Debug\_08.Isosceles_Triangle.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\08.Isosceles Triangle\bin\Debug\_08.Isosceles_Triangle.pdb
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\08.Isosceles Triangle\obj\Debug\_08.Isosceles_Triangle.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\08.Isosceles Triangle\obj\Debug\_08.Isosceles_Triangle.pdb
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\08.Isosceles Triangle\obj\Debug\08.Isosceles Triangle.csprojResolveAssemblyReference.cache

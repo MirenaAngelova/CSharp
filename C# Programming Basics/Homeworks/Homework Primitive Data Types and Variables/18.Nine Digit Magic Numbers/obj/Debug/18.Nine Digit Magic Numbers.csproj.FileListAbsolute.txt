@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\18.Nine Digit Magic Numbers\bin\Debug\18.Nine Digit Magic Numbers.exe.config
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\18.Nine Digit Magic Numbers\obj\Debug\18.Nine Digit Magic Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\18.Nine Digit Magic Numbers\bin\Debug\18.Nine Digit Magic Numbers.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\18.Nine Digit Magic Numbers\bin\Debug\18.Nine Digit Magic Numbers.pdb
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\18.Nine Digit Magic Numbers\obj\Debug\18.Nine Digit Magic Numbers.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\18.Nine Digit Magic Numbers\obj\Debug\18.Nine Digit Magic Numbers.pdb

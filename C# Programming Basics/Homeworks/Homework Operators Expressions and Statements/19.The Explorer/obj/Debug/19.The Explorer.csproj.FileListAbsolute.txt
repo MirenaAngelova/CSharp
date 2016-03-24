@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\19.The Explorer\bin\Debug\19.The Explorer.exe.config
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\19.The Explorer\bin\Debug\19.The Explorer.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\19.The Explorer\bin\Debug\19.The Explorer.pdb
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\19.The Explorer\obj\Debug\19.The Explorer.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\19.The Explorer\obj\Debug\19.The Explorer.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\19.The Explorer\obj\Debug\19.The Explorer.pdb
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\19.The Explorer\bin\Debug\19.The Explorer.exe.config
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\19.The Explorer\obj\Debug\19.The Explorer.exe
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\19.The Explorer\obj\Debug\19.The Explorer.pdb

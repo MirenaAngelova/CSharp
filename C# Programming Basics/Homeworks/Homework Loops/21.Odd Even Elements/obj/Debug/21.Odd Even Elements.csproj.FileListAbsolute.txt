@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Loops\21.Odd Even Elements\bin\Debug\21.Odd Even Elements.exe.config
+C:\Users\Pete\Desktop\Homework Loops\21.Odd Even Elements\bin\Debug\21.Odd Even Elements.exe
+C:\Users\Pete\Desktop\Homework Loops\21.Odd Even Elements\bin\Debug\21.Odd Even Elements.pdb
+C:\Users\Pete\Desktop\Homework Loops\21.Odd Even Elements\obj\Debug\21.Odd Even Elements.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Loops\21.Odd Even Elements\obj\Debug\21.Odd Even Elements.exe
+C:\Users\Pete\Desktop\Homework Loops\21.Odd Even Elements\obj\Debug\21.Odd Even Elements.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Conditional Statements\08.Digit as Word\bin\Debug\08.Digit as Word.exe.config
+C:\Users\Pete\Desktop\Homework Conditional Statements\08.Digit as Word\bin\Debug\08.Digit as Word.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\08.Digit as Word\bin\Debug\08.Digit as Word.pdb
+C:\Users\Pete\Desktop\Homework Conditional Statements\08.Digit as Word\obj\Debug\08.Digit as Word.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Conditional Statements\08.Digit as Word\obj\Debug\08.Digit as Word.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\08.Digit as Word\obj\Debug\08.Digit as Word.pdb

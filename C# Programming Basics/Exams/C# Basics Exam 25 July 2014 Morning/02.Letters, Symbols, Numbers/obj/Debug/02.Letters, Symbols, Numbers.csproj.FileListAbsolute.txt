@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Letters, Symbols, Numbers\bin\Debug\02.Letters, Symbols, Numbers.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Letters, Symbols, Numbers\bin\Debug\02.Letters, Symbols, Numbers.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Letters, Symbols, Numbers\bin\Debug\02.Letters, Symbols, Numbers.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Letters, Symbols, Numbers\obj\Debug\02.Letters, Symbols, Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Letters, Symbols, Numbers\obj\Debug\02.Letters, Symbols, Numbers.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Letters, Symbols, Numbers\obj\Debug\02.Letters, Symbols, Numbers.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\02.Letters, Symbols, Numbers\bin\Debug\02.Letters, Symbols, Numbers.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics July 3\02.Letters, Symbols, Numbers\obj\Debug\02.Letters, Symbols, Numbers.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\02.Letters, Symbols, Numbers\obj\Debug\02.Letters, Symbols, Numbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Pete\Desktop\Homework Loops\09.Matrix of Numbers\bin\Debug\09.Matrix of Numbers.exe.config
+C:\Users\Pete\Desktop\Homework Loops\09.Matrix of Numbers\bin\Debug\09.Matrix of Numbers.exe
+C:\Users\Pete\Desktop\Homework Loops\09.Matrix of Numbers\bin\Debug\09.Matrix of Numbers.pdb
+C:\Users\Pete\Desktop\Homework Loops\09.Matrix of Numbers\obj\Debug\09.Matrix of Numbers.exe
+C:\Users\Pete\Desktop\Homework Loops\09.Matrix of Numbers\obj\Debug\09.Matrix of Numbers.pdb

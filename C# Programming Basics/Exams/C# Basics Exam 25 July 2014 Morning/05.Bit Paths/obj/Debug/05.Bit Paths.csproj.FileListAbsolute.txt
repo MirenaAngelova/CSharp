@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Bit Paths\bin\Debug\05.Bit Paths.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Bit Paths\bin\Debug\05.Bit Paths.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Bit Paths\bin\Debug\05.Bit Paths.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Bit Paths\obj\Debug\05.Bit Paths.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Bit Paths\obj\Debug\05.Bit Paths.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Bit Paths\obj\Debug\05.Bit Paths.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Bit Paths\bin\Debug\05.Bit Paths.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Bit Paths\obj\Debug\05.Bit Paths.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Bit Paths\obj\Debug\05.Bit Paths.pdb

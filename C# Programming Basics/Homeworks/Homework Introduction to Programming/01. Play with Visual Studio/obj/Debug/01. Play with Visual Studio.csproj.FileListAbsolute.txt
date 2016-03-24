@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Introduction to Programming\01. Play with Visual Studio\bin\Debug\_01.Play_with_Visual_Studio.exe.config
+C:\Users\Pete\Desktop\Homework Introduction to Programming\01. Play with Visual Studio\bin\Debug\_01.Play_with_Visual_Studio.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\01. Play with Visual Studio\bin\Debug\_01.Play_with_Visual_Studio.pdb
+C:\Users\Pete\Desktop\Homework Introduction to Programming\01. Play with Visual Studio\obj\Debug\01. Play with Visual Studio.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Introduction to Programming\01. Play with Visual Studio\obj\Debug\_01.Play_with_Visual_Studio.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\01. Play with Visual Studio\obj\Debug\_01.Play_with_Visual_Studio.pdb

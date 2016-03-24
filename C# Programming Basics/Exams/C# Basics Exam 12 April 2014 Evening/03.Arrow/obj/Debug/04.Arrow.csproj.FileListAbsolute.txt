@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Programming Basics April\04.Arrow\bin\Debug\04.Arrow.exe.config
+C:\Users\Pete\Desktop\Programming Basics April\04.Arrow\bin\Debug\04.Arrow.exe
+C:\Users\Pete\Desktop\Programming Basics April\04.Arrow\bin\Debug\04.Arrow.pdb
+C:\Users\Pete\Desktop\Programming Basics April\04.Arrow\obj\Debug\04.Arrow.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics April\04.Arrow\obj\Debug\04.Arrow.exe
+C:\Users\Pete\Desktop\Programming Basics April\04.Arrow\obj\Debug\04.Arrow.pdb

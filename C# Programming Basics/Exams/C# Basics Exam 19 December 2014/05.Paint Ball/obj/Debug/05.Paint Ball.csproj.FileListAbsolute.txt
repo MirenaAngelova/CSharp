@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Paint Ball\bin\Debug\05.Paint Ball.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Paint Ball\bin\Debug\05.Paint Ball.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Paint Ball\bin\Debug\05.Paint Ball.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Paint Ball\obj\Debug\05.Paint Ball.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Paint Ball\obj\Debug\05.Paint Ball.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Paint Ball\obj\Debug\05.Paint Ball.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Paint Ball\bin\Debug\05.Paint Ball.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Paint Ball\obj\Debug\05.Paint Ball.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Paint Ball\obj\Debug\05.Paint Ball.pdb

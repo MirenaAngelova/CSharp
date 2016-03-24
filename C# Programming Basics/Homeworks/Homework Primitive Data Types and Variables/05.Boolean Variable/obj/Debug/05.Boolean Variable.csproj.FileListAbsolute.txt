@@ -1,0 +1,5 @@
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\05.Boolean Variable\bin\Debug\05.Boolean Variable.exe.config
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\05.Boolean Variable\bin\Debug\05.Boolean Variable.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\05.Boolean Variable\bin\Debug\05.Boolean Variable.pdb
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\05.Boolean Variable\obj\Debug\05.Boolean Variable.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\05.Boolean Variable\obj\Debug\05.Boolean Variable.pdb

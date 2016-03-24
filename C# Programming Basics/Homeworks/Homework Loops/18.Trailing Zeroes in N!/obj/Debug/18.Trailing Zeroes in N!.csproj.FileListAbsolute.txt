@@ -1,0 +1,5 @@
+C:\Users\Pete\Desktop\Homework Loops\18.Trailing Zeroes in N!\bin\Debug\18.Trailing Zeroes in N!.exe.config
+C:\Users\Pete\Desktop\Homework Loops\18.Trailing Zeroes in N!\bin\Debug\18.Trailing Zeroes in N!.exe
+C:\Users\Pete\Desktop\Homework Loops\18.Trailing Zeroes in N!\bin\Debug\18.Trailing Zeroes in N!.pdb
+C:\Users\Pete\Desktop\Homework Loops\18.Trailing Zeroes in N!\obj\Debug\18.Trailing Zeroes in N!.exe
+C:\Users\Pete\Desktop\Homework Loops\18.Trailing Zeroes in N!\obj\Debug\18.Trailing Zeroes in N!.pdb

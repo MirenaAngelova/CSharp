@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics April\01.Exam Schedule\bin\Debug\01.Exam Schedule.exe.config
+C:\Users\Pete\Desktop\Programming Basics April\01.Exam Schedule\bin\Debug\01.Exam Schedule.exe
+C:\Users\Pete\Desktop\Programming Basics April\01.Exam Schedule\bin\Debug\01.Exam Schedule.pdb
+C:\Users\Pete\Desktop\Programming Basics April\01.Exam Schedule\obj\Debug\01.Exam Schedule.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics April\01.Exam Schedule\obj\Debug\01.Exam Schedule.exe
+C:\Users\Pete\Desktop\Programming Basics April\01.Exam Schedule\obj\Debug\01.Exam Schedule.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April\01.Exam Schedule\bin\Debug\01.Exam Schedule.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April\01.Exam Schedule\obj\Debug\01.Exam Schedule.exe
+D:\SOFTUNI\Exsersises\Programming Basics April\01.Exam Schedule\obj\Debug\01.Exam Schedule.pdb

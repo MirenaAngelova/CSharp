@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Spy Hard\bin\Debug\02.Spy Hard.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Spy Hard\bin\Debug\02.Spy Hard.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Spy Hard\bin\Debug\02.Spy Hard.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Spy Hard\obj\Debug\02.Spy Hard.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Spy Hard\obj\Debug\02.Spy Hard.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Spy Hard\obj\Debug\02.Spy Hard.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\02.Spy Hard\bin\Debug\02.Spy Hard.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics July 3\02.Spy Hard\obj\Debug\02.Spy Hard.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\02.Spy Hard\obj\Debug\02.Spy Hard.pdb

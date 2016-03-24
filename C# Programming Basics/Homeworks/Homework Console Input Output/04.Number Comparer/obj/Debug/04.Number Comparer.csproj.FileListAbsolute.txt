@@ -1,0 +1,5 @@
+C:\Users\Pete\Desktop\Homework Console Input Output\04.Number Comparer\bin\Debug\04.Number Comparer.exe.config
+C:\Users\Pete\Desktop\Homework Console Input Output\04.Number Comparer\bin\Debug\04.Number Comparer.exe
+C:\Users\Pete\Desktop\Homework Console Input Output\04.Number Comparer\bin\Debug\04.Number Comparer.pdb
+C:\Users\Pete\Desktop\Homework Console Input Output\04.Number Comparer\obj\Debug\04.Number Comparer.exe
+C:\Users\Pete\Desktop\Homework Console Input Output\04.Number Comparer\obj\Debug\04.Number Comparer.pdb

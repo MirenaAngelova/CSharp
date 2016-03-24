@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\16.Half Sum\bin\Debug\16.Half Sum.exe.config
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\16.Half Sum\bin\Debug\16.Half Sum.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\16.Half Sum\bin\Debug\16.Half Sum.pdb
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\16.Half Sum\obj\Debug\16.Half Sum.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\16.Half Sum\obj\Debug\16.Half Sum.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\16.Half Sum\obj\Debug\16.Half Sum.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Programming Basics April\05.Bit Flipper\bin\Debug\05.Bit Flipper.exe.config
+C:\Users\Pete\Desktop\Programming Basics April\05.Bit Flipper\bin\Debug\05.Bit Flipper.exe
+C:\Users\Pete\Desktop\Programming Basics April\05.Bit Flipper\bin\Debug\05.Bit Flipper.pdb
+C:\Users\Pete\Desktop\Programming Basics April\05.Bit Flipper\obj\Debug\05.Bit Flipper.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics April\05.Bit Flipper\obj\Debug\05.Bit Flipper.exe
+C:\Users\Pete\Desktop\Programming Basics April\05.Bit Flipper\obj\Debug\05.Bit Flipper.pdb

@@ -1,0 +1,33 @@
+Problem 12.	Development Environments
+
+Perform a research (e.g. in Google or Wikipedia) and provide a short list with popular development 
+environments (IDEs) like Visual Studio. Write in a text file called “list-of-IDEs.txt” at least five IDEs 
+along with 2-3 sentences about each of them. Use English.
+
+List of Integrated Development Environments
+Cross-platform
+Code::Blocks. An open-source cross-platform C/C++ IDE written in wxWidgets.
+CodeLite.Open-source, cross platform (Windows, Linux & Mac OS) C/C++ IDE written with wxWidgets.
+DialogBlocks.Commercial dialog editor for wxWidgets from Anthemion Software Ltd.
+Eclipse with it's CDT.(C/C++ Development Tools) project.
+NetBeans C/C++ Development Pack.Sun's answer to eclipse. Open-Source (CDDL). 
+wxHatch.IDE and RAD tool written in wxWidgets.
+MinGW Developer Studio.IDE for Linux and MinGW ports of the GNU GCC compiler.
+SPE (Stani's Python Editor).Python IDE with wxGlade integrated, and Blender support.
+
+Windows Only
+Borland C++ Builder. wxForms - Proprietary RAD plugin for Borland / Code Gear C++ Builder.
+Dev-C++.
+Microsoft Visual C++.Visual Studio Express 2008 download is here: 
+http://www.microsoft.com/downloads/en/details.aspx?FamilyID=a22341ee-21db-43aa-8431-40be78461ee0
+VisualWX.Freeware IDE and RAD tool with support for MinGW, C++, wxPython, wxPerl, wxRuby, and wxLua.
+Philasmicos Entwickler Studio.Proprietary IDE written by Philasmicos. Free home edition available.
+Zeus IDE.Proprietary C/C++ IDE for Windows.
+
+Mac OS Only
+Xcode. Apple's official IDE for Mac OS X.
+
+Linux Only
+Anjuta.Open-source IDE built on GTK.
+CodeForge.Proprietary IDE.
+kDevelop.Open-source IDE built on Qt.

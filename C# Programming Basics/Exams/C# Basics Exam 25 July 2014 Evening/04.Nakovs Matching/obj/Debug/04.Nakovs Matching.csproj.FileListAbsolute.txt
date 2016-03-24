@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Nakovs Matching\bin\Debug\04.Nakovs Matching.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Nakovs Matching\bin\Debug\04.Nakovs Matching.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Nakovs Matching\bin\Debug\04.Nakovs Matching.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Nakovs Matching\obj\Debug\04.Nakovs Matching.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Nakovs Matching\obj\Debug\04.Nakovs Matching.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Nakovs Matching\obj\Debug\04.Nakovs Matching.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\04.Nakovs Matching\bin\Debug\04.Nakovs Matching.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics July 3\04.Nakovs Matching\obj\Debug\04.Nakovs Matching.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\04.Nakovs Matching\obj\Debug\04.Nakovs Matching.pdb

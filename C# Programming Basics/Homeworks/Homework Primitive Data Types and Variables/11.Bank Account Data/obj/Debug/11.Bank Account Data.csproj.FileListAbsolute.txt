@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\11.Bank Account Data\bin\Debug\11.Bank Account Data.exe.config
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\11.Bank Account Data\bin\Debug\11.Bank Account Data.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\11.Bank Account Data\bin\Debug\11.Bank Account Data.pdb
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\11.Bank Account Data\obj\Debug\11.Bank Account Data.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\11.Bank Account Data\obj\Debug\11.Bank Account Data.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\11.Bank Account Data\obj\Debug\11.Bank Account Data.pdb

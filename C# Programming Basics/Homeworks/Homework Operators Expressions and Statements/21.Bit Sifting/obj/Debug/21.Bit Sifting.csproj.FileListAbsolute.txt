@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\21.Bit Sifting\bin\Debug\21.Bit Sifting.exe.config
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\21.Bit Sifting\bin\Debug\21.Bit Sifting.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\21.Bit Sifting\bin\Debug\21.Bit Sifting.pdb
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\21.Bit Sifting\obj\Debug\21.Bit Sifting.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\21.Bit Sifting\obj\Debug\21.Bit Sifting.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\21.Bit Sifting\obj\Debug\21.Bit Sifting.pdb
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\21.Bit Sifting\bin\Debug\21.Bit Sifting.exe.config
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\21.Bit Sifting\obj\Debug\21.Bit Sifting.exe
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\21.Bit Sifting\obj\Debug\21.Bit Sifting.pdb

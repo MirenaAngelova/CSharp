@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics April\01. Inside the Building\bin\Debug\_01.Inside_the_Building.exe.config
+C:\Users\Pete\Desktop\Programming Basics April\01. Inside the Building\bin\Debug\_01.Inside_the_Building.exe
+C:\Users\Pete\Desktop\Programming Basics April\01. Inside the Building\bin\Debug\_01.Inside_the_Building.pdb
+C:\Users\Pete\Desktop\Programming Basics April\01. Inside the Building\obj\Debug\01. Inside the Building.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics April\01. Inside the Building\obj\Debug\_01.Inside_the_Building.exe
+C:\Users\Pete\Desktop\Programming Basics April\01. Inside the Building\obj\Debug\_01.Inside_the_Building.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April\01. Inside the Building\bin\Debug\_01.Inside_the_Building.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April\01. Inside the Building\obj\Debug\_01.Inside_the_Building.exe
+D:\SOFTUNI\Exsersises\Programming Basics April\01. Inside the Building\obj\Debug\_01.Inside_the_Building.pdb

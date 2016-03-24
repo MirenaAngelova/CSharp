@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Book Orders\bin\Debug\02.Book Orders.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Book Orders\bin\Debug\02.Book Orders.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Book Orders\bin\Debug\02.Book Orders.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Book Orders\obj\Debug\02.Book Orders.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Book Orders\obj\Debug\02.Book Orders.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Book Orders\obj\Debug\02.Book Orders.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\02.Book Orders\bin\Debug\02.Book Orders.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics July 3\02.Book Orders\obj\Debug\02.Book Orders.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\02.Book Orders\obj\Debug\02.Book Orders.pdb

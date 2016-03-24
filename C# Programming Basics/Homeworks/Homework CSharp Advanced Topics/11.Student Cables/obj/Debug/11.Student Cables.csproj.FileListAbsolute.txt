@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\11.Student Cables\bin\Debug\11.Student Cables.exe.config
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\11.Student Cables\bin\Debug\11.Student Cables.exe
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\11.Student Cables\bin\Debug\11.Student Cables.pdb
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\11.Student Cables\obj\Debug\11.Student Cables.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\11.Student Cables\obj\Debug\11.Student Cables.exe
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\11.Student Cables\obj\Debug\11.Student Cables.pdb

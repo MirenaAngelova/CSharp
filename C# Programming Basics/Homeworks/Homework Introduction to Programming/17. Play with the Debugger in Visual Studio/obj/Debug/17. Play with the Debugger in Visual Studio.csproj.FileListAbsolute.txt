@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Introduction to Programming\17. Play with the Debugger in Visual Studio\bin\Debug\_17.Play_with_the_Debugger_in_Visual_Studio.exe.config
+C:\Users\Pete\Desktop\Homework Introduction to Programming\17. Play with the Debugger in Visual Studio\bin\Debug\_17.Play_with_the_Debugger_in_Visual_Studio.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\17. Play with the Debugger in Visual Studio\bin\Debug\_17.Play_with_the_Debugger_in_Visual_Studio.pdb
+C:\Users\Pete\Desktop\Homework Introduction to Programming\17. Play with the Debugger in Visual Studio\obj\Debug\17. Play with the Debugger in Visual Studio.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Introduction to Programming\17. Play with the Debugger in Visual Studio\obj\Debug\_17.Play_with_the_Debugger_in_Visual_Studio.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\17. Play with the Debugger in Visual Studio\obj\Debug\_17.Play_with_the_Debugger_in_Visual_Studio.pdb

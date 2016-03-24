@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\10.Point Inside a Circle and Outside of a Rectangle\bin\Debug\10.Point Inside a Circle and Outside of a Rectangle.exe.config
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\10.Point Inside a Circle and Outside of a Rectangle\bin\Debug\10.Point Inside a Circle and Outside of a Rectangle.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\10.Point Inside a Circle and Outside of a Rectangle\bin\Debug\10.Point Inside a Circle and Outside of a Rectangle.pdb
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\10.Point Inside a Circle and Outside of a Rectangle\obj\Debug\10.Point Inside a Circle and Outside of a Rectangle.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\10.Point Inside a Circle and Outside of a Rectangle\obj\Debug\10.Point Inside a Circle and Outside of a Rectangle.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\10.Point Inside a Circle and Outside of a Rectangle\obj\Debug\10.Point Inside a Circle and Outside of a Rectangle.pdb
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\10.Point Inside a Circle and Outside of a Rectangle\bin\Debug\10.Point Inside a Circle and Outside of a Rectangle.exe.config
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\10.Point Inside a Circle and Outside of a Rectangle\obj\Debug\10.Point Inside a Circle and Outside of a Rectangle.exe
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\10.Point Inside a Circle and Outside of a Rectangle\obj\Debug\10.Point Inside a Circle and Outside of a Rectangle.pdb

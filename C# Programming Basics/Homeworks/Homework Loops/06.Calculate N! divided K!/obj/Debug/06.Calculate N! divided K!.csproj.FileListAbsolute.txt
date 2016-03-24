@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Loops\06.Calculate N! divided K!\bin\Debug\06.Calculate N! divided K!.exe.config
+C:\Users\Pete\Desktop\Homework Loops\06.Calculate N! divided K!\bin\Debug\06.Calculate N! divided K!.exe
+C:\Users\Pete\Desktop\Homework Loops\06.Calculate N! divided K!\bin\Debug\06.Calculate N! divided K!.pdb
+C:\Users\Pete\Desktop\Homework Loops\06.Calculate N! divided K!\obj\Debug\06.Calculate N! divided K!.exe
+C:\Users\Pete\Desktop\Homework Loops\06.Calculate N! divided K!\obj\Debug\06.Calculate N! divided K!.pdb
+C:\Users\Pete\Desktop\Homework Loops\06.Calculate N! divided K!\obj\Debug\06.Calculate N! divided K!.csprojResolveAssemblyReference.cache

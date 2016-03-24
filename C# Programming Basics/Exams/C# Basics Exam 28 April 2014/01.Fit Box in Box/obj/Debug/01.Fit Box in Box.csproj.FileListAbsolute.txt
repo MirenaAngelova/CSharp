@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Programming Basics April 2\01.Fit Box in Box\bin\Debug\01.Fit Box in Box.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\01.Fit Box in Box\bin\Debug\01.Fit Box in Box.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\01.Fit Box in Box\bin\Debug\01.Fit Box in Box.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\01.Fit Box in Box\obj\Debug\01.Fit Box in Box.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Programming Basics April 2\01.Fit Box in Box\obj\Debug\01.Fit Box in Box.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\01.Fit Box in Box\obj\Debug\01.Fit Box in Box.pdb

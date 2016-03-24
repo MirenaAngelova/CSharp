@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Loops\24.Bit Roller\bin\Debug\24.Bit Roller.exe.config
+C:\Users\Pete\Desktop\Homework Loops\24.Bit Roller\bin\Debug\24.Bit Roller.exe
+C:\Users\Pete\Desktop\Homework Loops\24.Bit Roller\bin\Debug\24.Bit Roller.pdb
+C:\Users\Pete\Desktop\Homework Loops\24.Bit Roller\obj\Debug\24.Bit Roller.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Loops\24.Bit Roller\obj\Debug\24.Bit Roller.exe
+C:\Users\Pete\Desktop\Homework Loops\24.Bit Roller\obj\Debug\24.Bit Roller.pdb

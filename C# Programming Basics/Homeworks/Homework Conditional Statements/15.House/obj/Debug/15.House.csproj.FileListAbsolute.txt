@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Conditional Statements\15.House\bin\Debug\15.House.exe.config
+C:\Users\Pete\Desktop\Homework Conditional Statements\15.House\bin\Debug\15.House.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\15.House\bin\Debug\15.House.pdb
+C:\Users\Pete\Desktop\Homework Conditional Statements\15.House\obj\Debug\15.House.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Conditional Statements\15.House\obj\Debug\15.House.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\15.House\obj\Debug\15.House.pdb

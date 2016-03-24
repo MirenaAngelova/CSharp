@@ -1,0 +1,12 @@
+Problem 13.	C# and .NET Differences
+
+Describe the difference between C# and .NET Framework in 2-3 sentences. 
+Write your description in a text file called “csharp-and-dot-net-framework.txt”. Use English.
+
+The C# Language and the .NET Platform 
+The first version of C# was developed by Microsoft between 1999 and 2002 and was officially released to
+the public in 2002 as a part of the .NET platform. The .NET platform aims to make software development 
+for Windows easier by providing a new quality approach to programming, based on the concepts of the 
+"virtual machine" and "managed code". At that time the Java language and platform reaped an enormous 
+success in all fields of software development; C# and .NET were Microsoft’s natural response to the Java 
+technology. 

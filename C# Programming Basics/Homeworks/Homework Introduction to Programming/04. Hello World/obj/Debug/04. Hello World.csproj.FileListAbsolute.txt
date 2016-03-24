@@ -1,0 +1,5 @@
+C:\Users\Pete\Desktop\Homework Introduction to Programming\04. Hello World\bin\Debug\_04.Hello_World.exe.config
+C:\Users\Pete\Desktop\Homework Introduction to Programming\04. Hello World\bin\Debug\_04.Hello_World.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\04. Hello World\bin\Debug\_04.Hello_World.pdb
+C:\Users\Pete\Desktop\Homework Introduction to Programming\04. Hello World\obj\Debug\_04.Hello_World.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\04. Hello World\obj\Debug\_04.Hello_World.pdb

@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Winning Numbers\bin\Debug\04.Winning Numbers.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Winning Numbers\bin\Debug\04.Winning Numbers.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Winning Numbers\bin\Debug\04.Winning Numbers.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Winning Numbers\obj\Debug\04.Winning Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Winning Numbers\obj\Debug\04.Winning Numbers.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Winning Numbers\obj\Debug\04.Winning Numbers.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\04.Winning Numbers\bin\Debug\04.Winning Numbers.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics July 3\04.Winning Numbers\obj\Debug\04.Winning Numbers.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\04.Winning Numbers\obj\Debug\04.Winning Numbers.pdb

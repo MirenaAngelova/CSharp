@@ -1,0 +1,12 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Half Byte Swapper\bin\Debug\05.Half Byte Swapper.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Half Byte Swapper\bin\Debug\05.Half Byte Swapper.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Half Byte Swapper\bin\Debug\05.Half Byte Swapper.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Half Byte Swapper\obj\Debug\05.Half Byte Swapper.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Half Byte Swapper\obj\Debug\05.Half Byte Swapper.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Half Byte Swapper\obj\Debug\05.Half Byte Swapper.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Half Byte Swapper\bin\Debug\05.Half Byte Swapper.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Half Byte Swapper\obj\Debug\05.Half Byte Swapper.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Half Byte Swapper\obj\Debug\05.Half Byte Swapper.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Half Byte Swapper\bin\Debug\05.Half Byte Swapper.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Half Byte Swapper\bin\Debug\05.Half Byte Swapper.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Half Byte Swapper\obj\Debug\05.Half Byte Swapper.csprojResolveAssemblyReference.cache

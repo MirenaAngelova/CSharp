@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\12.Programmer DNA\bin\Debug\12.Programmer DNA.exe.config
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\12.Programmer DNA\bin\Debug\12.Programmer DNA.exe
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\12.Programmer DNA\bin\Debug\12.Programmer DNA.pdb
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\12.Programmer DNA\obj\Debug\12.Programmer DNA.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\12.Programmer DNA\obj\Debug\12.Programmer DNA.exe
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\12.Programmer DNA\obj\Debug\12.Programmer DNA.pdb

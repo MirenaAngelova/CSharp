@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Sequence of K Numbers\bin\Debug\02.Sequence of K Numbers.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Sequence of K Numbers\bin\Debug\02.Sequence of K Numbers.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Sequence of K Numbers\bin\Debug\02.Sequence of K Numbers.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Sequence of K Numbers\obj\Debug\02.Sequence of K Numbers.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Sequence of K Numbers\obj\Debug\02.Sequence of K Numbers.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Sequence of K Numbers\obj\Debug\02.Sequence of K Numbers.pdb

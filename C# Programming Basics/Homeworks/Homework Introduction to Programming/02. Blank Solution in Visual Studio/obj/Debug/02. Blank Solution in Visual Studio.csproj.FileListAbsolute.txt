@@ -1,0 +1,5 @@
+C:\Users\Pete\Desktop\Homework Introduction to Programming\02. Blank Solution in Visual Studio\bin\Debug\_02.Blank_Solution_in_Visual_Studio.exe.config
+C:\Users\Pete\Desktop\Homework Introduction to Programming\02. Blank Solution in Visual Studio\bin\Debug\_02.Blank_Solution_in_Visual_Studio.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\02. Blank Solution in Visual Studio\bin\Debug\_02.Blank_Solution_in_Visual_Studio.pdb
+C:\Users\Pete\Desktop\Homework Introduction to Programming\02. Blank Solution in Visual Studio\obj\Debug\_02.Blank_Solution_in_Visual_Studio.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\02. Blank Solution in Visual Studio\obj\Debug\_02.Blank_Solution_in_Visual_Studio.pdb

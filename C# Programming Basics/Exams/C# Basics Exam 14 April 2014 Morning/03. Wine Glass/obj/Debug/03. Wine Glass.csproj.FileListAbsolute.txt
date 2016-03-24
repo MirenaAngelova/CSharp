@@ -1,0 +1,12 @@
+C:\Users\Pete\Desktop\Programming Basics April\03. Wine Glass\bin\Debug\_03.Wine_Glass.exe.config
+C:\Users\Pete\Desktop\Programming Basics April\03. Wine Glass\bin\Debug\_03.Wine_Glass.exe
+C:\Users\Pete\Desktop\Programming Basics April\03. Wine Glass\bin\Debug\_03.Wine_Glass.pdb
+C:\Users\Pete\Desktop\Programming Basics April\03. Wine Glass\obj\Debug\03. Wine Glass.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics April\03. Wine Glass\obj\Debug\_03.Wine_Glass.exe
+C:\Users\Pete\Desktop\Programming Basics April\03. Wine Glass\obj\Debug\_03.Wine_Glass.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April\03. Wine Glass\bin\Debug\_03.Wine_Glass.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April\03. Wine Glass\obj\Debug\_03.Wine_Glass.exe
+D:\SOFTUNI\Exsersises\Programming Basics April\03. Wine Glass\obj\Debug\_03.Wine_Glass.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April\03. Wine Glass\bin\Debug\_03.Wine_Glass.exe
+D:\SOFTUNI\Exsersises\Programming Basics April\03. Wine Glass\bin\Debug\_03.Wine_Glass.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April\03. Wine Glass\obj\Debug\03. Wine Glass.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Conditional Statements\16.Magic Dates\bin\Debug\16.Magic Dates.exe.config
+C:\Users\Pete\Desktop\Homework Conditional Statements\16.Magic Dates\bin\Debug\16.Magic Dates.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\16.Magic Dates\bin\Debug\16.Magic Dates.pdb
+C:\Users\Pete\Desktop\Homework Conditional Statements\16.Magic Dates\obj\Debug\16.Magic Dates.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Conditional Statements\16.Magic Dates\obj\Debug\16.Magic Dates.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\16.Magic Dates\obj\Debug\16.Magic Dates.pdb

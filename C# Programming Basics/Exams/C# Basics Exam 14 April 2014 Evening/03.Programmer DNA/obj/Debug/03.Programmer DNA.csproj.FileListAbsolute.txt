@@ -1,0 +1,12 @@
+C:\Users\Pete\Desktop\Programming Basics April\03.Programmer DNA\bin\Debug\03.Programmer DNA.exe.config
+C:\Users\Pete\Desktop\Programming Basics April\03.Programmer DNA\bin\Debug\03.Programmer DNA.exe
+C:\Users\Pete\Desktop\Programming Basics April\03.Programmer DNA\bin\Debug\03.Programmer DNA.pdb
+C:\Users\Pete\Desktop\Programming Basics April\03.Programmer DNA\obj\Debug\03.Programmer DNA.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics April\03.Programmer DNA\obj\Debug\03.Programmer DNA.exe
+C:\Users\Pete\Desktop\Programming Basics April\03.Programmer DNA\obj\Debug\03.Programmer DNA.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April\03.Programmer DNA\bin\Debug\03.Programmer DNA.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April\03.Programmer DNA\obj\Debug\03.Programmer DNA.exe
+D:\SOFTUNI\Exsersises\Programming Basics April\03.Programmer DNA\obj\Debug\03.Programmer DNA.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April\03.Programmer DNA\bin\Debug\03.Programmer DNA.exe
+D:\SOFTUNI\Exsersises\Programming Basics April\03.Programmer DNA\bin\Debug\03.Programmer DNA.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April\03.Programmer DNA\obj\Debug\03.Programmer DNA.csprojResolveAssemblyReference.cache

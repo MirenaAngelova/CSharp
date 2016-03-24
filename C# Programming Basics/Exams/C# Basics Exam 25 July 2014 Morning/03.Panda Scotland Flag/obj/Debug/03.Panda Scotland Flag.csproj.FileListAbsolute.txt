@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\03.Panda Scotland Flag\bin\Debug\03.Panda Scotland Flag.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\03.Panda Scotland Flag\bin\Debug\03.Panda Scotland Flag.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\03.Panda Scotland Flag\bin\Debug\03.Panda Scotland Flag.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\03.Panda Scotland Flag\obj\Debug\03.Panda Scotland Flag.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\03.Panda Scotland Flag\obj\Debug\03.Panda Scotland Flag.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\03.Panda Scotland Flag\obj\Debug\03.Panda Scotland Flag.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Conditional Statements\17.Bit Killer\bin\Debug\17.Bit Killer.exe.config
+C:\Users\Pete\Desktop\Homework Conditional Statements\17.Bit Killer\bin\Debug\17.Bit Killer.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\17.Bit Killer\bin\Debug\17.Bit Killer.pdb
+C:\Users\Pete\Desktop\Homework Conditional Statements\17.Bit Killer\obj\Debug\17.Bit Killer.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Conditional Statements\17.Bit Killer\obj\Debug\17.Bit Killer.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\17.Bit Killer\obj\Debug\17.Bit Killer.pdb

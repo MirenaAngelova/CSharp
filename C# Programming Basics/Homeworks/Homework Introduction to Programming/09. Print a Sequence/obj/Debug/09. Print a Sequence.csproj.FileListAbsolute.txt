@@ -1,0 +1,5 @@
+C:\Users\Pete\Desktop\Homework Introduction to Programming\09. Print a Sequence\bin\Debug\_09.Print_a_Sequence.exe.config
+C:\Users\Pete\Desktop\Homework Introduction to Programming\09. Print a Sequence\bin\Debug\_09.Print_a_Sequence.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\09. Print a Sequence\bin\Debug\_09.Print_a_Sequence.pdb
+C:\Users\Pete\Desktop\Homework Introduction to Programming\09. Print a Sequence\obj\Debug\_09.Print_a_Sequence.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\09. Print a Sequence\obj\Debug\_09.Print_a_Sequence.pdb

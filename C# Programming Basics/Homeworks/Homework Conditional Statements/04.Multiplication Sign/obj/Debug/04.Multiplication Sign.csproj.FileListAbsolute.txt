@@ -1,0 +1,5 @@
+C:\Users\Pete\Desktop\Homework Conditional Statements\04.Multiplication Sign\bin\Debug\04.Multiplication Sign.exe.config
+C:\Users\Pete\Desktop\Homework Conditional Statements\04.Multiplication Sign\bin\Debug\04.Multiplication Sign.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\04.Multiplication Sign\bin\Debug\04.Multiplication Sign.pdb
+C:\Users\Pete\Desktop\Homework Conditional Statements\04.Multiplication Sign\obj\Debug\04.Multiplication Sign.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\04.Multiplication Sign\obj\Debug\04.Multiplication Sign.pdb

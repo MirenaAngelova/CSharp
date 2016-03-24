@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Console Input Output\16.Magic Strings\bin\Debug\16.Magic Strings.exe.config
+C:\Users\Pete\Desktop\Homework Console Input Output\16.Magic Strings\bin\Debug\16.Magic Strings.exe
+C:\Users\Pete\Desktop\Homework Console Input Output\16.Magic Strings\bin\Debug\16.Magic Strings.pdb
+C:\Users\Pete\Desktop\Homework Console Input Output\16.Magic Strings\obj\Debug\16.Magic Strings.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Console Input Output\16.Magic Strings\obj\Debug\16.Magic Strings.exe
+C:\Users\Pete\Desktop\Homework Console Input Output\16.Magic Strings\obj\Debug\16.Magic Strings.pdb

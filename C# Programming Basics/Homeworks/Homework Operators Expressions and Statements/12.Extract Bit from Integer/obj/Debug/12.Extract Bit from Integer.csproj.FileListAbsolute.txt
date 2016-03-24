@@ -1,0 +1,8 @@
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\12.Extract Bit from Integer\bin\Debug\12.Extract Bit from Integer.exe.config
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\12.Extract Bit from Integer\bin\Debug\12.Extract Bit from Integer.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\12.Extract Bit from Integer\bin\Debug\12.Extract Bit from Integer.pdb
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\12.Extract Bit from Integer\obj\Debug\12.Extract Bit from Integer.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\12.Extract Bit from Integer\obj\Debug\12.Extract Bit from Integer.pdb
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\12.Extract Bit from Integer\bin\Debug\12.Extract Bit from Integer.exe.config
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\12.Extract Bit from Integer\obj\Debug\12.Extract Bit from Integer.exe
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\12.Extract Bit from Integer\obj\Debug\12.Extract Bit from Integer.pdb

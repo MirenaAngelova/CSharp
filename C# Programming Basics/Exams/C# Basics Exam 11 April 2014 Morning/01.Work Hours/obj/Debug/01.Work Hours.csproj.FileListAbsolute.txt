@@ -1,0 +1,9 @@
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\01.Work Hours\bin\Debug\01.Work Hours.exe.config
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\01.Work Hours\bin\Debug\01.Work Hours.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\01.Work Hours\bin\Debug\01.Work Hours.pdb
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\01.Work Hours\obj\Debug\01.Work Hours.csprojResolveAssemblyReference.cache
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\01.Work Hours\obj\Debug\01.Work Hours.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\01.Work Hours\obj\Debug\01.Work Hours.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\01.Work Hours\bin\Debug\01.Work Hours.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\01.Work Hours\obj\Debug\01.Work Hours.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\01.Work Hours\obj\Debug\01.Work Hours.pdb

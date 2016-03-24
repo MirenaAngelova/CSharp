@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\05.X Bits\bin\Debug\05.X Bits.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\05.X Bits\bin\Debug\05.X Bits.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\05.X Bits\bin\Debug\05.X Bits.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\05.X Bits\obj\Debug\05.X Bits.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\05.X Bits\obj\Debug\05.X Bits.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\05.X Bits\obj\Debug\05.X Bits.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.X Bits\bin\Debug\05.X Bits.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.X Bits\obj\Debug\05.X Bits.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.X Bits\obj\Debug\05.X Bits.pdb

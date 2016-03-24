@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Change Even Bits\bin\Debug\05.Change Even Bits.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Change Even Bits\bin\Debug\05.Change Even Bits.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Change Even Bits\bin\Debug\05.Change Even Bits.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Change Even Bits\obj\Debug\05.Change Even Bits.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Change Even Bits\obj\Debug\05.Change Even Bits.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Change Even Bits\obj\Debug\05.Change Even Bits.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Change Even Bits\bin\Debug\05.Change Even Bits.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Change Even Bits\obj\Debug\05.Change Even Bits.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Change Even Bits\obj\Debug\05.Change Even Bits.pdb

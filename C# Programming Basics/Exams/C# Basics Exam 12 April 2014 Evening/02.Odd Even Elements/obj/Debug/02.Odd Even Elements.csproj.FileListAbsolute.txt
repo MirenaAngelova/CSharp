@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics April\02.Odd Even Elements\bin\Debug\02.Odd Even Elements.exe.config
+C:\Users\Pete\Desktop\Programming Basics April\02.Odd Even Elements\bin\Debug\02.Odd Even Elements.exe
+C:\Users\Pete\Desktop\Programming Basics April\02.Odd Even Elements\bin\Debug\02.Odd Even Elements.pdb
+C:\Users\Pete\Desktop\Programming Basics April\02.Odd Even Elements\obj\Debug\02.Odd Even Elements.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics April\02.Odd Even Elements\obj\Debug\02.Odd Even Elements.exe
+C:\Users\Pete\Desktop\Programming Basics April\02.Odd Even Elements\obj\Debug\02.Odd Even Elements.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April\02.Odd Even Elements\bin\Debug\02.Odd Even Elements.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April\02.Odd Even Elements\obj\Debug\02.Odd Even Elements.exe
+D:\SOFTUNI\Exsersises\Programming Basics April\02.Odd Even Elements\obj\Debug\02.Odd Even Elements.pdb

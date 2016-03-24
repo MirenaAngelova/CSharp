@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Bits Inverter\bin\Debug\05.Bits Inverter.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Bits Inverter\bin\Debug\05.Bits Inverter.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Bits Inverter\bin\Debug\05.Bits Inverter.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Bits Inverter\obj\Debug\05.Bits Inverter.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Bits Inverter\obj\Debug\05.Bits Inverter.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Bits Inverter\obj\Debug\05.Bits Inverter.pdb

@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Morse Code Numbers\bin\Debug\04.Morse Code Numbers.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Morse Code Numbers\bin\Debug\04.Morse Code Numbers.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Morse Code Numbers\bin\Debug\04.Morse Code Numbers.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Morse Code Numbers\obj\Debug\04.Morse Code Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Morse Code Numbers\obj\Debug\04.Morse Code Numbers.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Morse Code Numbers\obj\Debug\04.Morse Code Numbers.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\04.Morse Code Numbers\bin\Debug\04.Morse Code Numbers.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics July 3\04.Morse Code Numbers\obj\Debug\04.Morse Code Numbers.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\04.Morse Code Numbers\obj\Debug\04.Morse Code Numbers.pdb

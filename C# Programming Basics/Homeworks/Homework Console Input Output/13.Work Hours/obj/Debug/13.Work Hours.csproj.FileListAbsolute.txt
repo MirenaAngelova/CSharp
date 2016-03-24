@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Console Input Output\13.Work Hours\bin\Debug\13.Work Hours.exe.config
+C:\Users\Pete\Desktop\Homework Console Input Output\13.Work Hours\obj\Debug\13.Work Hours.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Console Input Output\13.Work Hours\bin\Debug\13.Work Hours.exe
+C:\Users\Pete\Desktop\Homework Console Input Output\13.Work Hours\bin\Debug\13.Work Hours.pdb
+C:\Users\Pete\Desktop\Homework Console Input Output\13.Work Hours\obj\Debug\13.Work Hours.exe
+C:\Users\Pete\Desktop\Homework Console Input Output\13.Work Hours\obj\Debug\13.Work Hours.pdb

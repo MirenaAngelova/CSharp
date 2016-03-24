@@ -1,0 +1,5 @@
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\04.Unicode Character\bin\Debug\04.Unicode Character.exe.config
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\04.Unicode Character\bin\Debug\04.Unicode Character.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\04.Unicode Character\bin\Debug\04.Unicode Character.pdb
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\04.Unicode Character\obj\Debug\04.Unicode Character.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\04.Unicode Character\obj\Debug\04.Unicode Character.pdb

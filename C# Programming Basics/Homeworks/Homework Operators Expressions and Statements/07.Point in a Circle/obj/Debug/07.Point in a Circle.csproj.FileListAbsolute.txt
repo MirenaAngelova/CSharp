@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\07.Point in a Circle\bin\Debug\07.Point in a Circle.exe.config
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\07.Point in a Circle\bin\Debug\07.Point in a Circle.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\07.Point in a Circle\bin\Debug\07.Point in a Circle.pdb
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\07.Point in a Circle\obj\Debug\07.Point in a Circle.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\07.Point in a Circle\obj\Debug\07.Point in a Circle.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\07.Point in a Circle\obj\Debug\07.Point in a Circle.pdb
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\07.Point in a Circle\bin\Debug\07.Point in a Circle.exe.config
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\07.Point in a Circle\obj\Debug\07.Point in a Circle.exe
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\07.Point in a Circle\obj\Debug\07.Point in a Circle.pdb

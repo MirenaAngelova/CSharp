@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\16.Bit Exchange (Advanced)\bin\Debug\16.Bit Exchange (Advanced).exe.config
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\16.Bit Exchange (Advanced)\bin\Debug\16.Bit Exchange (Advanced).exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\16.Bit Exchange (Advanced)\bin\Debug\16.Bit Exchange (Advanced).pdb
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\16.Bit Exchange (Advanced)\obj\Debug\16.Bit Exchange (Advanced).csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\16.Bit Exchange (Advanced)\obj\Debug\16.Bit Exchange (Advanced).exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\16.Bit Exchange (Advanced)\obj\Debug\16.Bit Exchange (Advanced).pdb
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\16.Bit Exchange (Advanced)\bin\Debug\16.Bit Exchange (Advanced).exe.config
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\16.Bit Exchange (Advanced)\obj\Debug\16.Bit Exchange (Advanced).exe
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\16.Bit Exchange (Advanced)\obj\Debug\16.Bit Exchange (Advanced).pdb

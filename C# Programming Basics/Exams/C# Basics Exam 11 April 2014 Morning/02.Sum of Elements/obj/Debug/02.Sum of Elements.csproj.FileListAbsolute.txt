@@ -1,0 +1,9 @@
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\02.Sum of Elements\bin\Debug\02.Sum of Elements.exe.config
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\02.Sum of Elements\bin\Debug\02.Sum of Elements.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\02.Sum of Elements\bin\Debug\02.Sum of Elements.pdb
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\02.Sum of Elements\obj\Debug\02.Sum of Elements.csprojResolveAssemblyReference.cache
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\02.Sum of Elements\obj\Debug\02.Sum of Elements.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\02.Sum of Elements\obj\Debug\02.Sum of Elements.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Sum of Elements\bin\Debug\02.Sum of Elements.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Sum of Elements\obj\Debug\02.Sum of Elements.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Sum of Elements\obj\Debug\02.Sum of Elements.pdb

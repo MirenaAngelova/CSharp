@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Programming Basics April 2\03.Sand Glass\bin\Debug\03.Sand Glass.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\03.Sand Glass\bin\Debug\03.Sand Glass.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\03.Sand Glass\bin\Debug\03.Sand Glass.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\03.Sand Glass\obj\Debug\03.Sand Glass.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Programming Basics April 2\03.Sand Glass\obj\Debug\03.Sand Glass.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\03.Sand Glass\obj\Debug\03.Sand Glass.pdb

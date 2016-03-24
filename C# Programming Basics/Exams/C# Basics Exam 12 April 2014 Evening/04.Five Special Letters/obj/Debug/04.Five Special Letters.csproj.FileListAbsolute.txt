@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics April\04.Five Special Letters\bin\Debug\04.Five Special Letters.exe.config
+C:\Users\Pete\Desktop\Programming Basics April\04.Five Special Letters\bin\Debug\04.Five Special Letters.exe
+C:\Users\Pete\Desktop\Programming Basics April\04.Five Special Letters\bin\Debug\04.Five Special Letters.pdb
+C:\Users\Pete\Desktop\Programming Basics April\04.Five Special Letters\obj\Debug\04.Five Special Letters.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics April\04.Five Special Letters\obj\Debug\04.Five Special Letters.exe
+C:\Users\Pete\Desktop\Programming Basics April\04.Five Special Letters\obj\Debug\04.Five Special Letters.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April\04.Five Special Letters\bin\Debug\04.Five Special Letters.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April\04.Five Special Letters\obj\Debug\04.Five Special Letters.exe
+D:\SOFTUNI\Exsersises\Programming Basics April\04.Five Special Letters\obj\Debug\04.Five Special Letters.pdb

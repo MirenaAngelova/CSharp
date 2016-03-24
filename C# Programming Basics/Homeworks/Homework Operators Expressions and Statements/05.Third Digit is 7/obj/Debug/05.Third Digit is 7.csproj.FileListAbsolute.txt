@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\05.Third Digit is 7\bin\Debug\05.Third Digit is 7.exe.config
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\05.Third Digit is 7\bin\Debug\05.Third Digit is 7.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\05.Third Digit is 7\bin\Debug\05.Third Digit is 7.pdb
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\05.Third Digit is 7\obj\Debug\05.Third Digit is 7.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\05.Third Digit is 7\obj\Debug\05.Third Digit is 7.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\05.Third Digit is 7\obj\Debug\05.Third Digit is 7.pdb
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\05.Third Digit is 7\bin\Debug\05.Third Digit is 7.exe.config
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\05.Third Digit is 7\obj\Debug\05.Third Digit is 7.exe
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\05.Third Digit is 7\obj\Debug\05.Third Digit is 7.pdb

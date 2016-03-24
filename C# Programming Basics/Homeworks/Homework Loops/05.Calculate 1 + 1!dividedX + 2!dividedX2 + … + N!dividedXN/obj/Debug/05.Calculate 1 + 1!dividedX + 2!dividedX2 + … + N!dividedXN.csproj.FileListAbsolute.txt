@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Loops\05.Calculate 1 + 1!dividedX + 2!dividedX2 + … + N!dividedXN\bin\Debug\05.Calculate 1 + 1!dividedX + 2!dividedX2 + … + N!dividedXN.exe.config
+C:\Users\Pete\Desktop\Homework Loops\05.Calculate 1 + 1!dividedX + 2!dividedX2 + … + N!dividedXN\bin\Debug\05.Calculate 1 + 1!dividedX + 2!dividedX2 + … + N!dividedXN.exe
+C:\Users\Pete\Desktop\Homework Loops\05.Calculate 1 + 1!dividedX + 2!dividedX2 + … + N!dividedXN\bin\Debug\05.Calculate 1 + 1!dividedX + 2!dividedX2 + … + N!dividedXN.pdb
+C:\Users\Pete\Desktop\Homework Loops\05.Calculate 1 + 1!dividedX + 2!dividedX2 + … + N!dividedXN\obj\Debug\05.Calculate 1 + 1!dividedX + 2!dividedX2 + … + N!dividedXN.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Loops\05.Calculate 1 + 1!dividedX + 2!dividedX2 + … + N!dividedXN\obj\Debug\05.Calculate 1 + 1!dividedX + 2!dividedX2 + … + N!dividedXN.exe
+C:\Users\Pete\Desktop\Homework Loops\05.Calculate 1 + 1!dividedX + 2!dividedX2 + … + N!dividedXN\obj\Debug\05.Calculate 1 + 1!dividedX + 2!dividedX2 + … + N!dividedXN.pdb

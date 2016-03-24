@@ -1,0 +1,5 @@
+D:\SOFTUNI\Exsersises\Programming Basics April\02.Odd Even Elements\bin\Release\02.Odd Even Elements.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April\02.Odd Even Elements\bin\Release\02.Odd Even Elements.exe
+D:\SOFTUNI\Exsersises\Programming Basics April\02.Odd Even Elements\bin\Release\02.Odd Even Elements.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April\02.Odd Even Elements\obj\Release\02.Odd Even Elements.exe
+D:\SOFTUNI\Exsersises\Programming Basics April\02.Odd Even Elements\obj\Release\02.Odd Even Elements.pdb

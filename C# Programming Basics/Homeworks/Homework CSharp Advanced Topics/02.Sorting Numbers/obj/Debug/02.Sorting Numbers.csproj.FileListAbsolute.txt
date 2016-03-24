@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\02.Sorting Numbers\bin\Debug\02.Sorting Numbers.exe.config
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\02.Sorting Numbers\bin\Debug\02.Sorting Numbers.exe
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\02.Sorting Numbers\bin\Debug\02.Sorting Numbers.pdb
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\02.Sorting Numbers\obj\Debug\02.Sorting Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\02.Sorting Numbers\obj\Debug\02.Sorting Numbers.exe
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\02.Sorting Numbers\obj\Debug\02.Sorting Numbers.pdb

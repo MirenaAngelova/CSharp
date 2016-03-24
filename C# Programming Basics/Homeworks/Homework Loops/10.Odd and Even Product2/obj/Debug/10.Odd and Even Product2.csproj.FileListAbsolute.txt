@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Loops\10.Odd and Even Product2\bin\Debug\10.Odd and Even Product2.exe.config
+C:\Users\Pete\Desktop\Homework Loops\10.Odd and Even Product2\bin\Debug\10.Odd and Even Product2.exe
+C:\Users\Pete\Desktop\Homework Loops\10.Odd and Even Product2\bin\Debug\10.Odd and Even Product2.pdb
+C:\Users\Pete\Desktop\Homework Loops\10.Odd and Even Product2\obj\Debug\10.Odd and Even Product2.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Loops\10.Odd and Even Product2\obj\Debug\10.Odd and Even Product2.exe
+C:\Users\Pete\Desktop\Homework Loops\10.Odd and Even Product2\obj\Debug\10.Odd and Even Product2.pdb

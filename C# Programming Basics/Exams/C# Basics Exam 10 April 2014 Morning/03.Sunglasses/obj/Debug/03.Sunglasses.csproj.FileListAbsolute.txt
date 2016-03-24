@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Programming Basics April 2\03.Sunglasses\bin\Debug\03.Sunglasses.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\03.Sunglasses\bin\Debug\03.Sunglasses.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\03.Sunglasses\bin\Debug\03.Sunglasses.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\03.Sunglasses\obj\Debug\03.Sunglasses.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Programming Basics April 2\03.Sunglasses\obj\Debug\03.Sunglasses.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\03.Sunglasses\obj\Debug\03.Sunglasses.pdb

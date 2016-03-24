@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Conditional Statements\10.Beer Time\bin\Debug\10.Beer Time.exe.config
+C:\Users\Pete\Desktop\Homework Conditional Statements\10.Beer Time\bin\Debug\10.Beer Time.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\10.Beer Time\bin\Debug\10.Beer Time.pdb
+C:\Users\Pete\Desktop\Homework Conditional Statements\10.Beer Time\obj\Debug\10.Beer Time.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Conditional Statements\10.Beer Time\obj\Debug\10.Beer Time.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\10.Beer Time\obj\Debug\10.Beer Time.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\10.Inside the Building\bin\Debug\10.Inside the Building.exe.config
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\10.Inside the Building\bin\Debug\10.Inside the Building.exe
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\10.Inside the Building\bin\Debug\10.Inside the Building.pdb
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\10.Inside the Building\obj\Debug\10.Inside the Building.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\10.Inside the Building\obj\Debug\10.Inside the Building.exe
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\10.Inside the Building\obj\Debug\10.Inside the Building.pdb

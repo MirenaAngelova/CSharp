@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Conditional Statements\07.Sort 3 Numbers with Nested Ifs\bin\Debug\07.Sort 3 Numbers with Nested Ifs.exe.config
+C:\Users\Pete\Desktop\Homework Conditional Statements\07.Sort 3 Numbers with Nested Ifs\bin\Debug\07.Sort 3 Numbers with Nested Ifs.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\07.Sort 3 Numbers with Nested Ifs\bin\Debug\07.Sort 3 Numbers with Nested Ifs.pdb
+C:\Users\Pete\Desktop\Homework Conditional Statements\07.Sort 3 Numbers with Nested Ifs\obj\Debug\07.Sort 3 Numbers with Nested Ifs.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Conditional Statements\07.Sort 3 Numbers with Nested Ifs\obj\Debug\07.Sort 3 Numbers with Nested Ifs.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\07.Sort 3 Numbers with Nested Ifs\obj\Debug\07.Sort 3 Numbers with Nested Ifs.pdb

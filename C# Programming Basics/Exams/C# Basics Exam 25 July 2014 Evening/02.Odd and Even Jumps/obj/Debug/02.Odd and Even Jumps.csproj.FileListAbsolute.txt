@@ -1,0 +1,12 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Odd and Even Jumps\bin\Debug\02.Odd and Even Jumps.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Odd and Even Jumps\bin\Debug\02.Odd and Even Jumps.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Odd and Even Jumps\bin\Debug\02.Odd and Even Jumps.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Odd and Even Jumps\obj\Debug\02.Odd and Even Jumps.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Odd and Even Jumps\obj\Debug\02.Odd and Even Jumps.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\02.Odd and Even Jumps\obj\Debug\02.Odd and Even Jumps.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\02.Odd and Even Jumps\bin\Debug\02.Odd and Even Jumps.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics July 3\02.Odd and Even Jumps\obj\Debug\02.Odd and Even Jumps.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\02.Odd and Even Jumps\obj\Debug\02.Odd and Even Jumps.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\02.Odd and Even Jumps\bin\Debug\02.Odd and Even Jumps.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\02.Odd and Even Jumps\bin\Debug\02.Odd and Even Jumps.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\02.Odd and Even Jumps\obj\Debug\02.Odd and Even Jumps.csprojResolveAssemblyReference.cache

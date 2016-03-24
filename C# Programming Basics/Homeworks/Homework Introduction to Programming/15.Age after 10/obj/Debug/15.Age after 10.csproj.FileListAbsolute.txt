@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Introduction to Programming\15.Age after 10\bin\Debug\15.Age after 10.exe.config
+C:\Users\Pete\Desktop\Homework Introduction to Programming\15.Age after 10\bin\Debug\15.Age after 10.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\15.Age after 10\bin\Debug\15.Age after 10.pdb
+C:\Users\Pete\Desktop\Homework Introduction to Programming\15.Age after 10\obj\Debug\15.Age after 10.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Introduction to Programming\15.Age after 10\obj\Debug\15.Age after 10.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\15.Age after 10\obj\Debug\15.Age after 10.pdb

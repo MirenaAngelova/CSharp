@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\15.Joro, the Football Player\bin\Debug\15.Joro, the Football Player.exe.config
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\15.Joro, the Football Player\bin\Debug\15.Joro, the Football Player.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\15.Joro, the Football Player\bin\Debug\15.Joro, the Football Player.pdb
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\15.Joro, the Football Player\obj\Debug\15.Joro, the Football Player.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\15.Joro, the Football Player\obj\Debug\15.Joro, the Football Player.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\15.Joro, the Football Player\obj\Debug\15.Joro, the Football Player.pdb

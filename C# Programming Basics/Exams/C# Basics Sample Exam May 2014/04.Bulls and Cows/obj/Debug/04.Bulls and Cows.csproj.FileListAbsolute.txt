@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Bulls and Cows\bin\Debug\04.Bulls and Cows.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Bulls and Cows\bin\Debug\04.Bulls and Cows.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Bulls and Cows\bin\Debug\04.Bulls and Cows.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Bulls and Cows\obj\Debug\04.Bulls and Cows.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Bulls and Cows\obj\Debug\04.Bulls and Cows.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Bulls and Cows\obj\Debug\04.Bulls and Cows.pdb

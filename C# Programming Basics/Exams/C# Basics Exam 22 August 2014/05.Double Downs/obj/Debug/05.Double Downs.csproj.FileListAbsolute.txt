@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Double Downs\bin\Debug\05.Double Downs.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Double Downs\bin\Debug\05.Double Downs.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Double Downs\bin\Debug\05.Double Downs.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Double Downs\obj\Debug\05.Double Downs.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Double Downs\obj\Debug\05.Double Downs.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Double Downs\obj\Debug\05.Double Downs.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Double Downs\bin\Debug\05.Double Downs.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Double Downs\obj\Debug\05.Double Downs.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Double Downs\obj\Debug\05.Double Downs.pdb

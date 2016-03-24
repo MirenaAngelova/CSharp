@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Bits Up\bin\Debug\05.Bits Up.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Bits Up\bin\Debug\05.Bits Up.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Bits Up\bin\Debug\05.Bits Up.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Bits Up\obj\Debug\05.Bits Up.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Bits Up\obj\Debug\05.Bits Up.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Bits Up\obj\Debug\05.Bits Up.pdb

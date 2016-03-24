@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Tribonacci\bin\Debug\02.Tribonacci.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Tribonacci\bin\Debug\02.Tribonacci.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Tribonacci\bin\Debug\02.Tribonacci.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Tribonacci\obj\Debug\02.Tribonacci.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Tribonacci\obj\Debug\02.Tribonacci.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\02.Tribonacci\obj\Debug\02.Tribonacci.pdb

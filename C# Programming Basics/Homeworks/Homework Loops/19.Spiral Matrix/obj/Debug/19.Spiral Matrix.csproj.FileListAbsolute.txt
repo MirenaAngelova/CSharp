@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Loops\19.Spiral Matrix\bin\Debug\19.Spiral Matrix.exe.config
+C:\Users\Pete\Desktop\Homework Loops\19.Spiral Matrix\bin\Debug\19.Spiral Matrix.exe
+C:\Users\Pete\Desktop\Homework Loops\19.Spiral Matrix\bin\Debug\19.Spiral Matrix.pdb
+C:\Users\Pete\Desktop\Homework Loops\19.Spiral Matrix\obj\Debug\19.Spiral Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Loops\19.Spiral Matrix\obj\Debug\19.Spiral Matrix.exe
+C:\Users\Pete\Desktop\Homework Loops\19.Spiral Matrix\obj\Debug\19.Spiral Matrix.pdb

@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Programming Basics April 2\01.Joro, the Football Player\bin\Debug\01.Joro, the Football Player.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\01.Joro, the Football Player\bin\Debug\01.Joro, the Football Player.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\01.Joro, the Football Player\bin\Debug\01.Joro, the Football Player.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\01.Joro, the Football Player\obj\Debug\01.Joro, the Football Player.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Programming Basics April 2\01.Joro, the Football Player\obj\Debug\01.Joro, the Football Player.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\01.Joro, the Football Player\obj\Debug\01.Joro, the Football Player.pdb

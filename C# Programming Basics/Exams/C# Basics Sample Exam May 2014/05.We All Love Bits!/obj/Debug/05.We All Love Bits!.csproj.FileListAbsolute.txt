@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.We All Love Bits!\bin\Debug\05.We All Love Bits!.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.We All Love Bits!\bin\Debug\05.We All Love Bits!.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.We All Love Bits!\bin\Debug\05.We All Love Bits!.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.We All Love Bits!\obj\Debug\05.We All Love Bits!.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.We All Love Bits!\obj\Debug\05.We All Love Bits!.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.We All Love Bits!\obj\Debug\05.We All Love Bits!.pdb

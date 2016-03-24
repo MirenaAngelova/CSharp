@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\18.Odd or Even Sum\bin\Debug\18.Odd or Even Sum.exe.config
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\18.Odd or Even Sum\bin\Debug\18.Odd or Even Sum.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\18.Odd or Even Sum\bin\Debug\18.Odd or Even Sum.pdb
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\18.Odd or Even Sum\obj\Debug\18.Odd or Even Sum.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\18.Odd or Even Sum\obj\Debug\18.Odd or Even Sum.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\18.Odd or Even Sum\obj\Debug\18.Odd or Even Sum.pdb
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\18.Odd or Even Sum\bin\Debug\18.Odd or Even Sum.exe.config
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\18.Odd or Even Sum\obj\Debug\18.Odd or Even Sum.exe
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\18.Odd or Even Sum\obj\Debug\18.Odd or Even Sum.pdb

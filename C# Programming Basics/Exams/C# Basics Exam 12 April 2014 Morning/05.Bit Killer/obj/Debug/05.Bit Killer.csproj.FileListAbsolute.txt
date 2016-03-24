@@ -1,0 +1,9 @@
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\05.Bit Killer\bin\Debug\05.Bit Killer.exe.config
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\05.Bit Killer\bin\Debug\05.Bit Killer.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\05.Bit Killer\bin\Debug\05.Bit Killer.pdb
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\05.Bit Killer\obj\Debug\05.Bit Killer.csprojResolveAssemblyReference.cache
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\05.Bit Killer\obj\Debug\05.Bit Killer.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\05.Bit Killer\obj\Debug\05.Bit Killer.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Bit Killer\bin\Debug\05.Bit Killer.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Bit Killer\obj\Debug\05.Bit Killer.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Bit Killer\obj\Debug\05.Bit Killer.pdb

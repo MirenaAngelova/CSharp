@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Console Input Output\15.New House\bin\Debug\15.New House.exe.config
+C:\Users\Pete\Desktop\Homework Console Input Output\15.New House\bin\Debug\15.New House.exe
+C:\Users\Pete\Desktop\Homework Console Input Output\15.New House\bin\Debug\15.New House.pdb
+C:\Users\Pete\Desktop\Homework Console Input Output\15.New House\obj\Debug\15.New House.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Console Input Output\15.New House\obj\Debug\15.New House.exe
+C:\Users\Pete\Desktop\Homework Console Input Output\15.New House\obj\Debug\15.New House.pdb

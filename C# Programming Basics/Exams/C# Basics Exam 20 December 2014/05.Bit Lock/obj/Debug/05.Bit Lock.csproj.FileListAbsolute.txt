@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Bit Lock\bin\Debug\05.Bit Lock.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Bit Lock\bin\Debug\05.Bit Lock.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Bit Lock\bin\Debug\05.Bit Lock.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Bit Lock\obj\Debug\05.Bit Lock.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Bit Lock\obj\Debug\05.Bit Lock.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Bit Lock\obj\Debug\05.Bit Lock.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Bit Lock\bin\Debug\05.Bit Lock.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Bit Lock\obj\Debug\05.Bit Lock.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Bit Lock\obj\Debug\05.Bit Lock.pdb

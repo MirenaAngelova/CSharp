@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\12.Null Values Arithmetic\bin\Debug\12.Null Values Arithmetic.exe.config
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\12.Null Values Arithmetic\bin\Debug\12.Null Values Arithmetic.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\12.Null Values Arithmetic\bin\Debug\12.Null Values Arithmetic.pdb
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\12.Null Values Arithmetic\obj\Debug\12.Null Values Arithmetic.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\12.Null Values Arithmetic\obj\Debug\12.Null Values Arithmetic.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\12.Null Values Arithmetic\obj\Debug\12.Null Values Arithmetic.pdb

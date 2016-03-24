@@ -1,0 +1,9 @@
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Magic Strings\bin\Debug\04.Magic Strings.exe.config
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Magic Strings\bin\Debug\04.Magic Strings.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Magic Strings\bin\Debug\04.Magic Strings.pdb
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Magic Strings\obj\Debug\04.Magic Strings.csprojResolveAssemblyReference.cache
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Magic Strings\obj\Debug\04.Magic Strings.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Magic Strings\obj\Debug\04.Magic Strings.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Magic Strings\bin\Debug\04.Magic Strings.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Magic Strings\obj\Debug\04.Magic Strings.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Magic Strings\obj\Debug\04.Magic Strings.pdb

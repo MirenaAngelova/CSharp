@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Programming Basics April 2\01.Triangle\bin\Debug\01.Triangle.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\01.Triangle\bin\Debug\01.Triangle.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\01.Triangle\bin\Debug\01.Triangle.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\01.Triangle\obj\Debug\01.Triangle.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Programming Basics April 2\01.Triangle\obj\Debug\01.Triangle.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\01.Triangle\obj\Debug\01.Triangle.pdb

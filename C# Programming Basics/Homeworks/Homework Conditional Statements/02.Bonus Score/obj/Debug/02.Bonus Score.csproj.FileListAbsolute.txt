@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Conditional Statements\02.Bonus Score\bin\Debug\02.Bonus Score.exe.config
+C:\Users\Pete\Desktop\Homework Conditional Statements\02.Bonus Score\bin\Debug\02.Bonus Score.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\02.Bonus Score\bin\Debug\02.Bonus Score.pdb
+C:\Users\Pete\Desktop\Homework Conditional Statements\02.Bonus Score\obj\Debug\02.Bonus Score.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Conditional Statements\02.Bonus Score\obj\Debug\02.Bonus Score.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\02.Bonus Score\obj\Debug\02.Bonus Score.pdb

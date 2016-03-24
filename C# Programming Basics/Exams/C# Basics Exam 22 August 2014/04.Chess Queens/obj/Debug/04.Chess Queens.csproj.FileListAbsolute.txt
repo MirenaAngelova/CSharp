@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Chess Queens\bin\Debug\04.Chess Queens.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Chess Queens\bin\Debug\04.Chess Queens.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Chess Queens\bin\Debug\04.Chess Queens.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Chess Queens\obj\Debug\04.Chess Queens.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Chess Queens\obj\Debug\04.Chess Queens.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Chess Queens\obj\Debug\04.Chess Queens.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\04.Chess Queens\bin\Debug\04.Chess Queens.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics July 3\04.Chess Queens\obj\Debug\04.Chess Queens.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\04.Chess Queens\obj\Debug\04.Chess Queens.pdb

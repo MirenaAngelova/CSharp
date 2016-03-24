@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\19.Bits Inverter\bin\Debug\19.Bits Inverter.exe.config
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\19.Bits Inverter\bin\Debug\19.Bits Inverter.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\19.Bits Inverter\bin\Debug\19.Bits Inverter.pdb
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\19.Bits Inverter\obj\Debug\19.Bits Inverter.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\19.Bits Inverter\obj\Debug\19.Bits Inverter.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\19.Bits Inverter\obj\Debug\19.Bits Inverter.pdb
+D:\SOFTUNI\Homeworks\Homework Primitive Data Types and Variables\19.Bits Inverter\bin\Debug\19.Bits Inverter.exe.config
+D:\SOFTUNI\Homeworks\Homework Primitive Data Types and Variables\19.Bits Inverter\obj\Debug\19.Bits Inverter.exe
+D:\SOFTUNI\Homeworks\Homework Primitive Data Types and Variables\19.Bits Inverter\obj\Debug\19.Bits Inverter.pdb

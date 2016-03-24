@@ -1,0 +1,5 @@
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\03.Variable in Hexadecimal Format\bin\Debug\03.Variable in Hexadecimal Format.exe.config
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\03.Variable in Hexadecimal Format\bin\Debug\03.Variable in Hexadecimal Format.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\03.Variable in Hexadecimal Format\bin\Debug\03.Variable in Hexadecimal Format.pdb
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\03.Variable in Hexadecimal Format\obj\Debug\03.Variable in Hexadecimal Format.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\03.Variable in Hexadecimal Format\obj\Debug\03.Variable in Hexadecimal Format.pdb

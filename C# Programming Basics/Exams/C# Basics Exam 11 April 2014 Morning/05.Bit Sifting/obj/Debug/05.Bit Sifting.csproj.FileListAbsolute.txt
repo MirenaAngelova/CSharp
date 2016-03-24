@@ -1,0 +1,9 @@
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\05.Bit Sifting\bin\Debug\05.Bit Sifting.exe.config
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\05.Bit Sifting\bin\Debug\05.Bit Sifting.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\05.Bit Sifting\bin\Debug\05.Bit Sifting.pdb
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\05.Bit Sifting\obj\Debug\05.Bit Sifting.csprojResolveAssemblyReference.cache
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\05.Bit Sifting\obj\Debug\05.Bit Sifting.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\05.Bit Sifting\obj\Debug\05.Bit Sifting.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Bit Sifting\bin\Debug\05.Bit Sifting.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Bit Sifting\obj\Debug\05.Bit Sifting.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Bit Sifting\obj\Debug\05.Bit Sifting.pdb

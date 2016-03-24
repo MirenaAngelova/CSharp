@@ -1,0 +1,12 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Bit Builder\bin\Debug\05.Bit Builder.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Bit Builder\bin\Debug\05.Bit Builder.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Bit Builder\bin\Debug\05.Bit Builder.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Bit Builder\obj\Debug\05.Bit Builder.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Bit Builder\obj\Debug\05.Bit Builder.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\05.Bit Builder\obj\Debug\05.Bit Builder.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Bit Builder\bin\Debug\05.Bit Builder.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Bit Builder\obj\Debug\05.Bit Builder.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Bit Builder\obj\Debug\05.Bit Builder.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Bit Builder\bin\Debug\05.Bit Builder.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Bit Builder\bin\Debug\05.Bit Builder.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\05.Bit Builder\obj\Debug\05.Bit Builder.csprojResolveAssemblyReference.cache

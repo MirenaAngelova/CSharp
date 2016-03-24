@@ -1,0 +1,8 @@
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\03.Divide by 7 and 5\bin\Debug\03.Divide by 7 and 5.exe.config
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\03.Divide by 7 and 5\bin\Debug\03.Divide by 7 and 5.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\03.Divide by 7 and 5\bin\Debug\03.Divide by 7 and 5.pdb
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\03.Divide by 7 and 5\obj\Debug\03.Divide by 7 and 5.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\03.Divide by 7 and 5\obj\Debug\03.Divide by 7 and 5.pdb
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\03.Divide by 7 and 5\bin\Debug\03.Divide by 7 and 5.exe.config
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\03.Divide by 7 and 5\obj\Debug\03.Divide by 7 and 5.exe
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\03.Divide by 7 and 5\obj\Debug\03.Divide by 7 and 5.pdb

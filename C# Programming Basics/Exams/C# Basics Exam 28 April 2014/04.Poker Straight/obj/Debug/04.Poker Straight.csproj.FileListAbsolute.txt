@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Poker Straight\bin\Debug\04.Poker Straight.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Poker Straight\bin\Debug\04.Poker Straight.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Poker Straight\bin\Debug\04.Poker Straight.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Poker Straight\obj\Debug\04.Poker Straight.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Poker Straight\obj\Debug\04.Poker Straight.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Poker Straight\obj\Debug\04.Poker Straight.pdb

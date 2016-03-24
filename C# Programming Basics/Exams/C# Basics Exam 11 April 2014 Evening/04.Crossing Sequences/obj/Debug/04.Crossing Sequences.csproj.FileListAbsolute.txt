@@ -1,0 +1,9 @@
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Crossing Sequences\bin\Debug\04.Crossing Sequences.exe.config
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Crossing Sequences\bin\Debug\04.Crossing Sequences.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Crossing Sequences\bin\Debug\04.Crossing Sequences.pdb
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Crossing Sequences\obj\Debug\04.Crossing Sequences.csprojResolveAssemblyReference.cache
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Crossing Sequences\obj\Debug\04.Crossing Sequences.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\04.Crossing Sequences\obj\Debug\04.Crossing Sequences.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Crossing Sequences\bin\Debug\04.Crossing Sequences.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Crossing Sequences\obj\Debug\04.Crossing Sequences.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Crossing Sequences\obj\Debug\04.Crossing Sequences.pdb

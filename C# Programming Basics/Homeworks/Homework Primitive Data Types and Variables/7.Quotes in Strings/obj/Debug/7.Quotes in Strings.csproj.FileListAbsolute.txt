@@ -1,0 +1,5 @@
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\7.Quotes in Strings\bin\Debug\7.Quotes in Strings.exe.config
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\7.Quotes in Strings\bin\Debug\7.Quotes in Strings.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\7.Quotes in Strings\bin\Debug\7.Quotes in Strings.pdb
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\7.Quotes in Strings\obj\Debug\7.Quotes in Strings.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\7.Quotes in Strings\obj\Debug\7.Quotes in Strings.pdb

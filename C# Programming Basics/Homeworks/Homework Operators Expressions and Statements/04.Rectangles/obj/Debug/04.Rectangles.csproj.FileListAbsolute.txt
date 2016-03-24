@@ -1,0 +1,8 @@
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\04.Rectangles\bin\Debug\04.Rectangles.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\04.Rectangles\bin\Debug\04.Rectangles.pdb
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\04.Rectangles\obj\Debug\04.Rectangles.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\04.Rectangles\obj\Debug\04.Rectangles.pdb
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\04.Rectangles\obj\Debug\04.Rectangles.exe
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\04.Rectangles\obj\Debug\04.Rectangles.pdb

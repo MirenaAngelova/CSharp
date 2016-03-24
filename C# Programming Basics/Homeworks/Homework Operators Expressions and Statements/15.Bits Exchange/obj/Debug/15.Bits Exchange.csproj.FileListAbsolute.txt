@@ -1,0 +1,11 @@
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\15.Bits Exchange\bin\Debug\15.Bits Exchange.exe.config
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\15.Bits Exchange\bin\Debug\15.Bits Exchange.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\15.Bits Exchange\bin\Debug\15.Bits Exchange.pdb
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\15.Bits Exchange\obj\Debug\15.Bits Exchange.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\15.Bits Exchange\obj\Debug\15.Bits Exchange.pdb
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\15.Bits Exchange\bin\Debug\15.Bits Exchange.exe.config
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\15.Bits Exchange\obj\Debug\15.Bits Exchange.exe
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\15.Bits Exchange\obj\Debug\15.Bits Exchange.pdb
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\15.Bits Exchange\bin\Debug\15.Bits Exchange.exe
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\15.Bits Exchange\bin\Debug\15.Bits Exchange.pdb
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\15.Bits Exchange\obj\Debug\15.Bits Exchange.csprojResolveAssemblyReference.cache

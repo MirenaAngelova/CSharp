@@ -1,0 +1,9 @@
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\03.Eclipse\bin\Debug\03.Eclipse.exe.config
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\03.Eclipse\bin\Debug\03.Eclipse.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\03.Eclipse\bin\Debug\03.Eclipse.pdb
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\03.Eclipse\obj\Debug\03.Eclipse.csprojResolveAssemblyReference.cache
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\03.Eclipse\obj\Debug\03.Eclipse.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\03.Eclipse\obj\Debug\03.Eclipse.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\03.Eclipse\bin\Debug\03.Eclipse.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\03.Eclipse\obj\Debug\03.Eclipse.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\03.Eclipse\obj\Debug\03.Eclipse.pdb

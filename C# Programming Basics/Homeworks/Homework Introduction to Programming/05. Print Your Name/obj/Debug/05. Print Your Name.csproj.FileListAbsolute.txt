@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Introduction to Programming\05. Print Your Name\bin\Debug\_05.Print_Your_Name.exe.config
+C:\Users\Pete\Desktop\Homework Introduction to Programming\05. Print Your Name\bin\Debug\_05.Print_Your_Name.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\05. Print Your Name\bin\Debug\_05.Print_Your_Name.pdb
+C:\Users\Pete\Desktop\Homework Introduction to Programming\05. Print Your Name\obj\Debug\05. Print Your Name.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Introduction to Programming\05. Print Your Name\obj\Debug\_05.Print_Your_Name.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\05. Print Your Name\obj\Debug\_05.Print_Your_Name.pdb

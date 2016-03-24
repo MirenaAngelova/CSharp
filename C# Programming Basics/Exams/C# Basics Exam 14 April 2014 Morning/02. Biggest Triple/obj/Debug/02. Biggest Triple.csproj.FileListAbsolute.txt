@@ -1,0 +1,12 @@
+C:\Users\Pete\Desktop\Programming Basics April\02. Biggest Triple\bin\Debug\_02.Biggest_Triple.exe.config
+C:\Users\Pete\Desktop\Programming Basics April\02. Biggest Triple\bin\Debug\_02.Biggest_Triple.exe
+C:\Users\Pete\Desktop\Programming Basics April\02. Biggest Triple\bin\Debug\_02.Biggest_Triple.pdb
+C:\Users\Pete\Desktop\Programming Basics April\02. Biggest Triple\obj\Debug\02. Biggest Triple.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics April\02. Biggest Triple\obj\Debug\_02.Biggest_Triple.exe
+C:\Users\Pete\Desktop\Programming Basics April\02. Biggest Triple\obj\Debug\_02.Biggest_Triple.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April\02. Biggest Triple\bin\Debug\_02.Biggest_Triple.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April\02. Biggest Triple\obj\Debug\_02.Biggest_Triple.exe
+D:\SOFTUNI\Exsersises\Programming Basics April\02. Biggest Triple\obj\Debug\_02.Biggest_Triple.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April\02. Biggest Triple\bin\Debug\_02.Biggest_Triple.exe
+D:\SOFTUNI\Exsersises\Programming Basics April\02. Biggest Triple\bin\Debug\_02.Biggest_Triple.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April\02. Biggest Triple\obj\Debug\02. Biggest Triple.csprojResolveAssemblyReference.cache

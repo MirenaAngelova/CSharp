@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Spiral Matrix\bin\Debug\04.Spiral Matrix.exe.config
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Spiral Matrix\bin\Debug\04.Spiral Matrix.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Spiral Matrix\bin\Debug\04.Spiral Matrix.pdb
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Spiral Matrix\obj\Debug\04.Spiral Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Spiral Matrix\obj\Debug\04.Spiral Matrix.exe
+C:\Users\Pete\Desktop\Programming Basics July 3\04.Spiral Matrix\obj\Debug\04.Spiral Matrix.pdb
+D:\SOFTUNI\Exsersises\Programming Basics July 3\04.Spiral Matrix\bin\Debug\04.Spiral Matrix.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics July 3\04.Spiral Matrix\obj\Debug\04.Spiral Matrix.exe
+D:\SOFTUNI\Exsersises\Programming Basics July 3\04.Spiral Matrix\obj\Debug\04.Spiral Matrix.pdb

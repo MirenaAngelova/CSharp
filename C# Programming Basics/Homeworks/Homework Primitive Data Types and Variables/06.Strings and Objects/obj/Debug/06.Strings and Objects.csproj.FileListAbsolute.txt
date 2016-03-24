@@ -1,0 +1,5 @@
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\06.Strings and Objects\bin\Debug\06.Strings and Objects.exe.config
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\06.Strings and Objects\bin\Debug\06.Strings and Objects.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\06.Strings and Objects\bin\Debug\06.Strings and Objects.pdb
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\06.Strings and Objects\obj\Debug\06.Strings and Objects.exe
+C:\Users\Pete\Desktop\Homework Primitive Data Types and Variables\06.Strings and Objects\obj\Debug\06.Strings and Objects.pdb

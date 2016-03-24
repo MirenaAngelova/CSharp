@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\14.Bit Flipper\bin\Debug\14.Bit Flipper.exe.config
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\14.Bit Flipper\bin\Debug\14.Bit Flipper.exe
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\14.Bit Flipper\bin\Debug\14.Bit Flipper.pdb
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\14.Bit Flipper\obj\Debug\14.Bit Flipper.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\14.Bit Flipper\obj\Debug\14.Bit Flipper.exe
+C:\Users\Pete\Desktop\Homework CSharp Advanced Topics\14.Bit Flipper\obj\Debug\14.Bit Flipper.pdb

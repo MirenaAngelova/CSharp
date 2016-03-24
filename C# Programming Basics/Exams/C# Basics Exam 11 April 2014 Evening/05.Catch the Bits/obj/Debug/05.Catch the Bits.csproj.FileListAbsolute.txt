@@ -1,0 +1,9 @@
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\05.Catch the Bits\bin\Debug\05.Catch the Bits.exe.config
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\05.Catch the Bits\bin\Debug\05.Catch the Bits.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\05.Catch the Bits\bin\Debug\05.Catch the Bits.pdb
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\05.Catch the Bits\obj\Debug\05.Catch the Bits.csprojResolveAssemblyReference.cache
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\05.Catch the Bits\obj\Debug\05.Catch the Bits.exe
+c:\users\pete\documents\visual studio 2013\Projects\Programming Basics April 2\05.Catch the Bits\obj\Debug\05.Catch the Bits.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Catch the Bits\bin\Debug\05.Catch the Bits.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Catch the Bits\obj\Debug\05.Catch the Bits.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\05.Catch the Bits\obj\Debug\05.Catch the Bits.pdb

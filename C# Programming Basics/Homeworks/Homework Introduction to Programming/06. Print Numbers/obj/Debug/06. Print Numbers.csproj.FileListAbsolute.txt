@@ -1,0 +1,5 @@
+C:\Users\Pete\Desktop\Homework Introduction to Programming\06. Print Numbers\bin\Debug\_06.Print_Numbers.exe.config
+C:\Users\Pete\Desktop\Homework Introduction to Programming\06. Print Numbers\bin\Debug\_06.Print_Numbers.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\06. Print Numbers\bin\Debug\_06.Print_Numbers.pdb
+C:\Users\Pete\Desktop\Homework Introduction to Programming\06. Print Numbers\obj\Debug\_06.Print_Numbers.exe
+C:\Users\Pete\Desktop\Homework Introduction to Programming\06. Print Numbers\obj\Debug\_06.Print_Numbers.pdb

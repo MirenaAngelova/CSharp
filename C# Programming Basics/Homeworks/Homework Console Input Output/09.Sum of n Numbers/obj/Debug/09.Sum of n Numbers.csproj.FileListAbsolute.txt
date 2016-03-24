@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Console Input Output\09.Sum of n Numbers\bin\Debug\09.Sum of n Numbers.exe.config
+C:\Users\Pete\Desktop\Homework Console Input Output\09.Sum of n Numbers\bin\Debug\09.Sum of n Numbers.exe
+C:\Users\Pete\Desktop\Homework Console Input Output\09.Sum of n Numbers\bin\Debug\09.Sum of n Numbers.pdb
+C:\Users\Pete\Desktop\Homework Console Input Output\09.Sum of n Numbers\obj\Debug\09.Sum of n Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Console Input Output\09.Sum of n Numbers\obj\Debug\09.Sum of n Numbers.exe
+C:\Users\Pete\Desktop\Homework Console Input Output\09.Sum of n Numbers\obj\Debug\09.Sum of n Numbers.pdb

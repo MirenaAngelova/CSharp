@@ -1,0 +1,8 @@
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\02.Gravitation on the Moon\bin\Debug\02.Gravitation on the Moon.exe.config
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\02.Gravitation on the Moon\bin\Debug\02.Gravitation on the Moon.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\02.Gravitation on the Moon\bin\Debug\02.Gravitation on the Moon.pdb
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\02.Gravitation on the Moon\obj\Debug\02.Gravitation on the Moon.exe
+C:\Users\Pete\Desktop\Homework Operators Expressions and Statements\02.Gravitation on the Moon\obj\Debug\02.Gravitation on the Moon.pdb
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\02.Gravitation on the Moon\bin\Debug\02.Gravitation on the Moon.exe.config
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\02.Gravitation on the Moon\obj\Debug\02.Gravitation on the Moon.exe
+D:\SOFTUNI\Homeworks\Homework Operators Expressions and Statements\02.Gravitation on the Moon\obj\Debug\02.Gravitation on the Moon.pdb

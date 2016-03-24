@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Conditional Statements\14.Pairs\bin\Debug\14.Pairs.exe.config
+C:\Users\Pete\Desktop\Homework Conditional Statements\14.Pairs\bin\Debug\14.Pairs.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\14.Pairs\bin\Debug\14.Pairs.pdb
+C:\Users\Pete\Desktop\Homework Conditional Statements\14.Pairs\obj\Debug\14.Pairs.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Conditional Statements\14.Pairs\obj\Debug\14.Pairs.exe
+C:\Users\Pete\Desktop\Homework Conditional Statements\14.Pairs\obj\Debug\14.Pairs.pdb

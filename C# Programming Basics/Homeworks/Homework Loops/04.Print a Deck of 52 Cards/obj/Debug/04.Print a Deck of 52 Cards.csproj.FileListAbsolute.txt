@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Loops\04.Print a Deck of 52 Cards\bin\Debug\04.Print a Deck of 52 Cards.exe.config
+C:\Users\Pete\Desktop\Homework Loops\04.Print a Deck of 52 Cards\bin\Debug\04.Print a Deck of 52 Cards.exe
+C:\Users\Pete\Desktop\Homework Loops\04.Print a Deck of 52 Cards\bin\Debug\04.Print a Deck of 52 Cards.pdb
+C:\Users\Pete\Desktop\Homework Loops\04.Print a Deck of 52 Cards\obj\Debug\04.Print a Deck of 52 Cards.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Loops\04.Print a Deck of 52 Cards\obj\Debug\04.Print a Deck of 52 Cards.exe
+C:\Users\Pete\Desktop\Homework Loops\04.Print a Deck of 52 Cards\obj\Debug\04.Print a Deck of 52 Cards.pdb

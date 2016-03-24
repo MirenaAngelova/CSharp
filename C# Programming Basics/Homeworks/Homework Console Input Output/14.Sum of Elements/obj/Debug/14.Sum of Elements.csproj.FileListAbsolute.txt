@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Console Input Output\14.Sum of Elements\bin\Debug\14.Sum of Elements.exe.config
+C:\Users\Pete\Desktop\Homework Console Input Output\14.Sum of Elements\bin\Debug\14.Sum of Elements.exe
+C:\Users\Pete\Desktop\Homework Console Input Output\14.Sum of Elements\bin\Debug\14.Sum of Elements.pdb
+C:\Users\Pete\Desktop\Homework Console Input Output\14.Sum of Elements\obj\Debug\14.Sum of Elements.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Console Input Output\14.Sum of Elements\obj\Debug\14.Sum of Elements.exe
+C:\Users\Pete\Desktop\Homework Console Input Output\14.Sum of Elements\obj\Debug\14.Sum of Elements.pdb

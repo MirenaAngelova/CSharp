@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Nine Digit Magic Numbers\bin\Debug\04.Nine Digit Magic Numbers.exe.config
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Nine Digit Magic Numbers\bin\Debug\04.Nine Digit Magic Numbers.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Nine Digit Magic Numbers\bin\Debug\04.Nine Digit Magic Numbers.pdb
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Nine Digit Magic Numbers\obj\Debug\04.Nine Digit Magic Numbers.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Nine Digit Magic Numbers\obj\Debug\04.Nine Digit Magic Numbers.exe
+D:\SOFTUNI\Exsersises\Programming Basics April 2\04.Nine Digit Magic Numbers\obj\Debug\04.Nine Digit Magic Numbers.pdb

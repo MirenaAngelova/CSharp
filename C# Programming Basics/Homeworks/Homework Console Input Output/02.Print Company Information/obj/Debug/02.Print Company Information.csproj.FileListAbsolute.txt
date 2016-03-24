@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework Console Input Output\02.Print Company Information\bin\Debug\02.Print Company Information.exe.config
+C:\Users\Pete\Desktop\Homework Console Input Output\02.Print Company Information\bin\Debug\02.Print Company Information.exe
+C:\Users\Pete\Desktop\Homework Console Input Output\02.Print Company Information\bin\Debug\02.Print Company Information.pdb
+C:\Users\Pete\Desktop\Homework Console Input Output\02.Print Company Information\obj\Debug\02.Print Company Information.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework Console Input Output\02.Print Company Information\obj\Debug\02.Print Company Information.exe
+C:\Users\Pete\Desktop\Homework Console Input Output\02.Print Company Information\obj\Debug\02.Print Company Information.pdb
