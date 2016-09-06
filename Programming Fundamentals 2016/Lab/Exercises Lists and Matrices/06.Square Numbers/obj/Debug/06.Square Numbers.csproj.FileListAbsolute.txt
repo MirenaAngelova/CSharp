@@ -1,0 +1,6 @@
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\06.Square Numbers\bin\Debug\06.Square Numbers.exe.config
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\06.Square Numbers\bin\Debug\06.Square Numbers.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\06.Square Numbers\bin\Debug\06.Square Numbers.pdb
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\06.Square Numbers\obj\Debug\06.Square Numbers.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\06.Square Numbers\obj\Debug\06.Square Numbers.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\06.Square Numbers\obj\Debug\06.Square Numbers.pdb

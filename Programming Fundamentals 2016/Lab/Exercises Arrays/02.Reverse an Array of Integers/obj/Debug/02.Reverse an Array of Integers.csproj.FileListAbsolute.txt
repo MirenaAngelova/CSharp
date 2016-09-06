@@ -1,0 +1,5 @@
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Arrays\02.Reverse an Array of Integers\bin\Debug\02.Reverse an Array of Integers.exe.config
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Arrays\02.Reverse an Array of Integers\bin\Debug\02.Reverse an Array of Integers.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Arrays\02.Reverse an Array of Integers\bin\Debug\02.Reverse an Array of Integers.pdb
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Arrays\02.Reverse an Array of Integers\obj\Debug\02.Reverse an Array of Integers.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Arrays\02.Reverse an Array of Integers\obj\Debug\02.Reverse an Array of Integers.pdb

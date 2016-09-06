@@ -1,0 +1,6 @@
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\09.Rotate a Matrix\bin\Debug\09.Rotate a Matrix.exe.config
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\09.Rotate a Matrix\bin\Debug\09.Rotate a Matrix.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\09.Rotate a Matrix\bin\Debug\09.Rotate a Matrix.pdb
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\09.Rotate a Matrix\obj\Debug\09.Rotate a Matrix.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\09.Rotate a Matrix\obj\Debug\09.Rotate a Matrix.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\09.Rotate a Matrix\obj\Debug\09.Rotate a Matrix.pdb

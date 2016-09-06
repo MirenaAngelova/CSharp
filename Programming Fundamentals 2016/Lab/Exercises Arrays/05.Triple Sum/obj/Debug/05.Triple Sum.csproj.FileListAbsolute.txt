@@ -1,0 +1,5 @@
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Arrays\05.Triple Sum\bin\Debug\05.Triple Sum.exe.config
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Arrays\05.Triple Sum\bin\Debug\05.Triple Sum.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Arrays\05.Triple Sum\bin\Debug\05.Triple Sum.pdb
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Arrays\05.Triple Sum\obj\Debug\05.Triple Sum.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Arrays\05.Triple Sum\obj\Debug\05.Triple Sum.pdb

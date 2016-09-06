@@ -1,0 +1,6 @@
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\02.Rotate and Sum\bin\Debug\02.Rotate and Sum.exe.config
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\02.Rotate and Sum\bin\Debug\02.Rotate and Sum.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\02.Rotate and Sum\bin\Debug\02.Rotate and Sum.pdb
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\02.Rotate and Sum\obj\Debug\02.Rotate and Sum.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\02.Rotate and Sum\obj\Debug\02.Rotate and Sum.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\02.Rotate and Sum\obj\Debug\02.Rotate and Sum.pdb

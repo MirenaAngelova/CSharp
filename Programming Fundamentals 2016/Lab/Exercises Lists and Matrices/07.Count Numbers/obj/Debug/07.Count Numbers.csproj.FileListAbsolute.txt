@@ -1,0 +1,6 @@
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\07.Count Numbers\bin\Debug\07.Count Numbers.exe.config
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\07.Count Numbers\bin\Debug\07.Count Numbers.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\07.Count Numbers\bin\Debug\07.Count Numbers.pdb
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\07.Count Numbers\obj\Debug\07.Count Numbers.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\07.Count Numbers\obj\Debug\07.Count Numbers.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\07.Count Numbers\obj\Debug\07.Count Numbers.pdb

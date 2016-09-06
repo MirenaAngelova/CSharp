@@ -1,0 +1,6 @@
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\05.Sort Numbers\bin\Debug\05.Sort Numbers.exe.config
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\05.Sort Numbers\bin\Debug\05.Sort Numbers.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\05.Sort Numbers\bin\Debug\05.Sort Numbers.pdb
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\05.Sort Numbers\obj\Debug\05.Sort Numbers.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\05.Sort Numbers\obj\Debug\05.Sort Numbers.pdb
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\05.Sort Numbers\obj\Debug\05.Sort Numbers.csprojResolveAssemblyReference.cache

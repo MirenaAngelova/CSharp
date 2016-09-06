@@ -1,0 +1,6 @@
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\08.Build a Matrix of Letters\bin\Debug\08.Build a Matrix of Letters.exe.config
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\08.Build a Matrix of Letters\bin\Debug\08.Build a Matrix of Letters.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\08.Build a Matrix of Letters\bin\Debug\08.Build a Matrix of Letters.pdb
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\08.Build a Matrix of Letters\obj\Debug\08.Build a Matrix of Letters.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\08.Build a Matrix of Letters\obj\Debug\08.Build a Matrix of Letters.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\08.Build a Matrix of Letters\obj\Debug\08.Build a Matrix of Letters.pdb

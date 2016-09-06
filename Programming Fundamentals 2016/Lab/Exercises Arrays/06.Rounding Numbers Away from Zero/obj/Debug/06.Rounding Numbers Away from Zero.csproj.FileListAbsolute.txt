@@ -1,0 +1,5 @@
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Arrays\06.Rounding Numbers Away from Zero\bin\Debug\06.Rounding Numbers Away from Zero.exe.config
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Arrays\06.Rounding Numbers Away from Zero\bin\Debug\06.Rounding Numbers Away from Zero.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Arrays\06.Rounding Numbers Away from Zero\bin\Debug\06.Rounding Numbers Away from Zero.pdb
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Arrays\06.Rounding Numbers Away from Zero\obj\Debug\06.Rounding Numbers Away from Zero.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Arrays\06.Rounding Numbers Away from Zero\obj\Debug\06.Rounding Numbers Away from Zero.pdb

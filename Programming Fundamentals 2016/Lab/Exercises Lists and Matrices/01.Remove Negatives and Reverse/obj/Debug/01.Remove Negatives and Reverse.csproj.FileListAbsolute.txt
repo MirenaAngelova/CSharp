@@ -1,0 +1,6 @@
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\01.Remove Negatives and Reverse\bin\Debug\01.Remove Negatives and Reverse.exe.config
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\01.Remove Negatives and Reverse\bin\Debug\01.Remove Negatives and Reverse.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\01.Remove Negatives and Reverse\bin\Debug\01.Remove Negatives and Reverse.pdb
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\01.Remove Negatives and Reverse\obj\Debug\01.Remove Negatives and Reverse.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\01.Remove Negatives and Reverse\obj\Debug\01.Remove Negatives and Reverse.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\01.Remove Negatives and Reverse\obj\Debug\01.Remove Negatives and Reverse.pdb

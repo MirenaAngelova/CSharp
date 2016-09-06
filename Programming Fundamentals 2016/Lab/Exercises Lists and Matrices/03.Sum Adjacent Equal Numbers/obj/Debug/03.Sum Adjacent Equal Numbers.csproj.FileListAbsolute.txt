@@ -1,0 +1,6 @@
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\03.Sum Adjacent Equal Numbers\bin\Debug\03.Sum Adjacent Equal Numbers.exe.config
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\03.Sum Adjacent Equal Numbers\bin\Debug\03.Sum Adjacent Equal Numbers.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\03.Sum Adjacent Equal Numbers\bin\Debug\03.Sum Adjacent Equal Numbers.pdb
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\03.Sum Adjacent Equal Numbers\obj\Debug\03.Sum Adjacent Equal Numbers.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\03.Sum Adjacent Equal Numbers\obj\Debug\03.Sum Adjacent Equal Numbers.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Lab\Exercises Lists and Matrices\03.Sum Adjacent Equal Numbers\obj\Debug\03.Sum Adjacent Equal Numbers.pdb

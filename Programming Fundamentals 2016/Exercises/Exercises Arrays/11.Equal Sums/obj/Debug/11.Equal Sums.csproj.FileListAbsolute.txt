@@ -1,0 +1,6 @@
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\11.Equal Sums\bin\Debug\11.Equal Sums.exe.config
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\11.Equal Sums\bin\Debug\11.Equal Sums.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\11.Equal Sums\bin\Debug\11.Equal Sums.pdb
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\11.Equal Sums\obj\Debug\11.Equal Sums.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\11.Equal Sums\obj\Debug\11.Equal Sums.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\11.Equal Sums\obj\Debug\11.Equal Sums.pdb

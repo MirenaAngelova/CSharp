@@ -1,0 +1,6 @@
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\07.Max Sequence of Increasing Elements\bin\Debug\07.Max Sequence of Increasing Elements.exe.config
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\07.Max Sequence of Increasing Elements\bin\Debug\07.Max Sequence of Increasing Elements.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\07.Max Sequence of Increasing Elements\bin\Debug\07.Max Sequence of Increasing Elements.pdb
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\07.Max Sequence of Increasing Elements\obj\Debug\07.Max Sequence of Increasing Elements.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\07.Max Sequence of Increasing Elements\obj\Debug\07.Max Sequence of Increasing Elements.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\07.Max Sequence of Increasing Elements\obj\Debug\07.Max Sequence of Increasing Elements.pdb

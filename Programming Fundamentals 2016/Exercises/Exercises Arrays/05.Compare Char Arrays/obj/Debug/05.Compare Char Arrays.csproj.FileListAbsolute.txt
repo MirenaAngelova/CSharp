@@ -1,0 +1,6 @@
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\05.Compare Char Arrays\bin\Debug\05.Compare Char Arrays.exe.config
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\05.Compare Char Arrays\bin\Debug\05.Compare Char Arrays.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\05.Compare Char Arrays\bin\Debug\05.Compare Char Arrays.pdb
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\05.Compare Char Arrays\obj\Debug\05.Compare Char Arrays.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\05.Compare Char Arrays\obj\Debug\05.Compare Char Arrays.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\05.Compare Char Arrays\obj\Debug\05.Compare Char Arrays.pdb

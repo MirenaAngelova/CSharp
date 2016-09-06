@@ -1,0 +1,6 @@
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\04.Sieve of Eratosthenes\bin\Debug\04.Sieve of Eratosthenes.exe.config
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\04.Sieve of Eratosthenes\bin\Debug\04.Sieve of Eratosthenes.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\04.Sieve of Eratosthenes\bin\Debug\04.Sieve of Eratosthenes.pdb
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\04.Sieve of Eratosthenes\obj\Debug\04.Sieve of Eratosthenes.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\04.Sieve of Eratosthenes\obj\Debug\04.Sieve of Eratosthenes.exe
+D:\SOFTUNI\Programming Fundamentals 2016\Exercises\Exercises Arrays\04.Sieve of Eratosthenes\obj\Debug\04.Sieve of Eratosthenes.pdb
