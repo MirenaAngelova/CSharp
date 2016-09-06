@@ -1,0 +1,6 @@
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\17.Lego Blocks\bin\Debug\17.Lego Blocks.exe.config
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\17.Lego Blocks\bin\Debug\17.Lego Blocks.exe
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\17.Lego Blocks\bin\Debug\17.Lego Blocks.pdb
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\17.Lego Blocks\obj\Debug\17.Lego Blocks.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\17.Lego Blocks\obj\Debug\17.Lego Blocks.exe
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\17.Lego Blocks\obj\Debug\17.Lego Blocks.pdb

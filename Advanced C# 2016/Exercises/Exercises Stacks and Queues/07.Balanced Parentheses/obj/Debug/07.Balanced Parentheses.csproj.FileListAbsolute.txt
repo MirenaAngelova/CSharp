@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exams\Exercises Stacks and Queues\07.Balanced Parentheses\bin\Debug\07.Balanced Parentheses.exe.config
+D:\SOFTUNI\Algorithms\Exams\Exercises Stacks and Queues\07.Balanced Parentheses\bin\Debug\07.Balanced Parentheses.exe
+D:\SOFTUNI\Algorithms\Exams\Exercises Stacks and Queues\07.Balanced Parentheses\bin\Debug\07.Balanced Parentheses.pdb
+D:\SOFTUNI\Algorithms\Exams\Exercises Stacks and Queues\07.Balanced Parentheses\obj\Debug\07.Balanced Parentheses.exe
+D:\SOFTUNI\Algorithms\Exams\Exercises Stacks and Queues\07.Balanced Parentheses\obj\Debug\07.Balanced Parentheses.pdb
+D:\SOFTUNI\Algorithms\Exams\Exercises Stacks and Queues\07.Balanced Parentheses\obj\Debug\07.Balanced Parentheses.csprojResolveAssemblyReference.cache

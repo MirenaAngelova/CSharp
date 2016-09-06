@@ -1,0 +1,9 @@
+D:\SOFTUNI\Algorithms\Exams\Exercises Stacks and Queues\03.Maximum Element\bin\Debug\03.Maximum Element.exe.config
+D:\SOFTUNI\Algorithms\Exams\Exercises Stacks and Queues\03.Maximum Element\bin\Debug\03.Maximum Element.exe
+D:\SOFTUNI\Algorithms\Exams\Exercises Stacks and Queues\03.Maximum Element\bin\Debug\03.Maximum Element.pdb
+D:\SOFTUNI\Algorithms\Exams\Exercises Stacks and Queues\03.Maximum Element\obj\Debug\03.Maximum Element.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exams\Exercises Stacks and Queues\03.Maximum Element\obj\Debug\03.Maximum Element.exe
+D:\SOFTUNI\Algorithms\Exams\Exercises Stacks and Queues\03.Maximum Element\obj\Debug\03.Maximum Element.pdb
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Stacks and Queues\03.Maximum Element\bin\Debug\03.Maximum Element.exe.config
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Stacks and Queues\03.Maximum Element\obj\Debug\03.Maximum Element.exe
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Stacks and Queues\03.Maximum Element\obj\Debug\03.Maximum Element.pdb

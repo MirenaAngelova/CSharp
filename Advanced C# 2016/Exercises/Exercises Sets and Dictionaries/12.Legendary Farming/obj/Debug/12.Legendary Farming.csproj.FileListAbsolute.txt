@@ -1,0 +1,6 @@
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\12.Legendary Farming\bin\Debug\12.Legendary Farming.exe.config
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\12.Legendary Farming\bin\Debug\12.Legendary Farming.exe
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\12.Legendary Farming\bin\Debug\12.Legendary Farming.pdb
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\12.Legendary Farming\obj\Debug\12.Legendary Farming.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\12.Legendary Farming\obj\Debug\12.Legendary Farming.exe
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\12.Legendary Farming\obj\Debug\12.Legendary Farming.pdb

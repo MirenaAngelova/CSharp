@@ -1,0 +1,6 @@
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\15.Rubik’s Matrix\bin\Debug\15.Rubik’s Matrix.exe.config
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\15.Rubik’s Matrix\bin\Debug\15.Rubik’s Matrix.exe
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\15.Rubik’s Matrix\bin\Debug\15.Rubik’s Matrix.pdb
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\15.Rubik’s Matrix\obj\Debug\15.Rubik’s Matrix.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\15.Rubik’s Matrix\obj\Debug\15.Rubik’s Matrix.exe
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\15.Rubik’s Matrix\obj\Debug\15.Rubik’s Matrix.pdb

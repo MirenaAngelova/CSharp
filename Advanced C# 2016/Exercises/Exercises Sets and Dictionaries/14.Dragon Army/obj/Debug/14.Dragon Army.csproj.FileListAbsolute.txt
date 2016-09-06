@@ -1,0 +1,6 @@
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\14.Dragon Army\bin\Debug\14.Dragon Army.exe.config
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\14.Dragon Army\bin\Debug\14.Dragon Army.exe
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\14.Dragon Army\bin\Debug\14.Dragon Army.pdb
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\14.Dragon Army\obj\Debug\14.Dragon Army.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\14.Dragon Army\obj\Debug\14.Dragon Army.exe
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\14.Dragon Army\obj\Debug\14.Dragon Army.pdb

@@ -1,0 +1,6 @@
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\05.Phonebook\bin\Debug\05.Phonebook.exe.config
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\05.Phonebook\bin\Debug\05.Phonebook.exe
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\05.Phonebook\bin\Debug\05.Phonebook.pdb
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\05.Phonebook\obj\Debug\05.Phonebook.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\05.Phonebook\obj\Debug\05.Phonebook.exe
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\05.Phonebook\obj\Debug\05.Phonebook.pdb

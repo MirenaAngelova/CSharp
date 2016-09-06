@@ -1,0 +1,6 @@
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\16.Target Practice 2\bin\Debug\16.Target Practice 2.exe.config
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\16.Target Practice 2\bin\Debug\16.Target Practice 2.exe
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\16.Target Practice 2\bin\Debug\16.Target Practice 2.pdb
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\16.Target Practice 2\obj\Debug\16.Target Practice 2.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\16.Target Practice 2\obj\Debug\16.Target Practice 2.exe
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\16.Target Practice 2\obj\Debug\16.Target Practice 2.pdb

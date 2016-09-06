@@ -1,0 +1,5 @@
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\15.Rubiks Matrix 3\bin\Debug\15.Rubiks Matrix 3.exe.config
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\15.Rubiks Matrix 3\bin\Debug\15.Rubiks Matrix 3.exe
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\15.Rubiks Matrix 3\bin\Debug\15.Rubiks Matrix 3.pdb
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\15.Rubiks Matrix 3\obj\Debug\15.Rubiks Matrix 3.exe
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\15.Rubiks Matrix 3\obj\Debug\15.Rubiks Matrix 3.pdb

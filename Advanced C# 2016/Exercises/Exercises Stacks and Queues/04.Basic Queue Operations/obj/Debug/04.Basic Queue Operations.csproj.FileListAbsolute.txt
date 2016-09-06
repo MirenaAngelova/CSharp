@@ -1,0 +1,6 @@
+D:\SOFTUNI\Algorithms\Exams\Exercises Stacks and Queues\04.Basic Queue Operations\bin\Debug\04.Basic Queue Operations.exe.config
+D:\SOFTUNI\Algorithms\Exams\Exercises Stacks and Queues\04.Basic Queue Operations\bin\Debug\04.Basic Queue Operations.exe
+D:\SOFTUNI\Algorithms\Exams\Exercises Stacks and Queues\04.Basic Queue Operations\bin\Debug\04.Basic Queue Operations.pdb
+D:\SOFTUNI\Algorithms\Exams\Exercises Stacks and Queues\04.Basic Queue Operations\obj\Debug\04.Basic Queue Operations.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Algorithms\Exams\Exercises Stacks and Queues\04.Basic Queue Operations\obj\Debug\04.Basic Queue Operations.exe
+D:\SOFTUNI\Algorithms\Exams\Exercises Stacks and Queues\04.Basic Queue Operations\obj\Debug\04.Basic Queue Operations.pdb

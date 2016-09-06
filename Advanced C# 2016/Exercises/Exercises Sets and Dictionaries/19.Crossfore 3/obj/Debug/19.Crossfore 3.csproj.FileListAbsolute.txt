@@ -1,0 +1,6 @@
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\19.Crossfore 3\bin\Debug\19.Crossfore 3.exe.config
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\19.Crossfore 3\bin\Debug\19.Crossfore 3.exe
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\19.Crossfore 3\bin\Debug\19.Crossfore 3.pdb
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\19.Crossfore 3\obj\Debug\19.Crossfore 3.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\19.Crossfore 3\obj\Debug\19.Crossfore 3.exe
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\19.Crossfore 3\obj\Debug\19.Crossfore 3.pdb

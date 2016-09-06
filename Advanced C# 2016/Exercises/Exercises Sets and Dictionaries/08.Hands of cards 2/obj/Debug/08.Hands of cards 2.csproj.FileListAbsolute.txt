@@ -1,0 +1,6 @@
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\08.Hands of cards 2\bin\Debug\08.Hands of cards 2.exe.config
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\08.Hands of cards 2\bin\Debug\08.Hands of cards 2.exe
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\08.Hands of cards 2\bin\Debug\08.Hands of cards 2.pdb
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\08.Hands of cards 2\obj\Debug\08.Hands of cards 2.exe
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\08.Hands of cards 2\obj\Debug\08.Hands of cards 2.pdb
+D:\SOFTUNI\Advanced C# 2016\Exercises\Exercises Sets and Dictionaries\08.Hands of cards 2\obj\Debug\08.Hands of cards 2.csprojResolveAssemblyReference.cache
