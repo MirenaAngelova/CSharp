@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exam OOP\Capitalism2\Capitalism2\bin\Debug\Capitalism2.exe.config
+D:\SOFTUNI\Exam OOP\Capitalism2\Capitalism2\obj\Debug\Capitalism2.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exam OOP\Capitalism2\Capitalism2\bin\Debug\Capitalism2.exe
+D:\SOFTUNI\Exam OOP\Capitalism2\Capitalism2\bin\Debug\Capitalism2.pdb
+D:\SOFTUNI\Exam OOP\Capitalism2\Capitalism2\obj\Debug\Capitalism2.exe
+D:\SOFTUNI\Exam OOP\Capitalism2\Capitalism2\obj\Debug\Capitalism2.pdb

@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exam OOP\OOP Exam Preparation Dec2015 Empires\Empires\Empires\bin\Debug\Empires.exe.config
+D:\SOFTUNI\Exam OOP\OOP Exam Preparation Dec2015 Empires\Empires\Empires\bin\Debug\Empires.exe
+D:\SOFTUNI\Exam OOP\OOP Exam Preparation Dec2015 Empires\Empires\Empires\bin\Debug\Empires.pdb
+D:\SOFTUNI\Exam OOP\OOP Exam Preparation Dec2015 Empires\Empires\Empires\obj\Debug\Empires.exe
+D:\SOFTUNI\Exam OOP\OOP Exam Preparation Dec2015 Empires\Empires\Empires\obj\Debug\Empires.pdb
+D:\SOFTUNI\Exam OOP\OOP Exam Preparation Dec2015 Empires\Empires\Empires\obj\Debug\Empires.csprojResolveAssemblyReference.cache

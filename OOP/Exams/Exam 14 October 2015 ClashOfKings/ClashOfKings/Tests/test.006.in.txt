@@ -1,0 +1,31 @@
+Create-House Targaryen 0
+Create-House Baratheon 300000
+Create-City Dragonstone Targaryen 0 0 0 0 0 Fortress
+House-Status Targaryen
+Create-City Winterfell Targaryen 0 500 0 0 0 Fortress
+Create-City Dreadfort Targaryen 0 0 0 0 0 Fortress
+Create-City Astapor Targaryen 0 0 0 0 0 Fortress
+Create-City Pyke Targaryen 0 0 0 0 0 Fortress
+Create-City Sunspear Targaryen 0 0 0 0 0 Fortress
+Create-City Highgarden Targaryen 0 0 0 0 0 Fortress
+Create-City CastleBlack Targaryen 0 0 0 0 0 Fortress
+Create-City Yunkai Targaryen 0 1 0 0 0 Fortress
+House-Status Targaryen
+Upgrade-City Winterfell
+Create-City Meereen Targaryen 0 0 0 0 0 Fortress
+House-Status Targaryen
+Upgrade-City Winterfell
+Create-City StormsEnd Baratheon 0 0 0 100 0 Capital
+Add-Neighbors-To-City StormsEnd Dragonstone 1 Winterfell 1 Dreadfort 1 Astapor 1 Pyke 1 Sunspear 1
+Build-Structure DragonLair StormsEnd
+Create-Unit 1 Dragon StormsEnd
+Attack StormsEnd Dragonstone
+Attack StormsEnd Winterfell
+Attack StormsEnd Dreadfort
+Attack StormsEnd Astapor
+Attack StormsEnd Pyke
+House-Status Targaryen
+Attack StormsEnd Sunspear
+House-Status Targaryen
+Upgrade-City Yunkai
+Exit

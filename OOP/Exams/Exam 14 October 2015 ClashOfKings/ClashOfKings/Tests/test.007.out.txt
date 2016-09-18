@@ -1,0 +1,136 @@
+Successfully created House Arryn
+Successfully created city Eyrie
+Successfully built Barracks in Eyrie
+House Arryn:
+-Treasury Amount: 19000.0
+-Controlled Cities (1): Eyrie
+Successfully built Barracks in Eyrie
+Successfully added 10 units of Unsullied to city Eyrie
+House Arryn:
+-Treasury Amount: 54575.0
+-Controlled Cities (1): Eyrie
+Structure requires a more advanced city
+City Eyrie successfully upgraded to FortifiedCity
+House Arryn doesn't have sufficient funds to build Stable
+House Arryn:
+-Treasury Amount: 65075.0
+-Controlled Cities (1): Eyrie
+Successfully built Stable in Eyrie
+Successfully added 50 units of Dothraki to city Eyrie
+Structure requires a more advanced city
+City Eyrie successfully upgraded to Fortress
+Structure requires a more advanced city
+City Eyrie successfully upgraded to Megapolis
+Structure requires a more advanced city
+City Eyrie successfully upgraded to Capital
+House Arryn doesn't have sufficient funds to build DragonLair
+House Arryn has insufficient funds to upgrade Eyrie
+House Arryn:
+-Treasury Amount: 20325.0
+-Controlled Cities (1): Eyrie
+City Eyrie is at the maximum level and cannot be upgraded further
+Successfully created House Tully
+Successfully created city Riverrun
+Westeros:
+-Houses (2): Arryn, Tully
+-Cities (2): Eyrie, Riverrun
+Successfully built DragonLair in Riverrun
+City Riverrun does not have enough housing spaces to accommodate 4 units of Dragon
+Successfully built DragonLair in Riverrun
+Successfully added 4 units of Dragon to city Riverrun
+House Tully:
+-Treasury Amount: 166500.0
+-Controlled Cities (1): Riverrun
+House Arryn:
+-Treasury Amount: 132825.0
+-Controlled Cities (1): Eyrie
+Successfully built Barracks in Riverrun
+Successfully built Barracks in Riverrun
+House Arryn:
+-Treasury Amount: 183825.0
+-Controlled Cities (1): Eyrie
+Successfully built DragonLair in Eyrie
+House Arryn does not have enough funds to train 4000 units of Unsullied
+Successfully added 10000 units of FootSoldier to city Riverrun
+Cannot move units: starting city and destination are the same
+Cannot move units: starting city and destination are not neighbors
+All valid neighbor records added for city Riverrun
+Cannot move troops between cities controlled by different Houses
+House Tully conquered Eyrie from House Arryn
+House Tully:
+-Treasury Amount: 251500.0
+-Controlled Cities (2): Riverrun, Eyrie
+House Arryn:
+-Treasury Amount: 51825.0
+-No Cities Controlled
+Riverrun (Capital):
+-Food storage: 25580.0
+-Food production: 5000.0
+-Tax base: 24500.0
+-Army: 4 AirForce, 10000 Infantry
+-Ruling House: House Tully
+Eyrie (Capital):
+-Food storage: 62560.0
+-Food production: 2000.0
+-Tax base: 17000.0
+-Army: 
+-Ruling House: House Tully
+Destination city has insufficient housing spaces
+Successfully built DragonLair in Eyrie
+Successfully moved all units from Riverrun to Eyrie
+Riverrun (Capital):
+-Food storage: 13460.0
+-Food production: 5000.0
+-Tax base: 24500.0
+-Army: 
+-Ruling House: House Tully
+Eyrie (Capital):
+-Food storage: 49760.0
+-Food production: 2000.0
+-Tax base: 17000.0
+-Army: 4 AirForce, 10000 Infantry
+-Ruling House: House Tully
+No troops to move
+Eyrie (Capital):
+-Food storage: 41360.0
+-Food production: 2000.0
+-Tax base: 17000.0
+-Army: 4 AirForce, 10000 Infantry
+-Ruling House: House Tully
+Successfully created city Winterfell
+All valid neighbor records added for city Winterfell
+Eyrie doesn't have enough provisions to send troops to Winterfell
+Successfully created city StormsEnd
+Successfully created city Moletown
+City Eyrie suffered starvation
+Successfully created city Pentos
+City Eyrie suffered starvation
+Successfully created city Volantis
+City Eyrie suffered starvation
+Successfully created city Harrenhal
+Successfully created city CaslteBlack
+House Tully:
+-Treasury Amount: 636750.0
+-Controlled Cities (9): Riverrun, Eyrie, Winterfell, StormsEnd, Moletown, Pentos, Volantis, Harrenhal, CaslteBlack
+Eyrie (Capital):
+-Food storage: 76.0
+-Food production: 2000.0
+-Tax base: 17000.0
+-Army: 2100 Infantry
+-Ruling House: House Tully
+City Eyrie suffered starvation
+Eyrie (Capital):
+-Food storage: 396.0
+-Food production: 2000.0
+-Tax base: 17000.0
+-Army: 1680 Infantry
+-Ruling House: House Tully
+Successfully created city Highgarden
+Great House Tully:
+-Treasury Amount: 766750.0
+-Controlled Cities (10): Riverrun, Eyrie, Winterfell, StormsEnd, Moletown, Pentos, Volantis, Harrenhal, CaslteBlack, Highgarden
+Successfully created city Dreadfort
+Great House Tully:
+-Treasury Amount: 854000.0
+-Controlled Cities (11): Riverrun, Eyrie, Winterfell, StormsEnd, Moletown, Pentos, Volantis, Harrenhal, CaslteBlack, Highgarden, Dreadfort
+For the Watch!

@@ -1,0 +1,6 @@
+D:\SOFTUNI\Homeworks\Homework Static Members and Namespaces\06.BitArray\bin\Debug\06.BitArray.exe.config
+D:\SOFTUNI\Homeworks\Homework Static Members and Namespaces\06.BitArray\bin\Debug\06.BitArray.exe
+D:\SOFTUNI\Homeworks\Homework Static Members and Namespaces\06.BitArray\bin\Debug\06.BitArray.pdb
+D:\SOFTUNI\Homeworks\Homework Static Members and Namespaces\06.BitArray\obj\Debug\06.BitArray.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Homeworks\Homework Static Members and Namespaces\06.BitArray\obj\Debug\06.BitArray.exe
+D:\SOFTUNI\Homeworks\Homework Static Members and Namespaces\06.BitArray\obj\Debug\06.BitArray.pdb

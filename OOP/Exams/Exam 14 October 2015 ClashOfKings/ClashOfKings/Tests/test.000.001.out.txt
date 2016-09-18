@@ -1,0 +1,25 @@
+Successfully created House Lannister
+Successfully created House Stark
+Successfully created city Winterfell
+Successfully created city CasterlyRock
+City Winterfell does not have enough housing spaces to accommodate 5000 units of FootSoldier
+Successfully built Barracks in Winterfell
+Successfully added 5000 units of FootSoldier to city Winterfell
+All valid neighbor records added for city Winterfell
+House Stark conquered CasterlyRock from House Lannister
+House Stark:
+-Treasury Amount: 1124337.5
+-Controlled Cities (2): Winterfell, CasterlyRock
+House Lannister:
+-Treasury Amount: 3000004.0
+-No Cities Controlled
+Winterfell (Fortress):
+-Food storage: 59750.0
+-Food production: 10000.0
+-Tax base: 97.8
+-Army: 5000 Infantry
+-Ruling House: House Stark
+Westeros:
+-Houses (2): Lannister, Stark
+-Cities (2): Winterfell, CasterlyRock
+For the Watch!

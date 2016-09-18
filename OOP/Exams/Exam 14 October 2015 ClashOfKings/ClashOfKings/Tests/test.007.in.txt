@@ -1,0 +1,71 @@
+Create-House Arryn 0
+Create-City Eyrie Arryn 650 23500 450 2000 17000 Keep
+Build-Structure Barracks Eyrie
+House-Status Arryn
+Build-Structure Barracks Eyrie
+Create-Unit 10 Unsullied Eyrie
+House-Status Arryn
+Build-Structure Stable Eyrie
+Upgrade-City Eyrie
+Build-Structure Stable Eyrie
+House-Status Arryn
+Build-Structure Stable Eyrie
+Create-Unit 50 Dothraki Eyrie
+Build-Structure DragonLair Eyrie
+Upgrade-City Eyrie
+Build-Structure DragonLair Eyrie
+Upgrade-City Eyrie
+Build-Structure DragonLair Eyrie
+Upgrade-City Eyrie
+Build-Structure DragonLair Eyrie
+Upgrade-City Eyrie
+House-Status Arryn
+Upgrade-City Eyrie
+Create-House Tully 450000
+Create-City Riverrun Tully 500 12000 1300 5000 24500 Capital
+Continent-Status
+Build-Structure DragonLair Riverrun
+Create-Unit 4 Dragon Riverrun
+Build-Structure DragonLair Riverrun
+Create-Unit 4 Dragon Riverrun
+House-Status Tully
+House-Status Arryn
+Build-Structure Barracks Riverrun
+Build-Structure Barracks Riverrun
+House-Status Arryn
+Build-Structure DragonLair Eyrie
+Create-Unit 4000 Unsullied Eyrie
+Create-Unit 10000 FootSoldier Riverrun
+Move Riverrun Riverrun
+Move Riverrun Eyrie
+Add-Neighbors-To-City Riverrun Eyrie 920
+Move Riverrun Eyrie
+Attack Riverrun Eyrie
+House-Status Tully
+House-Status Arryn
+City-Status Riverrun
+City-Status Eyrie
+Move Riverrun Eyrie
+Build-Structure DragonLair Eyrie
+Move Riverrun Eyrie
+City-Status Riverrun
+City-Status Eyrie
+Move Riverrun Eyrie
+City-Status Eyrie
+Create-City Winterfell Tully 450 20000 15 11000 250 Megapolis
+Add-Neighbors-To-City Winterfell Eyrie 200000
+Move Eyrie Winterfell
+Create-City StormsEnd Tully 450 20000 15 11000 250 Keep
+Create-City Moletown Tully 450 20000 15 11000 250 Fortress
+Create-City Pentos Tully 450 20000 15 11000 250 FortifiedCity
+Create-City Volantis Tully 450 20000 15 11000 250 Fortress
+Create-City Harrenhal Tully 450 20000 15 11000 250 Keep
+Create-City CaslteBlack Tully 450 20000 15 11000 250 Megapolis
+House-Status Tully
+City-Status Eyrie
+City-Status Eyrie
+Create-City Highgarden Tully 450 20000 15 11000 250 Keep
+House-Status Tully
+Create-City Dreadfort Tully 450 20000 15 11000 250 Capital
+House-Status Tully
+Exit

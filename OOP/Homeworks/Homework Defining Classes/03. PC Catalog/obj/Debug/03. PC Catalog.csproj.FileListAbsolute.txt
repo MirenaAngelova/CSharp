@@ -1,0 +1,6 @@
+D:\SOFTUNI\Homeworks\Homework Defining Classes\03. PC Catalog\bin\Debug\_03.PC_Catalog.exe.config
+D:\SOFTUNI\Homeworks\Homework Defining Classes\03. PC Catalog\bin\Debug\_03.PC_Catalog.exe
+D:\SOFTUNI\Homeworks\Homework Defining Classes\03. PC Catalog\bin\Debug\_03.PC_Catalog.pdb
+D:\SOFTUNI\Homeworks\Homework Defining Classes\03. PC Catalog\obj\Debug\03. PC Catalog.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Homeworks\Homework Defining Classes\03. PC Catalog\obj\Debug\_03.PC_Catalog.exe
+D:\SOFTUNI\Homeworks\Homework Defining Classes\03. PC Catalog\obj\Debug\_03.PC_Catalog.pdb

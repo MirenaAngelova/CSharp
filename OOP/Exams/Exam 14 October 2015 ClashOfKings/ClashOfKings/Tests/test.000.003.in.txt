@@ -1,0 +1,22 @@
+Create-House Greyjoy 1000000
+Create-City Pyke Greyjoy 100 100 100 100 100 Capital
+Build-Structure Barracks Pyke
+Create-Unit 100 SellSword Pyke
+Create-House Martell 1000000
+Create-City Sunspear Martell 500 500 500 500 500 Capital
+Build-Structure Barracks Sunspear
+Create-Unit 500 SellSword Sunspear
+Add-Neighbors-To-City Pyke Sunspear 10
+Attack Sunspear Pyke
+House-Status Martell
+Create-City Tarth Martell 500 500 500 500 500 Fortress
+Create-City CastleBlack Martell 500 500 500 500 500 default
+Create-City KingsLanding Martell 500 500 500 500 500 default
+Create-City StormsEnd Martell 500 500 500 500 500 default
+Create-City Riverrun Martell 500 500 500 500 500 default
+Create-City Eyrie Martell 500 500 500 500 500 default
+Create-City Winterfell Martell 500 500 500 500 500 default
+House-Status Martell
+Create-City Twins Martell 500 500 500 500 500 default
+House-Status Martell
+Exit

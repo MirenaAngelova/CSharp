@@ -1,0 +1,126 @@
+Create-House Stark 150000
+Create-House Lannister 150000
+Create-House Baratheon 150000
+Create-House Bolton 150000
+Create-House Targaryen 150000
+Create-City Winterfell Stark 25000 11000 0 12000 25000 Capital
+Create-City CastleBlack Stark 50 13000 0 500 1300 Fortress
+Create-City Lannisport Lannister 600 7500 0 25000 45000 Megapolis
+Create-City CasterlyRock Lannister 750 21200 0 60000 70000 Capital
+Create-City KingsLanding Baratheon 145 17000 0 75000 90000 Capital
+Create-City Dragonstone Baratheon 220 23700 0 8000 16000 Fortress
+Create-City Dreadfort Bolton 130 25000 0 11000 21000 Capital
+Create-City Harrenhal Bolton 45 67500 0 50000 23000 Megapolis
+Create-City Meereen Targaryen 95 14000 0 55000 45000 Capital
+Create-City Myr Targaryen 100 9000 0 30000 40000 Megapolis
+Continent-Status
+Add-Neighbors-To-City CastleBlack Winterfell 450
+Add-Neighbors-To-City Winterfell Dreadfort 160 Harrenhal 330
+Add-Neighbors-To-City Harrenhal Lannisport 210 CasterlyRock 190 KingsLanding 120
+Add-Neighbors-To-City KingsLanding Dragonstone 80
+Add-Neighbors-To-City Dragonstone Meereen 760 Myr 930
+Build-Structure Barracks CastleBlack
+Create-Unit 500 FootSoldier CastleBlack
+Create-Unit 500 Unsullied CastleBlack
+Create-Unit 200 SellSword CastleBlack
+Move CastleBlack KingsLanding
+Move CastleBlack Winterfell
+Build-Structure Barracks Winterfell
+Move CastleBlack Winterfell
+Move Winterfell Dreadfort
+Attack Winterfell Dreadfort
+House-Status Stark
+Attack Winterfell Harrenhal
+Move Winterfell Harrenhal
+Build-Structure Barracks Harrenhal
+Move Winterfell Harrenhal
+Attack Harrenhal Lannisport
+Attack Harrenhal CasterlyRock
+Attack Harrenhal KingsLanding
+House-Status Stark
+Attack KingsLanding Dragonstone
+Move Harrenhal KingsLanding
+Build-Structure Barracks KingsLanding
+Move Harrenhal KingsLanding
+Attack KingsLanding Meereen
+House-Status Stark
+Attack KingsLanding Dragonstone
+Move KingsLanding Dragonstone
+Build-Structure Barracks Dragonstone
+Move KingsLanding Dragonstone
+Attack Dragonstone Meereen
+House-Status Stark
+Attack Dragonstone Myr
+House-Status Stark
+Create-House Martell 2000000
+Create-City Sunspear Martell 2000 31000 20000 70000 120000 Megapolis
+Build-Structure Stable Sunspear
+Create-Unit 500 Horseman Sunspear
+Create-Unit 250 Knight Sunspear
+Create-Unit 500 Dothraki Sunspear
+City-Status Sunspear
+Build-Structure Stable Sunspear
+Create-Unit 500 Dothraki Sunspear
+City-Status Sunspear
+Create-Unit 3 Dragon Sunspear
+Build-Structure DragonLair Sunspear
+Upgrade-City Sunspear
+Build-Structure DragonLair Sunspear
+Create-Unit 3 Dragon Sunspear
+City-Status Sunspear
+Continent-Status
+House-Status Stark
+House-Status Martell
+House-Status Baratheon
+House-Status Bolton
+House-Status Lannister
+House-Status Targaryen
+Attack Sunspear KingsLanding
+Add-Neighbors-To-City Sunspear KingsLanding 400
+Attack Sunspear KingsLanding
+House-Status Stark
+House-Status Martell
+Attack KingsLanding Dragonstone
+Move Sunspear KingsLanding
+Build-Structure DragonLair KingsLanding
+Build-Structure Stable KingsLanding
+Move Sunspear KingsLanding
+Build-Structure Stable KingsLanding
+Move Sunspear KingsLanding
+Attack KingsLanding Winterfell
+Attack KingsLanding Dragonstone
+Upgrade-City Dragonstone
+Build-Structure Stable Dragonstone
+Build-Structure Stable Dragonstone
+Build-Structure DragonLair Dragonstone
+Upgrade-City Dragonstone
+Build-Structure DragonLair Dragonstone
+Move KingsLanding Dragonstone
+Attack Dragonstone Myr
+Attack Dragonstone Meereen
+House-Status Stark
+Move Dragonstone KingsLanding
+Attack KingsLanding Harrenhal
+House-Status Stark
+House-Status Martell
+City-Status Harrenhal
+Upgrade-City Harrenhal
+Build-Structure DragonLair Harrenhal
+Build-Structure Stable Harrenhal
+Build-Structure Stable Harrenhal
+Move KingsLanding Harrenhal
+Attack Harrenhal CasterlyRock
+House-Status Stark
+Build-Structure DragonLair Winterfell
+Build-Structure DragonLair Winterfell
+Build-Structure DragonLair Winterfell
+Build-Structure DragonLair Winterfell
+Build-Structure DragonLair Winterfell
+Create-Unit 15 Dragon Winterfell
+Attack Harrenhal Winterfell
+Continent-Status
+House-Status Stark
+House-Status Martell
+City-Status Harrenhal
+City-Status Winterfell
+Exit

@@ -1,0 +1,41 @@
+Successfully created House Targaryen
+Successfully created House Baratheon
+Successfully created city Dragonstone
+House Targaryen:
+-Treasury Amount: 0.0
+-Controlled Cities (1): Dragonstone
+Successfully created city Winterfell
+Successfully created city Dreadfort
+Successfully created city Astapor
+Successfully created city Pyke
+Successfully created city Sunspear
+Successfully created city Highgarden
+Successfully created city CastleBlack
+Successfully created city Yunkai
+House Targaryen:
+-Treasury Amount: 0.0
+-Controlled Cities (9): Dragonstone, Winterfell, Dreadfort, Astapor, Pyke, Sunspear, Highgarden, CastleBlack, Yunkai
+House Targaryen has insufficient funds to upgrade Winterfell
+Successfully created city Meereen
+Great House Targaryen:
+-Treasury Amount: 0.0
+-Controlled Cities (10): Dragonstone, Winterfell, Dreadfort, Astapor, Pyke, Sunspear, Highgarden, CastleBlack, Yunkai, Meereen
+City Winterfell successfully upgraded to Megapolis
+Successfully created city StormsEnd
+All valid neighbor records added for city StormsEnd
+Successfully built DragonLair in StormsEnd
+Successfully added 1 units of Dragon to city StormsEnd
+House Baratheon conquered Dragonstone from House Targaryen
+House Baratheon conquered Winterfell from House Targaryen
+House Baratheon conquered Dreadfort from House Targaryen
+House Baratheon conquered Astapor from House Targaryen
+House Baratheon conquered Pyke from House Targaryen
+Great House Targaryen:
+-Treasury Amount: -500.0
+-Controlled Cities (5): Sunspear, Highgarden, CastleBlack, Yunkai, Meereen
+House Baratheon conquered Sunspear from House Targaryen
+House Targaryen:
+-Treasury Amount: 0.0
+-Controlled Cities (4): Highgarden, CastleBlack, Yunkai, Meereen
+House Targaryen has insufficient funds to upgrade Yunkai
+For the Watch!

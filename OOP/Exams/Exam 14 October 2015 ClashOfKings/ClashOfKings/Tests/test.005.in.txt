@@ -1,0 +1,27 @@
+Create-House Greyjoy 600000
+Create-House Lannister 0
+Create-City Pyke Greyjoy 0 0 0 1000 0 Capital
+Create-City CasterlyRock Lannister 0 0 0 1000 0 Capital
+Create-City Oldtown Greyjoy 0 0 0 1000 0 Capital
+Move Pyke Pyke
+Move Pyke CasterlyRock
+Add-Neighbors-To-City Pyke CasterlyRock 500 Oldtown 200
+Move Pyke CasterlyRock
+Build-Structure Barracks Pyke
+Build-Structure Stable Pyke
+Build-Structure DragonLair Pyke
+Create-Unit 1000 FootSoldier Pyke
+Create-Unit 200 Horseman Pyke
+Create-Unit 1 Dragon Pyke
+City-Status Pyke
+Move Pyke CasterlyRock
+Move Pyke Oldtown
+Build-Structure Barracks Oldtown
+Move Pyke Oldtown
+Build-Structure Stable Oldtown
+Move Pyke Oldtown
+Build-Structure DragonLair Oldtown
+Move Pyke Oldtown
+City-Status Pyke
+City-Status Oldtown
+Exit

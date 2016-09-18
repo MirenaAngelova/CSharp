@@ -1,0 +1,5 @@
+C:\Users\peter\Desktop\Homework Functional Programming\07. Filter Students by Phone\bin\Debug\_07.Filter_Students_by_Phone.exe.config
+C:\Users\peter\Desktop\Homework Functional Programming\07. Filter Students by Phone\bin\Debug\_07.Filter_Students_by_Phone.exe
+C:\Users\peter\Desktop\Homework Functional Programming\07. Filter Students by Phone\bin\Debug\_07.Filter_Students_by_Phone.pdb
+C:\Users\peter\Desktop\Homework Functional Programming\07. Filter Students by Phone\obj\Debug\_07.Filter_Students_by_Phone.exe
+C:\Users\peter\Desktop\Homework Functional Programming\07. Filter Students by Phone\obj\Debug\_07.Filter_Students_by_Phone.pdb

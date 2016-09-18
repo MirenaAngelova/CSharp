@@ -1,0 +1,6 @@
+D:\SOFTUNI\Homeworks\Homework Inheritance and Abstraction\02. Animals\bin\Debug\_02.Animals.exe.config
+D:\SOFTUNI\Homeworks\Homework Inheritance and Abstraction\02. Animals\bin\Debug\_02.Animals.exe
+D:\SOFTUNI\Homeworks\Homework Inheritance and Abstraction\02. Animals\bin\Debug\_02.Animals.pdb
+D:\SOFTUNI\Homeworks\Homework Inheritance and Abstraction\02. Animals\obj\Debug\02. Animals.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Homeworks\Homework Inheritance and Abstraction\02. Animals\obj\Debug\_02.Animals.exe
+D:\SOFTUNI\Homeworks\Homework Inheritance and Abstraction\02. Animals\obj\Debug\_02.Animals.pdb

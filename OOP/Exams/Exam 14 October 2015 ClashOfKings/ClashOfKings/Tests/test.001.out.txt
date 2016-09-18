@@ -1,0 +1,70 @@
+Successfully created House Tyrell
+Successfully created city Highgarden
+House Tyrell:
+-Treasury Amount: 322500.0
+-Controlled Cities (1): Highgarden
+Highgarden (Capital):
+-Food storage: 30500.0
+-Food production: 9000.0
+-Tax base: 22500.0
+-Army: 
+-Ruling House: House Tyrell
+Successfully created House Baratheon
+Successfully created city Dragonstone
+House Tyrell:
+-Treasury Amount: 412500.0
+-Controlled Cities (1): Highgarden
+House Baratheon:
+-Treasury Amount: 144000.0
+-Controlled Cities (1): Dragonstone
+All valid neighbor records added for city Highgarden
+No troops to move
+No troops to move
+Successfully built DragonLair in Highgarden
+Successfully built Stable in Highgarden
+Successfully built Barracks in Dragonstone
+Successfully added 1 units of Dragon to city Highgarden
+City Highgarden does not have enough housing spaces to accommodate 1 units of FootSoldier
+Successfully added 500 units of Knight to city Highgarden
+Successfully added 1000 units of SellSword to city Dragonstone
+Highgarden (Capital):
+-Food storage: 134700.0
+-Food production: 9000.0
+-Tax base: 22500.0
+-Army: 1 AirForce, 500 Cavalry
+-Ruling House: House Tyrell
+Dragonstone (Megapolis):
+-Food storage: 37300.0
+-Food production: 3500.0
+-Tax base: 12000.0
+-Army: 1000 Infantry
+-Ruling House: House Baratheon
+House Tyrell conquered Dragonstone from House Baratheon
+House Tyrell:
+-Treasury Amount: 393000.0
+-Controlled Cities (2): Highgarden, Dragonstone
+House Baratheon:
+-Treasury Amount: 229000.0
+-No Cities Controlled
+Highgarden (Capital):
+-Food storage: 169850.0
+-Food production: 9000.0
+-Tax base: 22500.0
+-Army: 1 AirForce, 500 Cavalry
+-Ruling House: House Tyrell
+Dragonstone (Megapolis):
+-Food storage: 53800.0
+-Food production: 3500.0
+-Tax base: 12000.0
+-Army: 
+-Ruling House: House Tyrell
+Dragonstone (Megapolis):
+-Food storage: 57300.0
+-Food production: 3500.0
+-Tax base: 12000.0
+-Army: 
+-Ruling House: House Tyrell
+Westeros:
+-Houses (2): Baratheon, Tyrell
+-Cities (2): Highgarden, Dragonstone
+For the Watch!

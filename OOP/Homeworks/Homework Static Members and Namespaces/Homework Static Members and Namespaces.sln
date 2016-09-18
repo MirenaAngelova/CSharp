@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Point3D", "01. Point3D\01. Point3D.csproj", "{91BDC269-6F05-4B68-B177-75F1CE5E8206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Namespaces", "04. Namespaces\04. Namespaces.csproj", "{35B5F253-7206-43CB-8D26-3F15F089CAB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.HTML Dispatcher", "05.HTML Dispatcher\05.HTML Dispatcher.csproj", "{3AC3FF74-627B-468E-A97E-BE26F9C5EFED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.BitArray", "06.BitArray\06.BitArray.csproj", "{1E057E25-EAD7-413F-AABF-6317D97AECDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91BDC269-6F05-4B68-B177-75F1CE5E8206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BDC269-6F05-4B68-B177-75F1CE5E8206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BDC269-6F05-4B68-B177-75F1CE5E8206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BDC269-6F05-4B68-B177-75F1CE5E8206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35B5F253-7206-43CB-8D26-3F15F089CAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B5F253-7206-43CB-8D26-3F15F089CAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B5F253-7206-43CB-8D26-3F15F089CAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B5F253-7206-43CB-8D26-3F15F089CAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC3FF74-627B-468E-A97E-BE26F9C5EFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC3FF74-627B-468E-A97E-BE26F9C5EFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC3FF74-627B-468E-A97E-BE26F9C5EFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC3FF74-627B-468E-A97E-BE26F9C5EFED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E057E25-EAD7-413F-AABF-6317D97AECDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E057E25-EAD7-413F-AABF-6317D97AECDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E057E25-EAD7-413F-AABF-6317D97AECDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E057E25-EAD7-413F-AABF-6317D97AECDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

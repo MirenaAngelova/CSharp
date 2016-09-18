@@ -1,0 +1,6 @@
+D:\SOFTUNI\Homeworks\Homework Defining Classes\04. Software University Learning System\bin\Debug\_04.Software_University_Learning_System.exe.config
+D:\SOFTUNI\Homeworks\Homework Defining Classes\04. Software University Learning System\obj\Debug\04. Software University Learning System.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Homeworks\Homework Defining Classes\04. Software University Learning System\bin\Debug\_04.Software_University_Learning_System.exe
+D:\SOFTUNI\Homeworks\Homework Defining Classes\04. Software University Learning System\bin\Debug\_04.Software_University_Learning_System.pdb
+D:\SOFTUNI\Homeworks\Homework Defining Classes\04. Software University Learning System\obj\Debug\_04.Software_University_Learning_System.exe
+D:\SOFTUNI\Homeworks\Homework Defining Classes\04. Software University Learning System\obj\Debug\_04.Software_University_Learning_System.pdb

@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exam OOP\Empires6\Empires6\bin\Debug\Empires6.exe.config
+D:\SOFTUNI\Exam OOP\Empires6\Empires6\bin\Debug\Empires6.exe
+D:\SOFTUNI\Exam OOP\Empires6\Empires6\bin\Debug\Empires6.pdb
+D:\SOFTUNI\Exam OOP\Empires6\Empires6\obj\Debug\Empires6.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exam OOP\Empires6\Empires6\obj\Debug\Empires6.exe
+D:\SOFTUNI\Exam OOP\Empires6\Empires6\obj\Debug\Empires6.pdb

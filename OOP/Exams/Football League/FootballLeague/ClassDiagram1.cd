@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FootballLeague.FootballLeague" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>FootballLeague.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FootballLeague.Models.League" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAACAAQAAgAAACAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\League.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FootballLeague.Teams">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAACgAAAEAAAAAAQAAQAkAAEAIAgAAQAAAAA=</HashCode>
+      <FileName>Teams.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FootballLeague.Matches">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAAAAAAAAAIgEAAAIAAAAAgAAAAAAAAEAAAAhAgA=</HashCode>
+      <FileName>Matches.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FootballLeague.Scores">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAABAAAAAAAAEAAAACAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scores.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FootballLeague.Players">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAAAGAAAABgAAAAAAAAAAAAAAAQAAAAEAAACAAAAAg=</HashCode>
+      <FileName>Players.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

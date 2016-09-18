@@ -1,0 +1,42 @@
+Successfully created House Greyjoy
+Successfully created House Lannister
+Successfully created city Pyke
+Successfully created city CasterlyRock
+Successfully created city Oldtown
+Cannot move units: starting city and destination are the same
+Cannot move units: starting city and destination are not neighbors
+All valid neighbor records added for city Pyke
+No troops to move
+Successfully built Barracks in Pyke
+Successfully built Stable in Pyke
+Successfully built DragonLair in Pyke
+Successfully added 1000 units of FootSoldier to city Pyke
+Successfully added 200 units of Horseman to city Pyke
+Successfully added 1 units of Dragon to city Pyke
+Pyke (Capital):
+-Food storage: 6100.0
+-Food production: 1000.0
+-Tax base: 0.0
+-Army: 1000 Infantry, 200 Cavalry, 1 AirForce
+-Ruling House: House Greyjoy
+Cannot move troops between cities controlled by different Houses
+Destination city has insufficient housing spaces
+Successfully built Barracks in Oldtown
+Destination city has insufficient housing spaces
+Successfully built Stable in Oldtown
+Destination city has insufficient housing spaces
+Successfully built DragonLair in Oldtown
+Successfully moved all units from Pyke to Oldtown
+Pyke (Capital):
+-Food storage: 4900.0
+-Food production: 1000.0
+-Tax base: 0.0
+-Army: 
+-Ruling House: House Greyjoy
+Oldtown (Capital):
+-Food storage: 11000.0
+-Food production: 1000.0
+-Tax base: 0.0
+-Army: 1000 Infantry, 200 Cavalry, 1 AirForce
+-Ruling House: House Greyjoy
+For the Watch!

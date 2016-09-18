@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exam OOP\OOP Exam Preparation 07.December.20015\OOP Sample Exam 07.december.2015\Capitalism\bin\Debug\Capitalism.exe.config
+D:\SOFTUNI\Exam OOP\OOP Exam Preparation 07.December.20015\OOP Sample Exam 07.december.2015\Capitalism\bin\Debug\Capitalism.exe
+D:\SOFTUNI\Exam OOP\OOP Exam Preparation 07.December.20015\OOP Sample Exam 07.december.2015\Capitalism\bin\Debug\Capitalism.pdb
+D:\SOFTUNI\Exam OOP\OOP Exam Preparation 07.December.20015\OOP Sample Exam 07.december.2015\Capitalism\obj\Debug\Capitalism.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exam OOP\OOP Exam Preparation 07.December.20015\OOP Sample Exam 07.december.2015\Capitalism\obj\Debug\Capitalism.exe
+D:\SOFTUNI\Exam OOP\OOP Exam Preparation 07.December.20015\OOP Sample Exam 07.december.2015\Capitalism\obj\Debug\Capitalism.pdb

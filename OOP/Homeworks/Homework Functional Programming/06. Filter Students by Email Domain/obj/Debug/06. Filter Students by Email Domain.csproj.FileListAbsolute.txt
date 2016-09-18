@@ -1,0 +1,5 @@
+C:\Users\peter\Desktop\Homework Functional Programming\06. Filter Students by Email Domain\bin\Debug\_06.Filter_Students_by_Email_Domain.exe.config
+C:\Users\peter\Desktop\Homework Functional Programming\06. Filter Students by Email Domain\bin\Debug\_06.Filter_Students_by_Email_Domain.exe
+C:\Users\peter\Desktop\Homework Functional Programming\06. Filter Students by Email Domain\bin\Debug\_06.Filter_Students_by_Email_Domain.pdb
+C:\Users\peter\Desktop\Homework Functional Programming\06. Filter Students by Email Domain\obj\Debug\_06.Filter_Students_by_Email_Domain.exe
+C:\Users\peter\Desktop\Homework Functional Programming\06. Filter Students by Email Domain\obj\Debug\_06.Filter_Students_by_Email_Domain.pdb

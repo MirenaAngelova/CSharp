@@ -1,0 +1,28 @@
+Create-House Tyrell 300000
+Create-City Highgarden Tyrell 1000 25000 12500 9000 22500 Capital
+House-Status Tyrell
+City-Status Highgarden
+Create-House Baratheon 120000
+Create-City Dragonstone Baratheon 1300 30000 800 3500 12000 Megapolis
+House-Status Tyrell
+House-Status Baratheon
+Add-Neighbors-To-City Highgarden Dragonstone 600
+Move Highgarden Dragonstone
+Attack Highgarden Dragonstone
+Build-Structure DragonLair Highgarden
+Build-Structure Stable Highgarden
+Build-Structure Barracks Dragonstone
+Create-Unit 1 Dragon Highgarden
+Create-Unit 1 FootSoldier Highgarden
+Create-Unit 500 Knight Highgarden
+Create-Unit 1000 SellSword Dragonstone
+City-Status Highgarden
+City-Status Dragonstone
+Attack Highgarden Dragonstone
+House-Status Tyrell
+House-Status Baratheon
+City-Status Highgarden
+City-Status Dragonstone
+City-Status Dragonstone
+Continent-Status
+Exit

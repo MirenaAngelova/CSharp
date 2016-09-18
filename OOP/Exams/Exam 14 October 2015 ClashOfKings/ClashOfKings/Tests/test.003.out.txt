@@ -1,0 +1,44 @@
+Successfully created House Tully
+Successfully created city Riverrun
+Successfully built Barracks in Riverrun
+Successfully built Stable in Riverrun
+Structure requires a more advanced city
+Riverrun (Megapolis):
+-Food storage: 900.0
+-Food production: 300.0
+-Tax base: 1000.0
+-Army: 
+-Ruling House: House Tully
+Successfully added 100 units of Unsullied to city Riverrun
+Successfully added 100 units of Dothraki to city Riverrun
+City Riverrun does not have enough housing spaces to accommodate 1 units of Dragon
+Riverrun (Megapolis):
+-Food storage: 1470.0
+-Food production: 300.0
+-Tax base: 1000.0
+-Army: 100 Infantry, 100 Cavalry
+-Ruling House: House Tully
+City Riverrun successfully upgraded to Capital
+Successfully built DragonLair in Riverrun
+Successfully added 1 units of Dragon to city Riverrun
+Riverrun (Capital):
+-Food storage: 1550.0
+-Food production: 300.0
+-Tax base: 1000.0
+-Army: 100 Infantry, 100 Cavalry, 1 AirForce
+-Ruling House: House Tully
+House Tully doesn't have sufficient funds to build DragonLair
+House Tully does not have enough funds to train 1000 units of Unsullied
+Riverrun (Capital):
+-Food storage: 1495.0
+-Food production: 300.0
+-Tax base: 1000.0
+-Army: 100 Infantry, 100 Cavalry, 1 AirForce
+-Ruling House: House Tully
+House Tully:
+-Treasury Amount: 38750.0
+-Controlled Cities (1): Riverrun
+Westeros:
+-Houses (1): Tully
+-Cities (1): Riverrun
+For the Watch!

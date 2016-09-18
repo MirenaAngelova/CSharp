@@ -1,0 +1,201 @@
+Successfully created House Stark
+Successfully created House Lannister
+Successfully created House Baratheon
+Successfully created House Bolton
+Successfully created House Targaryen
+Successfully created city Winterfell
+Successfully created city CastleBlack
+Successfully created city Lannisport
+Successfully created city CasterlyRock
+Successfully created city KingsLanding
+Successfully created city Dragonstone
+Successfully created city Dreadfort
+Successfully created city Harrenhal
+Successfully created city Meereen
+Successfully created city Myr
+Westeros:
+-Houses (5): Baratheon, Bolton, Lannister, Stark, Targaryen
+-Cities (10): Winterfell, CastleBlack, Lannisport, CasterlyRock, KingsLanding, Dragonstone, Dreadfort, Harrenhal, Meereen, Myr
+All valid neighbor records added for city CastleBlack
+All valid neighbor records added for city Winterfell
+All valid neighbor records added for city Harrenhal
+All valid neighbor records added for city KingsLanding
+All valid neighbor records added for city Dragonstone
+Successfully built Barracks in CastleBlack
+Successfully added 500 units of FootSoldier to city CastleBlack
+Successfully added 500 units of Unsullied to city CastleBlack
+Successfully added 200 units of SellSword to city CastleBlack
+Cannot move units: starting city and destination are not neighbors
+Destination city has insufficient housing spaces
+Successfully built Barracks in Winterfell
+Successfully moved all units from CastleBlack to Winterfell
+Cannot move troops between cities controlled by different Houses
+House Stark conquered Dreadfort from House Bolton
+House Stark:
+-Treasury Amount: 713225.0
+-Controlled Cities (3): Winterfell, CastleBlack, Dreadfort
+House Stark conquered Harrenhal from House Bolton
+Destination city has insufficient housing spaces
+Successfully built Barracks in Harrenhal
+Successfully moved all units from Winterfell to Harrenhal
+House Stark conquered Lannisport from House Lannister
+House Stark conquered CasterlyRock from House Lannister
+House Stark conquered KingsLanding from House Baratheon
+House Stark:
+-Treasury Amount: 1532325.0
+-Controlled Cities (7): Winterfell, CastleBlack, Dreadfort, Harrenhal, Lannisport, CasterlyRock, KingsLanding
+No troops to move
+Destination city has insufficient housing spaces
+Successfully built Barracks in KingsLanding
+Successfully moved all units from Harrenhal to KingsLanding
+Cannot move units: starting city and destination are not neighbors
+House Stark:
+-Treasury Amount: 2343225.0
+-Controlled Cities (7): Winterfell, CastleBlack, Dreadfort, Harrenhal, Lannisport, CasterlyRock, KingsLanding
+House Stark conquered Dragonstone from House Baratheon
+Destination city has insufficient housing spaces
+Successfully built Barracks in Dragonstone
+Successfully moved all units from KingsLanding to Dragonstone
+House Stark conquered Meereen from House Targaryen
+House Stark:
+-Treasury Amount: 3813725.0
+-Controlled Cities (9): Winterfell, CastleBlack, Dreadfort, Harrenhal, Lannisport, CasterlyRock, KingsLanding, Dragonstone, Meereen
+House Stark conquered Myr from House Targaryen
+Great House Stark:
+-Treasury Amount: 4526325.0
+-Controlled Cities (10): Winterfell, CastleBlack, Dreadfort, Harrenhal, Lannisport, CasterlyRock, KingsLanding, Dragonstone, Meereen, Myr
+Successfully created House Martell
+Successfully created city Sunspear
+Successfully built Stable in Sunspear
+Successfully added 500 units of Horseman to city Sunspear
+Successfully added 250 units of Knight to city Sunspear
+City Sunspear does not have enough housing spaces to accommodate 500 units of Dothraki
+Sunspear (Megapolis):
+-Food storage: 297125.0
+-Food production: 70000.0
+-Tax base: 120000.0
+-Army: 750 Cavalry
+-Ruling House: House Martell
+Successfully built Stable in Sunspear
+Successfully added 500 units of Dothraki to city Sunspear
+Sunspear (Megapolis):
+-Food storage: 500600.0
+-Food production: 70000.0
+-Tax base: 120000.0
+-Army: 1250 Cavalry
+-Ruling House: House Martell
+City Sunspear does not have enough housing spaces to accommodate 3 units of Dragon
+Structure requires a more advanced city
+City Sunspear successfully upgraded to Capital
+Successfully built DragonLair in Sunspear
+Successfully added 3 units of Dragon to city Sunspear
+Sunspear (Capital):
+-Food storage: 769200.0
+-Food production: 70000.0
+-Tax base: 120000.0
+-Army: 1250 Cavalry, 3 AirForce
+-Ruling House: House Martell
+Westeros:
+-Houses (6): Baratheon, Bolton, Lannister, Martell, Stark, Targaryen
+-Cities (11): Winterfell, CastleBlack, Lannisport, CasterlyRock, KingsLanding, Dragonstone, Dreadfort, Harrenhal, Meereen, Myr, Sunspear
+Great House Stark:
+-Treasury Amount: 10170825.0
+-Controlled Cities (10): Winterfell, CastleBlack, Dreadfort, Harrenhal, Lannisport, CasterlyRock, KingsLanding, Dragonstone, Meereen, Myr
+House Martell:
+-Treasury Amount: 3259500.0
+-Controlled Cities (1): Sunspear
+House Baratheon:
+-Treasury Amount: 2864000.0
+-No Cities Controlled
+House Bolton:
+-Treasury Amount: 877000.0
+-No Cities Controlled
+House Lannister:
+-Treasury Amount: 3025000.0
+-No Cities Controlled
+House Targaryen:
+-Treasury Amount: 2655000.0
+-No Cities Controlled
+Cannot move units: starting city and destination are not neighbors
+All valid neighbor records added for city Sunspear
+House Martell conquered KingsLanding from House Stark
+Great House Stark:
+-Treasury Amount: 13091225.0
+-Controlled Cities (9): Winterfell, CastleBlack, Dreadfort, Harrenhal, Lannisport, CasterlyRock, Dragonstone, Meereen, Myr
+House Martell:
+-Treasury Amount: 4399500.0
+-Controlled Cities (2): Sunspear, KingsLanding
+No troops to move
+Destination city has insufficient housing spaces
+Successfully built DragonLair in KingsLanding
+Successfully built Stable in KingsLanding
+Destination city has insufficient housing spaces
+Successfully built Stable in KingsLanding
+Successfully moved all units from Sunspear to KingsLanding
+Cannot move units: starting city and destination are not neighbors
+House Martell conquered Dragonstone from House Stark
+City Dragonstone successfully upgraded to Megapolis
+Successfully built Stable in Dragonstone
+Successfully built Stable in Dragonstone
+Structure requires a more advanced city
+City Dragonstone successfully upgraded to Capital
+Successfully built DragonLair in Dragonstone
+Successfully moved all units from KingsLanding to Dragonstone
+House Martell conquered Myr from House Stark
+House Martell conquered Meereen from House Stark
+Great House Stark:
+-Treasury Amount: 17116725.0
+-Controlled Cities (6): Winterfell, CastleBlack, Dreadfort, Harrenhal, Lannisport, CasterlyRock
+Successfully moved all units from Dragonstone to KingsLanding
+House Martell conquered Harrenhal from House Stark
+Great House Stark:
+-Treasury Amount: 17649625.0
+-Controlled Cities (5): Winterfell, CastleBlack, Dreadfort, Lannisport, CasterlyRock
+House Martell:
+-Treasury Amount: 8151100.0
+-Controlled Cities (6): Sunspear, KingsLanding, Dragonstone, Myr, Meereen, Harrenhal
+Harrenhal (Megapolis):
+-Food storage: 3792910.0
+-Food production: 50000.0
+-Tax base: 23000.0
+-Army: 
+-Ruling House: House Martell
+City Harrenhal successfully upgraded to Capital
+Successfully built DragonLair in Harrenhal
+Successfully built Stable in Harrenhal
+Successfully built Stable in Harrenhal
+Successfully moved all units from KingsLanding to Harrenhal
+House Martell conquered CasterlyRock from House Stark
+House Stark:
+-Treasury Amount: 19040325.0
+-Controlled Cities (4): Winterfell, CastleBlack, Dreadfort, Lannisport
+Successfully built DragonLair in Winterfell
+Successfully built DragonLair in Winterfell
+Successfully built DragonLair in Winterfell
+Successfully built DragonLair in Winterfell
+Successfully built DragonLair in Winterfell
+Successfully added 15 units of Dragon to city Winterfell
+House Stark defended Winterfell from House Martell
+House Martell lost all attacking forces dispatched from Harrenhal
+Westeros:
+-Houses (6): Baratheon, Bolton, Lannister, Martell, Stark, Targaryen
+-Cities (11): Winterfell, CastleBlack, Lannisport, CasterlyRock, KingsLanding, Dragonstone, Dreadfort, Harrenhal, Meereen, Myr, Sunspear
+House Stark:
+-Treasury Amount: 18848525.0
+-Controlled Cities (4): Winterfell, CastleBlack, Dreadfort, Lannisport
+House Martell:
+-Treasury Amount: 14515600.0
+-Controlled Cities (7): Sunspear, KingsLanding, Dragonstone, Myr, Meereen, Harrenhal, CasterlyRock
+Harrenhal (Capital):
+-Food storage: 4664715.0
+-Food production: 50000.0
+-Tax base: 23000.0
+-Army: 
+-Ruling House: House Martell
+Winterfell (Capital):
+-Food storage: 1208805.0
+-Food production: 12000.0
+-Tax base: 25000.0
+-Army: 15 AirForce
+-Ruling House: House Stark
+For the Watch!

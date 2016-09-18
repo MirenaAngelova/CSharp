@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exam OOP\Exam 14 October 2015 ClashOfKings\ClashOfKings\ClashOfKings\bin\Debug\ClashOfKings.exe.config
+D:\SOFTUNI\Exam OOP\Exam 14 October 2015 ClashOfKings\ClashOfKings\ClashOfKings\bin\Debug\ClashOfKings.exe
+D:\SOFTUNI\Exam OOP\Exam 14 October 2015 ClashOfKings\ClashOfKings\ClashOfKings\bin\Debug\ClashOfKings.pdb
+D:\SOFTUNI\Exam OOP\Exam 14 October 2015 ClashOfKings\ClashOfKings\ClashOfKings\obj\Debug\ClashOfKings.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exam OOP\Exam 14 October 2015 ClashOfKings\ClashOfKings\ClashOfKings\obj\Debug\ClashOfKings.exe
+D:\SOFTUNI\Exam OOP\Exam 14 October 2015 ClashOfKings\ClashOfKings\ClashOfKings\obj\Debug\ClashOfKings.pdb

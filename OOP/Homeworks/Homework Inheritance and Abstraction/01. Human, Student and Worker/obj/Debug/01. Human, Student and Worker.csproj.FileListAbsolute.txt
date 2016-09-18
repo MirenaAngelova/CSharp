@@ -1,0 +1,6 @@
+D:\SOFTUNI\Homeworks\Homework Inheritance and Abstraction\01. Human, Student and Worker\bin\Debug\_01.Human__Student_and_Worker.exe.config
+D:\SOFTUNI\Homeworks\Homework Inheritance and Abstraction\01. Human, Student and Worker\bin\Debug\_01.Human__Student_and_Worker.exe
+D:\SOFTUNI\Homeworks\Homework Inheritance and Abstraction\01. Human, Student and Worker\bin\Debug\_01.Human__Student_and_Worker.pdb
+D:\SOFTUNI\Homeworks\Homework Inheritance and Abstraction\01. Human, Student and Worker\obj\Debug\01. Human, Student and Worker.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Homeworks\Homework Inheritance and Abstraction\01. Human, Student and Worker\obj\Debug\_01.Human__Student_and_Worker.exe
+D:\SOFTUNI\Homeworks\Homework Inheritance and Abstraction\01. Human, Student and Worker\obj\Debug\_01.Human__Student_and_Worker.pdb

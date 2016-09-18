@@ -1,0 +1,22 @@
+﻿namespace ClashOfKings.Contracts
+{
+    using System.Collections.Generic;
+    using Models.Armies;
+
+    public interface IArmyBase : IFoodProduceble
+    {
+        IEnumerable<IMilitaryUnit> AvailableMilitaryUnits { get; }
+
+        Dictionary<UnitType, int> AvailableUnitsByType { get; } 
+
+        IEnumerable<IArmyStructure> ArmyStructures { get; }
+
+        int AvailableUnitCapacity(UnitType type);
+
+        void AddUnits(ICollection<IMilitaryUnit> units);
+
+        ICollection<IMilitaryUnit> RemoveUnits();
+
+        void AddArmyStructure(IArmyStructure structure);
+    }
+}

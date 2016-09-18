@@ -1,0 +1,6 @@
+C:\Users\peter\Desktop\Homework Functional Programming\08. Excellent Students\bin\Debug\_08.Excellent_Students.exe.config
+C:\Users\peter\Desktop\Homework Functional Programming\08. Excellent Students\bin\Debug\_08.Excellent_Students.exe
+C:\Users\peter\Desktop\Homework Functional Programming\08. Excellent Students\bin\Debug\_08.Excellent_Students.pdb
+C:\Users\peter\Desktop\Homework Functional Programming\08. Excellent Students\obj\Debug\_08.Excellent_Students.exe
+C:\Users\peter\Desktop\Homework Functional Programming\08. Excellent Students\obj\Debug\_08.Excellent_Students.pdb
+C:\Users\peter\Desktop\Homework Functional Programming\08. Excellent Students\obj\Debug\08. Excellent Students.csprojResolveAssemblyReference.cache

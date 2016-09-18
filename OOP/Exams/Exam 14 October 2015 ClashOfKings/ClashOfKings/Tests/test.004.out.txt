@@ -1,0 +1,24 @@
+Successfully created House Mormont
+Successfully created city CastleBlack
+CastleBlack (Megapolis):
+-Food storage: 533.4
+-Food production: 300.0
+-Tax base: 10000.0
+-Army: 
+-Ruling House: House Mormont
+House Mormont has insufficient funds to upgrade CastleBlack
+House Mormont:
+-Treasury Amount: 20000.0
+-Controlled Cities (1): CastleBlack
+City CastleBlack successfully upgraded to Capital
+CastleBlack (Capital):
+-Food storage: 1433.4
+-Food production: 300.0
+-Tax base: 10000.0
+-Army: 
+-Ruling House: House Mormont
+House Mormont:
+-Treasury Amount: 20000.0
+-Controlled Cities (1): CastleBlack
+City CastleBlack is at the maximum level and cannot be upgraded further
+For the Watch!

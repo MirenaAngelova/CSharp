@@ -1,0 +1,21 @@
+Create-House Stark 100000
+Create-House Stark 0
+Create-City Winterfell Stark 0 0 0 0 0 Fortress
+Create-City Winterfell Stark 0 0 0 0 0 Fortress
+Build-Structure Barracks Winterfell
+House-Status Stark
+City-Status Winterfell
+Create-Unit 10000 FootSoldier Winterfell
+Create-Unit 5000 FootSoldier Winterfell
+House-Status Stark
+City-Status Winterfell
+Build-Structure DragonLair Winterfell
+Upgrade-City Winterfell
+Upgrade-City Winterfell
+Upgrade-City Winterfell
+Build-Structure DragonLair Winterfell
+House-Status Stark
+Create-City Dreadfort Stark 0 0 0 0 0 Fortress
+Add-Neighbors-To-City Winterfell Dreadfort 100
+Move Winterfell Dreadfort
+Exit

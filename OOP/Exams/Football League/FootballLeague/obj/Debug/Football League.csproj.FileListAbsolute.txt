@@ -1,0 +1,9 @@
+D:\SOFTUNI\Exsersises\Football League\FootballLeague\bin\Debug\FootballLeague.exe.config
+D:\SOFTUNI\Exsersises\Football League\FootballLeague\bin\Debug\FootballLeague.exe
+D:\SOFTUNI\Exsersises\Football League\FootballLeague\bin\Debug\FootballLeague.pdb
+D:\SOFTUNI\Exsersises\Football League\FootballLeague\obj\Debug\Football League.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Football League\FootballLeague\obj\Debug\FootballLeague.exe
+D:\SOFTUNI\Exsersises\Football League\FootballLeague\obj\Debug\FootballLeague.pdb
+D:\SOFTUNI\Exam OOP\Football League\FootballLeague\bin\Debug\FootballLeague.exe.config
+D:\SOFTUNI\Exam OOP\Football League\FootballLeague\obj\Debug\FootballLeague.exe
+D:\SOFTUNI\Exam OOP\Football League\FootballLeague\obj\Debug\FootballLeague.pdb

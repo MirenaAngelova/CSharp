@@ -1,0 +1,10 @@
+Create-House Mormont 0
+Create-City CastleBlack Mormont 120 30000 233.4 300 10000 Megapolis
+City-Status CastleBlack
+Upgrade-City CastleBlack
+House-Status Mormont
+Upgrade-City CastleBlack
+City-Status CastleBlack
+House-Status Mormont
+Upgrade-City CastleBlack
+Exit

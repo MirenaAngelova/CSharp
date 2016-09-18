@@ -1,0 +1,9 @@
+D:\SOFTUNI\Exsersises\Academy RPG\Academy RPG\bin\Debug\Academy RPG.exe.config
+D:\SOFTUNI\Exsersises\Academy RPG\Academy RPG\bin\Debug\Academy RPG.exe
+D:\SOFTUNI\Exsersises\Academy RPG\Academy RPG\bin\Debug\Academy RPG.pdb
+D:\SOFTUNI\Exsersises\Academy RPG\Academy RPG\obj\Debug\Academy RPG.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Academy RPG\Academy RPG\obj\Debug\Academy RPG.exe
+D:\SOFTUNI\Exsersises\Academy RPG\Academy RPG\obj\Debug\Academy RPG.pdb
+D:\SOFTUNI\Exam OOP\Academy RPG\Academy RPG\bin\Debug\Academy RPG.exe.config
+D:\SOFTUNI\Exam OOP\Academy RPG\Academy RPG\obj\Debug\Academy RPG.exe
+D:\SOFTUNI\Exam OOP\Academy RPG\Academy RPG\obj\Debug\Academy RPG.pdb

@@ -1,0 +1,6 @@
+D:\SOFTUNI\Homeworks\Homework Static Members and Namespaces\05.HTML Dispatcher\bin\Debug\05.HTML Dispatcher.exe.config
+D:\SOFTUNI\Homeworks\Homework Static Members and Namespaces\05.HTML Dispatcher\bin\Debug\05.HTML Dispatcher.exe
+D:\SOFTUNI\Homeworks\Homework Static Members and Namespaces\05.HTML Dispatcher\bin\Debug\05.HTML Dispatcher.pdb
+D:\SOFTUNI\Homeworks\Homework Static Members and Namespaces\05.HTML Dispatcher\obj\Debug\05.HTML Dispatcher.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Homeworks\Homework Static Members and Namespaces\05.HTML Dispatcher\obj\Debug\05.HTML Dispatcher.exe
+D:\SOFTUNI\Homeworks\Homework Static Members and Namespaces\05.HTML Dispatcher\obj\Debug\05.HTML Dispatcher.pdb

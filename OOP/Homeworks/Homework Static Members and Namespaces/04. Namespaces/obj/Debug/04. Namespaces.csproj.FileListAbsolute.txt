@@ -1,0 +1,2 @@
+D:\SOFTUNI\Homeworks\Homework Static Members and Namespaces\04. Namespaces\bin\Debug\_04.Namespaces.exe.config
+D:\SOFTUNI\Homeworks\Homework Static Members and Namespaces\04. Namespaces\obj\Debug\04. Namespaces.csprojResolveAssemblyReference.cache

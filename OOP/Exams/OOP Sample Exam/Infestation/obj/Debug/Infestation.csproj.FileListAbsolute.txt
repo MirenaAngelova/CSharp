@@ -1,0 +1,5 @@
+D:\SOFTUNI\Exam OOP\OOP Sample Exam\Infestation\bin\Debug\Infestation.exe
+D:\SOFTUNI\Exam OOP\OOP Sample Exam\Infestation\bin\Debug\Infestation.pdb
+D:\SOFTUNI\Exam OOP\OOP Sample Exam\Infestation\obj\Debug\Infestation.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exam OOP\OOP Sample Exam\Infestation\obj\Debug\Infestation.exe
+D:\SOFTUNI\Exam OOP\OOP Sample Exam\Infestation\obj\Debug\Infestation.pdb

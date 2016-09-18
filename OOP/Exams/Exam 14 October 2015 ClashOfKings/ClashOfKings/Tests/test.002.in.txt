@@ -1,0 +1,12 @@
+Create-House Lannister 140000
+Create-City Lannisport Lannister 0 0 0 1500 0 Capital
+Build-Structure Stable Lannisport
+Create-Unit 2000 Dothraki Lannisport
+Create-Unit 1250 Dothraki Lannisport
+City-Status Lannisport
+Build-Structure DragonLair Lannisport
+House-Status Lannister
+Continent-Status
+City-Status Lannisport
+City-Status Lannisport
+Exit

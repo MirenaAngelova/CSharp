@@ -1,0 +1,5 @@
+D:\SOFTUNI\Homeworks\Homework Other Types in OOP\04. Generic List Version\bin\Debug\_04.Generic_List_Version.exe.config
+D:\SOFTUNI\Homeworks\Homework Other Types in OOP\04. Generic List Version\bin\Debug\_04.Generic_List_Version.exe
+D:\SOFTUNI\Homeworks\Homework Other Types in OOP\04. Generic List Version\bin\Debug\_04.Generic_List_Version.pdb
+D:\SOFTUNI\Homeworks\Homework Other Types in OOP\04. Generic List Version\obj\Debug\_04.Generic_List_Version.exe
+D:\SOFTUNI\Homeworks\Homework Other Types in OOP\04. Generic List Version\obj\Debug\_04.Generic_List_Version.pdb

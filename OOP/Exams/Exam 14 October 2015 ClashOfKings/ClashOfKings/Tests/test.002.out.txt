@@ -1,0 +1,32 @@
+Successfully created House Lannister
+Successfully created city Lannisport
+Successfully built Stable in Lannisport
+City Lannisport does not have enough housing spaces to accommodate 2000 units of Dothraki
+Successfully added 1250 units of Dothraki to city Lannisport
+Lannisport (Capital):
+-Food storage: 2250.0
+-Food production: 1500.0
+-Tax base: 0.0
+-Army: 1250 Cavalry
+-Ruling House: House Lannister
+House Lannister doesn't have sufficient funds to build DragonLair
+House Lannister:
+-Treasury Amount: 33750.0
+-Controlled Cities (1): Lannisport
+Westeros:
+-Houses (1): Lannister
+-Cities (1): Lannisport
+Lannisport (Capital):
+-Food storage: 0.0
+-Food production: 1500.0
+-Tax base: 0.0
+-Army: 1250 Cavalry
+-Ruling House: House Lannister
+City Lannisport suffered starvation
+Lannisport (Capital):
+-Food storage: 60.0
+-Food production: 1500.0
+-Tax base: 0.0
+-Army: 800 Cavalry
+-Ruling House: House Lannister
+For the Watch!

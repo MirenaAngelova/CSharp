@@ -1,0 +1,20 @@
+Create-House Tully 375000
+Create-City Riverrun Tully 0 50000 0 300 1000 Megapolis
+Build-Structure Barracks Riverrun
+Build-Structure Stable Riverrun
+Build-Structure DragonLair Riverrun
+City-Status Riverrun
+Create-Unit 100 Unsullied Riverrun
+Create-Unit 100 Dothraki Riverrun
+Create-Unit 1 Dragon Riverrun
+City-Status Riverrun
+Upgrade-City Riverrun
+Build-Structure DragonLair Riverrun
+Create-Unit 1 Dragon Riverrun
+City-Status Riverrun
+Build-Structure DragonLair Riverrun
+Create-Unit 1000 Unsullied Riverrun
+City-Status Riverrun
+House-Status Tully
+Continent-Status
+Exit

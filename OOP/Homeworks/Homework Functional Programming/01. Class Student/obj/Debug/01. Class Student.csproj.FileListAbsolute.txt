@@ -1,0 +1,6 @@
+C:\Users\peter\Desktop\Homework Functional Programming\01. Class Student\bin\Debug\_01.Class_Student.exe.config
+C:\Users\peter\Desktop\Homework Functional Programming\01. Class Student\bin\Debug\_01.Class_Student.exe
+C:\Users\peter\Desktop\Homework Functional Programming\01. Class Student\bin\Debug\_01.Class_Student.pdb
+C:\Users\peter\Desktop\Homework Functional Programming\01. Class Student\obj\Debug\01. Class Student.csprojResolveAssemblyReference.cache
+C:\Users\peter\Desktop\Homework Functional Programming\01. Class Student\obj\Debug\_01.Class_Student.exe
+C:\Users\peter\Desktop\Homework Functional Programming\01. Class Student\obj\Debug\_01.Class_Student.pdb

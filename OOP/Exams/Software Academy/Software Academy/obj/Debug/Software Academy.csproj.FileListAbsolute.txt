@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Software Academy\Software Academy\bin\Debug\Software Academy.exe.config
+D:\SOFTUNI\Exsersises\Software Academy\Software Academy\bin\Debug\Software Academy.exe
+D:\SOFTUNI\Exsersises\Software Academy\Software Academy\bin\Debug\Software Academy.pdb
+D:\SOFTUNI\Exsersises\Software Academy\Software Academy\obj\Debug\Software Academy.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Software Academy\Software Academy\obj\Debug\Software Academy.exe
+D:\SOFTUNI\Exsersises\Software Academy\Software Academy\obj\Debug\Software Academy.pdb

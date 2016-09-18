@@ -1,0 +1,38 @@
+Successfully created House Stark
+House Stark already exists
+Successfully created city Winterfell
+City Winterfell already exists
+Successfully built Barracks in Winterfell
+House Stark:
+-Treasury Amount: 85000.0
+-Controlled Cities (1): Winterfell
+Winterfell (Fortress):
+-Food storage: 0.0
+-Food production: 0.0
+-Tax base: 0.0
+-Army: 
+-Ruling House: House Stark
+City Winterfell does not have enough housing spaces to accommodate 10000 units of FootSoldier
+Successfully added 5000 units of FootSoldier to city Winterfell
+City Winterfell suffered starvation
+House Stark:
+-Treasury Amount: 23750.0
+-Controlled Cities (1): Winterfell
+Winterfell (Fortress):
+-Food storage: 0.0
+-Food production: 0.0
+-Tax base: 0.0
+-Army: 
+-Ruling House: House Stark
+Structure requires a more advanced city
+City Winterfell successfully upgraded to Megapolis
+City Winterfell successfully upgraded to Capital
+City Winterfell is at the maximum level and cannot be upgraded further
+House Stark doesn't have sufficient funds to build DragonLair
+House Stark:
+-Treasury Amount: 23750.0
+-Controlled Cities (1): Winterfell
+Successfully created city Dreadfort
+All valid neighbor records added for city Winterfell
+No troops to move
+For the Watch!

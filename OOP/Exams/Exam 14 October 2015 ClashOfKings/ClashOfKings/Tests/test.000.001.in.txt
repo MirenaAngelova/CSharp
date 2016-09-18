@@ -1,0 +1,14 @@
+Create-House Lannister 3000000
+Create-House Stark 1200000
+Create-City Winterfell Stark 150 450 5000 10000 97.75 Fortress
+Create-City CasterlyRock Lannister 1 1 1 1 1 default
+Create-Unit 5000 FootSoldier Winterfell
+Build-Structure Barracks Winterfell
+Create-Unit 5000 FootSoldier Winterfell
+Add-Neighbors-To-City Winterfell CasterlyRock 250
+Attack Winterfell CasterlyRock
+House-Status Stark
+House-Status Lannister
+City-Status Winterfell
+Continent-Status
+Exit

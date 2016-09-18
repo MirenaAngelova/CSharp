@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\GameEngine\GameEngine\bin\Debug\GameEngine.exe.config
+C:\Users\Admin\Desktop\GameEngine\GameEngine\obj\Debug\GameEngine.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\GameEngine\GameEngine\bin\Debug\GameEngine.exe
+C:\Users\Admin\Desktop\GameEngine\GameEngine\bin\Debug\GameEngine.pdb
+C:\Users\Admin\Desktop\GameEngine\GameEngine\obj\Debug\GameEngine.exe
+C:\Users\Admin\Desktop\GameEngine\GameEngine\obj\Debug\GameEngine.pdb
+D:\SOFTUNI\Exam OOP\GameEngine\GameEngine\bin\Debug\GameEngine.exe.config
+D:\SOFTUNI\Exam OOP\GameEngine\GameEngine\obj\Debug\GameEngine.exe
+D:\SOFTUNI\Exam OOP\GameEngine\GameEngine\obj\Debug\GameEngine.pdb

@@ -1,0 +1,3 @@
+C:\Users\Mikselkata\Desktop\FurnitureManufacturer\bin\Debug\Furnitures.exe.config
+D:\SOFTUNI\Exam OOP\OOP Sample Exam\FurnitureManufacturer\bin\Debug\Furnitures.exe.config
+D:\SOFTUNI\Exam OOP\OOP Sample Exam\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.csprojResolveAssemblyReference.cache

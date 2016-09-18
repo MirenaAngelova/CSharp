@@ -1,0 +1,6 @@
+D:\SOFTUNI\Homeworks\Homework Defining Classes\02. Laptop Shop\bin\Debug\_02.Laptop_Shop.exe.config
+D:\SOFTUNI\Homeworks\Homework Defining Classes\02. Laptop Shop\bin\Debug\_02.Laptop_Shop.exe
+D:\SOFTUNI\Homeworks\Homework Defining Classes\02. Laptop Shop\bin\Debug\_02.Laptop_Shop.pdb
+D:\SOFTUNI\Homeworks\Homework Defining Classes\02. Laptop Shop\obj\Debug\02. Laptop Shop.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Homeworks\Homework Defining Classes\02. Laptop Shop\obj\Debug\_02.Laptop_Shop.exe
+D:\SOFTUNI\Homeworks\Homework Defining Classes\02. Laptop Shop\obj\Debug\_02.Laptop_Shop.pdb

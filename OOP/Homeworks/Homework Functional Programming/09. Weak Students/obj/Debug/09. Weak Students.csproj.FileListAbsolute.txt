@@ -1,0 +1,6 @@
+C:\Users\peter\Desktop\Homework Functional Programming\09. Weak Students\bin\Debug\_09.Weak_Students.exe.config
+C:\Users\peter\Desktop\Homework Functional Programming\09. Weak Students\bin\Debug\_09.Weak_Students.exe
+C:\Users\peter\Desktop\Homework Functional Programming\09. Weak Students\bin\Debug\_09.Weak_Students.pdb
+C:\Users\peter\Desktop\Homework Functional Programming\09. Weak Students\obj\Debug\09. Weak Students.csprojResolveAssemblyReference.cache
+C:\Users\peter\Desktop\Homework Functional Programming\09. Weak Students\obj\Debug\_09.Weak_Students.exe
+C:\Users\peter\Desktop\Homework Functional Programming\09. Weak Students\obj\Debug\_09.Weak_Students.pdb

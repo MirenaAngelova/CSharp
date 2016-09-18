@@ -1,0 +1,28 @@
+Successfully created House Greyjoy
+Successfully created city Pyke
+Successfully built Barracks in Pyke
+Successfully added 100 units of SellSword to city Pyke
+Successfully created House Martell
+Successfully created city Sunspear
+Successfully built Barracks in Sunspear
+Successfully added 500 units of SellSword to city Sunspear
+All valid neighbor records added for city Pyke
+House Martell conquered Pyke from House Greyjoy
+House Martell:
+-Treasury Amount: 977600.0
+-Controlled Cities (2): Sunspear, Pyke
+Successfully created city Tarth
+Successfully created city CastleBlack
+Successfully created city KingsLanding
+Successfully created city StormsEnd
+Successfully created city Riverrun
+Successfully created city Eyrie
+Successfully created city Winterfell
+House Martell:
+-Treasury Amount: 996400.0
+-Controlled Cities (9): Sunspear, Pyke, Tarth, CastleBlack, KingsLanding, StormsEnd, Riverrun, Eyrie, Winterfell
+Successfully created city Twins
+Great House Martell:
+-Treasury Amount: 1005100.0
+-Controlled Cities (10): Sunspear, Pyke, Tarth, CastleBlack, KingsLanding, StormsEnd, Riverrun, Eyrie, Winterfell, Twins
+For the Watch!
