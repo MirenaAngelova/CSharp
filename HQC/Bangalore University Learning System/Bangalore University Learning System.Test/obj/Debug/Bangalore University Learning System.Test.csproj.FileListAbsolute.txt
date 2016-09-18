@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\Bangalore University Learning System\Bangalore University Learning System.Test\bin\Debug\Bangalore University Learning System.Test.dll
+C:\Users\Admin\Desktop\Bangalore University Learning System\Bangalore University Learning System.Test\bin\Debug\Bangalore University Learning System.Test.pdb
+C:\Users\Admin\Desktop\Bangalore University Learning System\Bangalore University Learning System.Test\bin\Debug\Bangalore University Learning System.exe
+C:\Users\Admin\Desktop\Bangalore University Learning System\Bangalore University Learning System.Test\bin\Debug\Bangalore University Learning System.pdb
+C:\Users\Admin\Desktop\Bangalore University Learning System\Bangalore University Learning System.Test\obj\Debug\Bangalore University Learning System.Test.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Bangalore University Learning System\Bangalore University Learning System.Test\obj\Debug\Bangalore University Learning System.Test.dll
+C:\Users\Admin\Desktop\Bangalore University Learning System\Bangalore University Learning System.Test\obj\Debug\Bangalore University Learning System.Test.pdb
+C:\Users\Admin\Desktop\Bangalore University Learning System\Bangalore University Learning System.Test\bin\Debug\Moq.dll
+C:\Users\Admin\Desktop\Bangalore University Learning System\Bangalore University Learning System.Test\bin\Debug\Moq.xml

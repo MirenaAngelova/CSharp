@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\BoatRacingSimulator\BoatRacingSimulator\bin\Debug\BoatRacingSimulator.exe.config
+C:\Users\Admin\Desktop\BoatRacingSimulator\BoatRacingSimulator\obj\Debug\BoatRacingSimulator.csprojResolveAssemblyReference.cache

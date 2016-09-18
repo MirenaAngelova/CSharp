@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\BuhtigIssueTracker2\BuhtigIssueTracker2\bin\Debug\BuhtigIssueTracker2.exe.config
+C:\Users\Admin\Desktop\BuhtigIssueTracker2\BuhtigIssueTracker2\bin\Debug\BuhtigIssueTracker2.exe
+C:\Users\Admin\Desktop\BuhtigIssueTracker2\BuhtigIssueTracker2\bin\Debug\BuhtigIssueTracker2.pdb
+C:\Users\Admin\Desktop\BuhtigIssueTracker2\BuhtigIssueTracker2\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+C:\Users\Admin\Desktop\BuhtigIssueTracker2\BuhtigIssueTracker2\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+C:\Users\Admin\Desktop\BuhtigIssueTracker2\BuhtigIssueTracker2\obj\Debug\BuhtigIssueTracker2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\BuhtigIssueTracker2\BuhtigIssueTracker2\obj\Debug\BuhtigIssueTracker2.exe
+C:\Users\Admin\Desktop\BuhtigIssueTracker2\BuhtigIssueTracker2\obj\Debug\BuhtigIssueTracker2.pdb

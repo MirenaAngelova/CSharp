@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Air Conditioner Testing System\Air Conditioner Testing System\bin\Debug\Air Conditioner Testing System.exe.config
+C:\Users\Admin\Desktop\Air Conditioner Testing System\Air Conditioner Testing System\obj\Debug\Air Conditioner Testing System.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Air Conditioner Testing System\Air Conditioner Testing System\bin\Debug\Air Conditioner Testing System.exe
+C:\Users\Admin\Desktop\Air Conditioner Testing System\Air Conditioner Testing System\bin\Debug\Air Conditioner Testing System.pdb
+C:\Users\Admin\Desktop\Air Conditioner Testing System\Air Conditioner Testing System\obj\Debug\Air Conditioner Testing System.exe
+C:\Users\Admin\Desktop\Air Conditioner Testing System\Air Conditioner Testing System\obj\Debug\Air Conditioner Testing System.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\BuhtigIssueTracker2\BuhtigIssueTracker2.Tests\bin\Debug\BuhtigIssueTracker2.Tests.dll
+C:\Users\Admin\Desktop\BuhtigIssueTracker2\BuhtigIssueTracker2.Tests\bin\Debug\BuhtigIssueTracker2.Tests.pdb
+C:\Users\Admin\Desktop\BuhtigIssueTracker2\BuhtigIssueTracker2.Tests\bin\Debug\BuhtigIssueTracker2.exe
+C:\Users\Admin\Desktop\BuhtigIssueTracker2\BuhtigIssueTracker2.Tests\bin\Debug\Moq.dll
+C:\Users\Admin\Desktop\BuhtigIssueTracker2\BuhtigIssueTracker2.Tests\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+C:\Users\Admin\Desktop\BuhtigIssueTracker2\BuhtigIssueTracker2.Tests\bin\Debug\BuhtigIssueTracker2.pdb
+C:\Users\Admin\Desktop\BuhtigIssueTracker2\BuhtigIssueTracker2.Tests\bin\Debug\Moq.xml
+C:\Users\Admin\Desktop\BuhtigIssueTracker2\BuhtigIssueTracker2.Tests\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+C:\Users\Admin\Desktop\BuhtigIssueTracker2\BuhtigIssueTracker2.Tests\obj\Debug\BuhtigIssueTracker2.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\BuhtigIssueTracker2\BuhtigIssueTracker2.Tests\obj\Debug\BuhtigIssueTracker2.Tests.dll
+C:\Users\Admin\Desktop\BuhtigIssueTracker2\BuhtigIssueTracker2.Tests\obj\Debug\BuhtigIssueTracker2.Tests.pdb

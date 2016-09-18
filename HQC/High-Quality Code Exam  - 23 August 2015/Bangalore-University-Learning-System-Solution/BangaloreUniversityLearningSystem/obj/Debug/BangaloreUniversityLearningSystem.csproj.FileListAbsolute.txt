@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Solution\BangaloreUniversityLearningSystem\bin\Debug\BangaloreUniversityLearningSystem.exe.config
+C:\Users\Admin\Desktop\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Solution\BangaloreUniversityLearningSystem\bin\Debug\BangaloreUniversityLearningSystem.exe
+C:\Users\Admin\Desktop\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Solution\BangaloreUniversityLearningSystem\bin\Debug\BangaloreUniversityLearningSystem.pdb
+C:\Users\Admin\Desktop\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Solution\BangaloreUniversityLearningSystem\obj\Debug\BangaloreUniversityLearningSystem.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Solution\BangaloreUniversityLearningSystem\obj\Debug\BangaloreUniversityLearningSystem.exe
+C:\Users\Admin\Desktop\High-Quality Code Exam  - 23 August 2015\Bangalore-University-Learning-System-Solution\BangaloreUniversityLearningSystem\obj\Debug\BangaloreUniversityLearningSystem.pdb

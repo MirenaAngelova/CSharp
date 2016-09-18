@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\ChepelareHotelBookingSystem2\ChepelareHotelBookingSystem2.Test\bin\Debug\ChepelareHotelBookingSystem2.Test.dll
+C:\Users\Admin\Desktop\ChepelareHotelBookingSystem2\ChepelareHotelBookingSystem2.Test\bin\Debug\ChepelareHotelBookingSystem2.Test.pdb
+C:\Users\Admin\Desktop\ChepelareHotelBookingSystem2\ChepelareHotelBookingSystem2.Test\bin\Debug\ChepelareHotelBookingSystem2.exe
+C:\Users\Admin\Desktop\ChepelareHotelBookingSystem2\ChepelareHotelBookingSystem2.Test\bin\Debug\Moq.dll
+C:\Users\Admin\Desktop\ChepelareHotelBookingSystem2\ChepelareHotelBookingSystem2.Test\bin\Debug\ChepelareHotelBookingSystem2.pdb
+C:\Users\Admin\Desktop\ChepelareHotelBookingSystem2\ChepelareHotelBookingSystem2.Test\bin\Debug\Moq.xml
+C:\Users\Admin\Desktop\ChepelareHotelBookingSystem2\ChepelareHotelBookingSystem2.Test\obj\Debug\ChepelareHotelBookingSystem2.Test.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ChepelareHotelBookingSystem2\ChepelareHotelBookingSystem2.Test\obj\Debug\ChepelareHotelBookingSystem2.Test.dll
+C:\Users\Admin\Desktop\ChepelareHotelBookingSystem2\ChepelareHotelBookingSystem2.Test\obj\Debug\ChepelareHotelBookingSystem2.Test.pdb

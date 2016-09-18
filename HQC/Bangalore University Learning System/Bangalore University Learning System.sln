@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bangalore University Learning System", "Bangalore University Learning System\Bangalore University Learning System.csproj", "{69F5C436-98DF-4B89-954E-D26AE1BAE1D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bangalore University Learning System.Test", "Bangalore University Learning System.Test\Bangalore University Learning System.Test.csproj", "{BDFF3FB5-65BC-4BEA-8D68-7B72DA9A91EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69F5C436-98DF-4B89-954E-D26AE1BAE1D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F5C436-98DF-4B89-954E-D26AE1BAE1D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F5C436-98DF-4B89-954E-D26AE1BAE1D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F5C436-98DF-4B89-954E-D26AE1BAE1D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDFF3FB5-65BC-4BEA-8D68-7B72DA9A91EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFF3FB5-65BC-4BEA-8D68-7B72DA9A91EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFF3FB5-65BC-4BEA-8D68-7B72DA9A91EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFF3FB5-65BC-4BEA-8D68-7B72DA9A91EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

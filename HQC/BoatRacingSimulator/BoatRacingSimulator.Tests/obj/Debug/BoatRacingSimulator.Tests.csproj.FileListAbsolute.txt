@@ -1,0 +1,1 @@
+C:\Users\Admin\Desktop\BoatRacingSimulator\BoatRacingSimulator.Tests\obj\Debug\BoatRacingSimulator.Tests.csprojResolveAssemblyReference.cache

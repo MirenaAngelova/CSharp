@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\ChepelareHotelBookingSystem2\ChepelareHotelBookingSystem2\bin\Debug\ChepelareHotelBookingSystem2.exe.config
+C:\Users\Admin\Desktop\ChepelareHotelBookingSystem2\ChepelareHotelBookingSystem2\obj\Debug\ChepelareHotelBookingSystem2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ChepelareHotelBookingSystem2\ChepelareHotelBookingSystem2\bin\Debug\ChepelareHotelBookingSystem2.exe
+C:\Users\Admin\Desktop\ChepelareHotelBookingSystem2\ChepelareHotelBookingSystem2\bin\Debug\ChepelareHotelBookingSystem2.pdb
+C:\Users\Admin\Desktop\ChepelareHotelBookingSystem2\ChepelareHotelBookingSystem2\obj\Debug\ChepelareHotelBookingSystem2.exe
+C:\Users\Admin\Desktop\ChepelareHotelBookingSystem2\ChepelareHotelBookingSystem2\obj\Debug\ChepelareHotelBookingSystem2.pdb

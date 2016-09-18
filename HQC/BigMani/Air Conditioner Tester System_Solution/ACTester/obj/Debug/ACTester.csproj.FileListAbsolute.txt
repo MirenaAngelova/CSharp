@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\BigMani\Air Conditioner Tester System_Solution\ACTester\bin\Debug\ACTester.exe.config
+C:\Users\Admin\Desktop\BigMani\Air Conditioner Tester System_Solution\ACTester\bin\Debug\ACTester.exe
+C:\Users\Admin\Desktop\BigMani\Air Conditioner Tester System_Solution\ACTester\bin\Debug\ACTester.pdb
+C:\Users\Admin\Desktop\BigMani\Air Conditioner Tester System_Solution\ACTester\obj\Debug\ACTester.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\BigMani\Air Conditioner Tester System_Solution\ACTester\obj\Debug\ACTester.exe
+C:\Users\Admin\Desktop\BigMani\Air Conditioner Tester System_Solution\ACTester\obj\Debug\ACTester.pdb

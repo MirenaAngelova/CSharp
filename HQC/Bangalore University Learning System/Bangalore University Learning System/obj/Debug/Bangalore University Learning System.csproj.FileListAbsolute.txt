@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Bangalore University Learning System\Bangalore University Learning System\bin\Debug\Bangalore University Learning System.exe.config
+C:\Users\Admin\Desktop\Bangalore University Learning System\Bangalore University Learning System\bin\Debug\Bangalore University Learning System.exe
+C:\Users\Admin\Desktop\Bangalore University Learning System\Bangalore University Learning System\bin\Debug\Bangalore University Learning System.pdb
+C:\Users\Admin\Desktop\Bangalore University Learning System\Bangalore University Learning System\obj\Debug\Bangalore University Learning System.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Bangalore University Learning System\Bangalore University Learning System\obj\Debug\Bangalore University Learning System.exe
+C:\Users\Admin\Desktop\Bangalore University Learning System\Bangalore University Learning System\obj\Debug\Bangalore University Learning System.pdb
