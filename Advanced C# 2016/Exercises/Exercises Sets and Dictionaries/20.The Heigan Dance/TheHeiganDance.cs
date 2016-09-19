@@ -31,9 +31,13 @@ namespace _20.The_Heigan_Dance
             damageToHeigan = double.Parse(Console.ReadLine());
             player = new Player(PlayerHitPoints, PlayerStartRow, PlayerStartCol, damageToHeigan);
             heigan = new Heigan(HeiganHitPoints, damageToPlayer);
+           
 
             while (true)
             {
+                ApplyDamageToHeigan();
+                CheckHeiganDeath();
+
                 string[] paramArgs = Console.ReadLine().Split();
                 //Enum spell = (Spell)Enum.Parse(typeof(Spell), paramArgs[0]);
                 string spell = paramArgs[0];
@@ -48,35 +52,25 @@ namespace _20.The_Heigan_Dance
                     if (player.Row - 1 >= 0 && !IsDamagedCell(player.Row - 1, player.Col))
                     {
                         player.Row--;
-                        ApplyDamageToHeigan();
-                        CheckHeiganDeath();
-                        DecreaseCloudTurns();
+                        cloudsCount = 0;
                     }
                     else if (player.Col + 1 < ChamberCols && !IsDamagedCell(player.Row, player.Col + 1))
                     {
                         player.Col++;
-                        ApplyDamageToHeigan();
-                        CheckHeiganDeath();
-                        DecreaseCloudTurns();
+                        cloudsCount = 0;
                     }
                     else if (player.Row + 1 < ChamberRows && !IsDamagedCell(player.Row + 1, player.Col))
                     {
                         player.Row++;
-                        ApplyDamageToHeigan();
-                        CheckHeiganDeath();
-                        DecreaseCloudTurns();
+                        cloudsCount = 0;
                     }
                     else if (player.Col - 1 >= 0 && !IsDamagedCell(player.Row, player.Col - 1))
                     {
                         player.Col--;
-                        ApplyDamageToHeigan();
-                        CheckHeiganDeath();
-                        DecreaseCloudTurns();
+                        cloudsCount = 0;
                     }
                     else
                     {
-                        ApplyDamageToHeigan();
-                        CheckHeiganDeath();
                         if (spell == "Eruption")
                         {
                             DecreaseCloudTurns();
@@ -112,7 +106,15 @@ namespace _20.The_Heigan_Dance
             if (player.HitPoints <= 0)
             {
                 Console.WriteLine($"Heigan: {heigan.HitPoints:F2}");
-                Console.WriteLine($"Player: Killed by {spell}");
+                if(spell == "Cloud")
+                {
+                    Console.WriteLine($"Player: Killed by Plague {spell}");
+                }
+                else
+                {
+                    Console.WriteLine($"Player: Killed by {spell}");
+                }
+                
                 Console.WriteLine($"Final position: {player.Row}, {player.Col}");
                 Environment.Exit(0);
             }
