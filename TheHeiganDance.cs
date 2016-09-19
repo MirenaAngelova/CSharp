@@ -53,41 +53,24 @@ namespace _20.The_Heigan_Dance
                     {
                         player.Row--;
                         cloudsCount = 0;
-                        //ApplyDamageToHeigan();
-                        //CheckHeiganDeath();
-                        //DecreaseCloudTurns();
                     }
                     else if (player.Col + 1 < ChamberCols && !IsDamagedCell(player.Row, player.Col + 1))
                     {
                         player.Col++;
                         cloudsCount = 0;
-
-                        //ApplyDamageToHeigan();
-                        //CheckHeiganDeath();
-                        //DecreaseCloudTurns();
                     }
                     else if (player.Row + 1 < ChamberRows && !IsDamagedCell(player.Row + 1, player.Col))
                     {
                         player.Row++;
                         cloudsCount = 0;
-
-                        //ApplyDamageToHeigan();
-                        //CheckHeiganDeath();
-                        //DecreaseCloudTurns();
                     }
                     else if (player.Col - 1 >= 0 && !IsDamagedCell(player.Row, player.Col - 1))
                     {
                         player.Col--;
                         cloudsCount = 0;
-
-                        //ApplyDamageToHeigan();
-                        //CheckHeiganDeath();
-                        //DecreaseCloudTurns();
                     }
                     else
                     {
-                        //ApplyDamageToHeigan();
-                        //CheckHeiganDeath();
                         if (spell == "Eruption")
                         {
                             DecreaseCloudTurns();
