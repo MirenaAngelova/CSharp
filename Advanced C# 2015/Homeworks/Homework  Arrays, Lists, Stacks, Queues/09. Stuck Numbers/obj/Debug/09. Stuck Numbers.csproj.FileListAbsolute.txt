@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\09. Stuck Numbers\bin\Debug\_09.Stuck_Numbers.exe.config
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\09. Stuck Numbers\bin\Debug\_09.Stuck_Numbers.exe
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\09. Stuck Numbers\bin\Debug\_09.Stuck_Numbers.pdb
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\09. Stuck Numbers\obj\Debug\09. Stuck Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\09. Stuck Numbers\obj\Debug\_09.Stuck_Numbers.exe
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\09. Stuck Numbers\obj\Debug\_09.Stuck_Numbers.pdb

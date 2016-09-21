@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\30.Couples Frequency\bin\Debug\30.Couples Frequency.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\30.Couples Frequency\bin\Debug\30.Couples Frequency.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\30.Couples Frequency\bin\Debug\30.Couples Frequency.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\30.Couples Frequency\obj\Debug\30.Couples Frequency.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\30.Couples Frequency\obj\Debug\30.Couples Frequency.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\30.Couples Frequency\obj\Debug\30.Couples Frequency.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\30.Couples Frequency\bin\Debug\30.Couples Frequency.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\30.Couples Frequency\obj\Debug\30.Couples Frequency.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\30.Couples Frequency\obj\Debug\30.Couples Frequency.pdb

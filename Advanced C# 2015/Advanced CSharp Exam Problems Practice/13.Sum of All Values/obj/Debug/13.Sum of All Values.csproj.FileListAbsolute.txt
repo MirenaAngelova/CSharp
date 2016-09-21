@@ -1,0 +1,11 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\13.Sum of All Values\bin\Debug\13.Sum of All Values.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\13.Sum of All Values\bin\Debug\13.Sum of All Values.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\13.Sum of All Values\bin\Debug\13.Sum of All Values.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\13.Sum of All Values\obj\Debug\13.Sum of All Values.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\13.Sum of All Values\obj\Debug\13.Sum of All Values.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\13.Sum of All Values\bin\Debug\13.Sum of All Values.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\13.Sum of All Values\obj\Debug\13.Sum of All Values.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\13.Sum of All Values\obj\Debug\13.Sum of All Values.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\13.Sum of All Values\bin\Debug\13.Sum of All Values.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\13.Sum of All Values\bin\Debug\13.Sum of All Values.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\13.Sum of All Values\obj\Debug\13.Sum of All Values.csprojResolveAssemblyReference.cache

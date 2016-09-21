@@ -1,0 +1,7 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\12.PhoneNumbers\bin\Debug\12.PhoneNumbers.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\12.PhoneNumbers\bin\Debug\12.PhoneNumbers.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\12.PhoneNumbers\bin\Debug\12.PhoneNumbers.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\12.PhoneNumbers\bin\Debug\12.PhoneNumbers.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\12.PhoneNumbers\obj\Debug\12.PhoneNumbers.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\12.PhoneNumbers\obj\Debug\12.PhoneNumbers.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\12.PhoneNumbers\obj\Debug\12.PhoneNumbers.pdb

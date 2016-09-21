@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework  Regular Expressions\09.  Semantic HTML\bin\Debug\_09.Semantic_HTML.exe.config
+C:\Users\Pete\Desktop\Homework  Regular Expressions\09.  Semantic HTML\bin\Debug\_09.Semantic_HTML.exe
+C:\Users\Pete\Desktop\Homework  Regular Expressions\09.  Semantic HTML\bin\Debug\_09.Semantic_HTML.pdb
+C:\Users\Pete\Desktop\Homework  Regular Expressions\09.  Semantic HTML\obj\Debug\09.  Semantic HTML.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework  Regular Expressions\09.  Semantic HTML\obj\Debug\_09.Semantic_HTML.exe
+C:\Users\Pete\Desktop\Homework  Regular Expressions\09.  Semantic HTML\obj\Debug\_09.Semantic_HTML.pdb

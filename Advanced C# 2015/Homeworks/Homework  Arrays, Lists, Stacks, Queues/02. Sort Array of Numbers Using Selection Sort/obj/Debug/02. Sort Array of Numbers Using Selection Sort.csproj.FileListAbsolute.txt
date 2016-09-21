@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\02. Sort Array of Numbers Using Selection Sort\bin\Debug\_02.Sort_Array_of_Numbers_Using_Selection_Sort.exe.config
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\02. Sort Array of Numbers Using Selection Sort\obj\Debug\02. Sort Array of Numbers Using Selection Sort.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\02. Sort Array of Numbers Using Selection Sort\bin\Debug\_02.Sort_Array_of_Numbers_Using_Selection_Sort.exe
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\02. Sort Array of Numbers Using Selection Sort\bin\Debug\_02.Sort_Array_of_Numbers_Using_Selection_Sort.pdb
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\02. Sort Array of Numbers Using Selection Sort\obj\Debug\_02.Sort_Array_of_Numbers_Using_Selection_Sort.exe
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\02. Sort Array of Numbers Using Selection Sort\obj\Debug\_02.Sort_Array_of_Numbers_Using_Selection_Sort.pdb

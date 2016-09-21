@@ -1,0 +1,12 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\43.Text Transformer\bin\Debug\43.Text Transformer.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\43.Text Transformer\bin\Debug\43.Text Transformer.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\43.Text Transformer\bin\Debug\43.Text Transformer.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\43.Text Transformer\obj\Debug\43.Text Transformer.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\43.Text Transformer\obj\Debug\43.Text Transformer.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\43.Text Transformer\obj\Debug\43.Text Transformer.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\43.Text Transformer\bin\Debug\43.Text Transformer.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\43.Text Transformer\obj\Debug\43.Text Transformer.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\43.Text Transformer\obj\Debug\43.Text Transformer.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\43.Text Transformer\bin\Debug\43.Text Transformer.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\43.Text Transformer\bin\Debug\43.Text Transformer.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\43.Text Transformer\obj\Debug\43.Text Transformer.csprojResolveAssemblyReference.cache

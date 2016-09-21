@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework  Regular Expressions\07.  Query Mess\bin\Debug\_07.Query_Mess.exe.config
+C:\Users\Pete\Desktop\Homework  Regular Expressions\07.  Query Mess\bin\Debug\_07.Query_Mess.exe
+C:\Users\Pete\Desktop\Homework  Regular Expressions\07.  Query Mess\bin\Debug\_07.Query_Mess.pdb
+C:\Users\Pete\Desktop\Homework  Regular Expressions\07.  Query Mess\obj\Debug\07.  Query Mess.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework  Regular Expressions\07.  Query Mess\obj\Debug\_07.Query_Mess.exe
+C:\Users\Pete\Desktop\Homework  Regular Expressions\07.  Query Mess\obj\Debug\_07.Query_Mess.pdb

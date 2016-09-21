@@ -1,0 +1,5 @@
+C:\Users\Pete\Desktop\Homework  Streams and Files\04. Copy Binary File\bin\Debug\_04.Copy_Binary_File.exe.config
+C:\Users\Pete\Desktop\Homework  Streams and Files\04. Copy Binary File\bin\Debug\_04.Copy_Binary_File.exe
+C:\Users\Pete\Desktop\Homework  Streams and Files\04. Copy Binary File\bin\Debug\_04.Copy_Binary_File.pdb
+C:\Users\Pete\Desktop\Homework  Streams and Files\04. Copy Binary File\obj\Debug\_04.Copy_Binary_File.exe
+C:\Users\Pete\Desktop\Homework  Streams and Files\04. Copy Binary File\obj\Debug\_04.Copy_Binary_File.pdb

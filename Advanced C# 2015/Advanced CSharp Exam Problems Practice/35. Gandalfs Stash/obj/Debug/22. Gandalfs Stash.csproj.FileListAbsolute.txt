@@ -1,0 +1,3 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\35. Gandalfs Stash\bin\Debug\_35.Gandalfs_Stash.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\35. Gandalfs Stash\obj\Debug\_35.Gandalfs_Stash.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\35. Gandalfs Stash\obj\Debug\_35.Gandalfs_Stash.pdb

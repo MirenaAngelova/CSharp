@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\27.To The Stars\bin\Debug\27.To The Stars.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\27.To The Stars\bin\Debug\27.To The Stars.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\27.To The Stars\bin\Debug\27.To The Stars.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\27.To The Stars\obj\Debug\27.To The Stars.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\27.To The Stars\obj\Debug\27.To The Stars.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\27.To The Stars\obj\Debug\27.To The Stars.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\27.To The Stars\bin\Debug\27.To The Stars.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\27.To The Stars\obj\Debug\27.To The Stars.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\27.To The Stars\obj\Debug\27.To The Stars.pdb

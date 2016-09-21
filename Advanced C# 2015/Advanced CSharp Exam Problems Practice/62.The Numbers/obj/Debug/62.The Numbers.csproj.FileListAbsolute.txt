@@ -1,0 +1,5 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\62.The Numbers\bin\Debug\62.The Numbers.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\62.The Numbers\bin\Debug\62.The Numbers.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\62.The Numbers\bin\Debug\62.The Numbers.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\62.The Numbers\obj\Debug\62.The Numbers.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\62.The Numbers\obj\Debug\62.The Numbers.pdb

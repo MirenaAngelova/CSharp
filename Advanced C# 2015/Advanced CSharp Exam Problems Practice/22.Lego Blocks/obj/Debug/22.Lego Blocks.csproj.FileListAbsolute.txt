@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\22.Lego Blocks\bin\Debug\22.Lego Blocks.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\22.Lego Blocks\bin\Debug\22.Lego Blocks.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\22.Lego Blocks\bin\Debug\22.Lego Blocks.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\22.Lego Blocks\obj\Debug\22.Lego Blocks.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\22.Lego Blocks\obj\Debug\22.Lego Blocks.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\22.Lego Blocks\obj\Debug\22.Lego Blocks.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\22.Lego Blocks\bin\Debug\22.Lego Blocks.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\22.Lego Blocks\obj\Debug\22.Lego Blocks.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\22.Lego Blocks\obj\Debug\22.Lego Blocks.pdb

@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\29.Join Lists\bin\Debug\29.Join Lists.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\29.Join Lists\bin\Debug\29.Join Lists.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\29.Join Lists\bin\Debug\29.Join Lists.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\29.Join Lists\obj\Debug\29.Use Your Chains Buddy.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\29.Join Lists\obj\Debug\29.Join Lists.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\29.Join Lists\obj\Debug\29.Join Lists.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\29.Join Lists\bin\Debug\29.Join Lists.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\29.Join Lists\obj\Debug\29.Join Lists.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\29.Join Lists\obj\Debug\29.Join Lists.pdb

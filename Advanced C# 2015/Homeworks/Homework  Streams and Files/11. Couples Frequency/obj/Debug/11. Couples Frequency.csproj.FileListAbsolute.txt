@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework  Streams and Files\11. Couples Frequency\bin\Debug\_11.Couples_Frequency.exe.config
+C:\Users\Pete\Desktop\Homework  Streams and Files\11. Couples Frequency\bin\Debug\_11.Couples_Frequency.exe
+C:\Users\Pete\Desktop\Homework  Streams and Files\11. Couples Frequency\bin\Debug\_11.Couples_Frequency.pdb
+C:\Users\Pete\Desktop\Homework  Streams and Files\11. Couples Frequency\obj\Debug\11. Couples Frequency.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework  Streams and Files\11. Couples Frequency\obj\Debug\_11.Couples_Frequency.exe
+C:\Users\Pete\Desktop\Homework  Streams and Files\11. Couples Frequency\obj\Debug\_11.Couples_Frequency.pdb

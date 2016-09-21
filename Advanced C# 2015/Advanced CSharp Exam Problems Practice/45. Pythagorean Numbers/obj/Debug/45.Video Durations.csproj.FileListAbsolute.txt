@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\45. Pythagorean Numbers\bin\Debug\_45.Pythagorean_Numbers.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\45. Pythagorean Numbers\bin\Debug\_45.Pythagorean_Numbers.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\45. Pythagorean Numbers\bin\Debug\_45.Pythagorean_Numbers.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\45. Pythagorean Numbers\obj\Debug\45.Video Durations.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\45. Pythagorean Numbers\obj\Debug\_45.Pythagorean_Numbers.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\45. Pythagorean Numbers\obj\Debug\_45.Pythagorean_Numbers.pdb

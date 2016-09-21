@@ -1,0 +1,3 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\29.Join Lists\bin\Debug\29.Join Lists.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\29.Join Lists\obj\Debug\29.Join Lists.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\29.Join Lists\obj\Debug\29.Join Lists.pdb

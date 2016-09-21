@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\09.Uppercase Words\bin\Debug\09.Uppercase Words.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\09.Uppercase Words\bin\Debug\09.Uppercase Words.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\09.Uppercase Words\bin\Debug\09.Uppercase Words.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\09.Uppercase Words\obj\Debug\09.Uppercase Words.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\09.Uppercase Words\obj\Debug\09.Uppercase Words.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\09.Uppercase Words\obj\Debug\09.Uppercase Words.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\09.Uppercase Words\bin\Debug\09.Uppercase Words.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\09.Uppercase Words\obj\Debug\09.Uppercase Words.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\09.Uppercase Words\obj\Debug\09.Uppercase Words.pdb

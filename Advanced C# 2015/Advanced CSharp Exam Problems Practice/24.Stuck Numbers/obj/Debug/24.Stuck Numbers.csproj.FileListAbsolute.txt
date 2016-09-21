@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\24.Stuck Numbers\bin\Debug\24.Stuck Numbers.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\24.Stuck Numbers\bin\Debug\24.Stuck Numbers.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\24.Stuck Numbers\bin\Debug\24.Stuck Numbers.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\24.Stuck Numbers\obj\Debug\24.Stuck Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\24.Stuck Numbers\obj\Debug\24.Stuck Numbers.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\24.Stuck Numbers\obj\Debug\24.Stuck Numbers.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\24.Stuck Numbers\bin\Debug\24.Stuck Numbers.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\24.Stuck Numbers\obj\Debug\24.Stuck Numbers.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\24.Stuck Numbers\obj\Debug\24.Stuck Numbers.pdb

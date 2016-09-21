@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\03.Rage Quit\bin\Debug\03.Rage Quit.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\03.Rage Quit\bin\Debug\03.Rage Quit.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\03.Rage Quit\bin\Debug\03.Rage Quit.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\03.Rage Quit\obj\Debug\03.Rage Quit.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\03.Rage Quit\obj\Debug\03.Rage Quit.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\03.Rage Quit\obj\Debug\03.Rage Quit.pdb

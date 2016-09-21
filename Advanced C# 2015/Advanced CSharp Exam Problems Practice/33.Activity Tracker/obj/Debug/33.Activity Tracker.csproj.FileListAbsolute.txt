@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\33.Activity Tracker\bin\Debug\33.Activity Tracker.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\33.Activity Tracker\bin\Debug\33.Activity Tracker.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\33.Activity Tracker\bin\Debug\33.Activity Tracker.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\33.Activity Tracker\obj\Debug\33.Activity Tracker.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\33.Activity Tracker\obj\Debug\33.Activity Tracker.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\33.Activity Tracker\obj\Debug\33.Activity Tracker.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\33.Activity Tracker\bin\Debug\33.Activity Tracker.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\33.Activity Tracker\obj\Debug\33.Activity Tracker.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\33.Activity Tracker\obj\Debug\33.Activity Tracker.pdb

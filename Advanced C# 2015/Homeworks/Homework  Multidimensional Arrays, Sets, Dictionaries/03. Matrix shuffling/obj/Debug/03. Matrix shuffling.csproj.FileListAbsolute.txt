@@ -1,0 +1,6 @@
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\03. Matrix shuffling\bin\Debug\_03.Matrix_shuffling.exe.config
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\03. Matrix shuffling\bin\Debug\_03.Matrix_shuffling.exe
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\03. Matrix shuffling\bin\Debug\_03.Matrix_shuffling.pdb
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\03. Matrix shuffling\obj\Debug\03. Matrix shuffling.csprojResolveAssemblyReference.cache
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\03. Matrix shuffling\obj\Debug\_03.Matrix_shuffling.exe
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\03. Matrix shuffling\obj\Debug\_03.Matrix_shuffling.pdb

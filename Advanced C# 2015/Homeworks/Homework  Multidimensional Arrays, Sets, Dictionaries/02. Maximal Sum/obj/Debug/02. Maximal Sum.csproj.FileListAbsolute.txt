@@ -1,0 +1,6 @@
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\02. Maximal Sum\bin\Debug\_02.Maximal_Sum.exe.config
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\02. Maximal Sum\bin\Debug\_02.Maximal_Sum.exe
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\02. Maximal Sum\bin\Debug\_02.Maximal_Sum.pdb
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\02. Maximal Sum\obj\Debug\02. Maximal Sum.csprojResolveAssemblyReference.cache
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\02. Maximal Sum\obj\Debug\_02.Maximal_Sum.exe
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\02. Maximal Sum\obj\Debug\_02.Maximal_Sum.pdb

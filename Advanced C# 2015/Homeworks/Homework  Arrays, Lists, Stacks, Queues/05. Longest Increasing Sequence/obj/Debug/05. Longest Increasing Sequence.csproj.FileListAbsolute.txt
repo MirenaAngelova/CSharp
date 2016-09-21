@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\05. Longest Increasing Sequence\bin\Debug\_05.Longest_Increasing_Sequence.exe.config
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\05. Longest Increasing Sequence\bin\Debug\_05.Longest_Increasing_Sequence.exe
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\05. Longest Increasing Sequence\bin\Debug\_05.Longest_Increasing_Sequence.pdb
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\05. Longest Increasing Sequence\obj\Debug\05. Longest Increasing Sequence.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\05. Longest Increasing Sequence\obj\Debug\_05.Longest_Increasing_Sequence.exe
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\05. Longest Increasing Sequence\obj\Debug\_05.Longest_Increasing_Sequence.pdb

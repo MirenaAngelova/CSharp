@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework  Regular Expressions\01. Series of Letters\bin\Debug\_01.Series_of_Letters.exe.config
+C:\Users\Pete\Desktop\Homework  Regular Expressions\01. Series of Letters\bin\Debug\_01.Series_of_Letters.exe
+C:\Users\Pete\Desktop\Homework  Regular Expressions\01. Series of Letters\bin\Debug\_01.Series_of_Letters.pdb
+C:\Users\Pete\Desktop\Homework  Regular Expressions\01. Series of Letters\obj\Debug\01. Series of Letters.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework  Regular Expressions\01. Series of Letters\obj\Debug\_01.Series_of_Letters.exe
+C:\Users\Pete\Desktop\Homework  Regular Expressions\01. Series of Letters\obj\Debug\_01.Series_of_Letters.pdb

@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\64.Cloud Manager\bin\Debug\64.Cloud Manager.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\64.Cloud Manager\bin\Debug\64.Cloud Manager.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\64.Cloud Manager\bin\Debug\64.Cloud Manager.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\64.Cloud Manager\obj\Debug\64.Cloud Manager.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\64.Cloud Manager\obj\Debug\64.Cloud Manager.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\64.Cloud Manager\obj\Debug\64.Cloud Manager.csprojResolveAssemblyReference.cache

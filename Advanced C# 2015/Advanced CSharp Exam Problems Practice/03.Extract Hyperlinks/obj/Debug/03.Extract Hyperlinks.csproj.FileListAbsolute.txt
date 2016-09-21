@@ -1,0 +1,8 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\03.Extract Hyperlinks\bin\Debug\03.Extract Hyperlinks.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\03.Extract Hyperlinks\bin\Debug\03.Extract Hyperlinks.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\03.Extract Hyperlinks\bin\Debug\03.Extract Hyperlinks.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\03.Extract Hyperlinks\obj\Debug\03.Extract Hyperlinks.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\03.Extract Hyperlinks\obj\Debug\03.Extract Hyperlinks.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\03.Extract Hyperlinks\bin\Debug\03.Extract Hyperlinks.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\03.Extract Hyperlinks\obj\Debug\03.Extract Hyperlinks.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\03.Extract Hyperlinks\obj\Debug\03.Extract Hyperlinks.pdb

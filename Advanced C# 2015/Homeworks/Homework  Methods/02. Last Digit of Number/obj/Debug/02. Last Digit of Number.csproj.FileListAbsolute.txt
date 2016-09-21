@@ -1,0 +1,6 @@
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Methods\02. Last Digit of Number\bin\Debug\_02.Last_Digit_of_Number.exe.config
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Methods\02. Last Digit of Number\bin\Debug\_02.Last_Digit_of_Number.exe
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Methods\02. Last Digit of Number\bin\Debug\_02.Last_Digit_of_Number.pdb
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Methods\02. Last Digit of Number\obj\Debug\02. Last Digit of Number.csprojResolveAssemblyReference.cache
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Methods\02. Last Digit of Number\obj\Debug\_02.Last_Digit_of_Number.exe
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Methods\02. Last Digit of Number\obj\Debug\_02.Last_Digit_of_Number.pdb

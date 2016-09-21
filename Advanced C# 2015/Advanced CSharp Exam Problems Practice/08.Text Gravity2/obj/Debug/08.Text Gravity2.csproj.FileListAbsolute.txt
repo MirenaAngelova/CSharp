@@ -1,0 +1,2 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\08.Text Gravity2\bin\Debug\08.Text Gravity2.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\08.Text Gravity2\bin\Debug\08.Text Gravity2.exe.config

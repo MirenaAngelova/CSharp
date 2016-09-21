@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework  Strings and Text Processing\03. Count Substring Occurrences\bin\Debug\_03.Count_Substring_Occurrences.exe.config
+C:\Users\Pete\Desktop\Homework  Strings and Text Processing\03. Count Substring Occurrences\bin\Debug\_03.Count_Substring_Occurrences.exe
+C:\Users\Pete\Desktop\Homework  Strings and Text Processing\03. Count Substring Occurrences\bin\Debug\_03.Count_Substring_Occurrences.pdb
+C:\Users\Pete\Desktop\Homework  Strings and Text Processing\03. Count Substring Occurrences\obj\Debug\03. Count Substring Occurrences.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework  Strings and Text Processing\03. Count Substring Occurrences\obj\Debug\_03.Count_Substring_Occurrences.exe
+C:\Users\Pete\Desktop\Homework  Strings and Text Processing\03. Count Substring Occurrences\obj\Debug\_03.Count_Substring_Occurrences.pdb

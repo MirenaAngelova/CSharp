@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\07.Sorted Subset Sums\bin\Debug\07.Sorted Subset Sums.exe.config
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\07.Sorted Subset Sums\bin\Debug\07.Sorted Subset Sums.exe
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\07.Sorted Subset Sums\bin\Debug\07.Sorted Subset Sums.pdb
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\07.Sorted Subset Sums\obj\Debug\07.Sorted Subset Sums.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\07.Sorted Subset Sums\obj\Debug\07.Sorted Subset Sums.exe
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\07.Sorted Subset Sums\obj\Debug\07.Sorted Subset Sums.pdb

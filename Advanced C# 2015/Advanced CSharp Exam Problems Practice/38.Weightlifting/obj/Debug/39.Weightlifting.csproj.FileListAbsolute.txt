@@ -1,0 +1,5 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\38.Weightlifting\bin\Debug\38.Weightlifting.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\38.Weightlifting\bin\Debug\38.Weightlifting.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\38.Weightlifting\bin\Debug\38.Weightlifting.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\38.Weightlifting\obj\Debug\38.Weightlifting.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\38.Weightlifting\obj\Debug\38.Weightlifting.pdb

@@ -1,0 +1,6 @@
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\12.To the Stars\bin\Debug\12.To the Stars.exe.config
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\12.To the Stars\bin\Debug\12.To the Stars.exe
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\12.To the Stars\bin\Debug\12.To the Stars.pdb
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\12.To the Stars\obj\Debug\12.To the Stars.csprojResolveAssemblyReference.cache
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\12.To the Stars\obj\Debug\12.To the Stars.exe
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\12.To the Stars\obj\Debug\12.To the Stars.pdb

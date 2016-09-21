@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework  Regular Expressions\06.  Extract Hyperlinks\bin\Debug\_06.Extract_Hyperlinks.exe.config
+C:\Users\Pete\Desktop\Homework  Regular Expressions\06.  Extract Hyperlinks\bin\Debug\_06.Extract_Hyperlinks.exe
+C:\Users\Pete\Desktop\Homework  Regular Expressions\06.  Extract Hyperlinks\bin\Debug\_06.Extract_Hyperlinks.pdb
+C:\Users\Pete\Desktop\Homework  Regular Expressions\06.  Extract Hyperlinks\obj\Debug\06.  Extract Hyperlinks.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework  Regular Expressions\06.  Extract Hyperlinks\obj\Debug\_06.Extract_Hyperlinks.exe
+C:\Users\Pete\Desktop\Homework  Regular Expressions\06.  Extract Hyperlinks\obj\Debug\_06.Extract_Hyperlinks.pdb

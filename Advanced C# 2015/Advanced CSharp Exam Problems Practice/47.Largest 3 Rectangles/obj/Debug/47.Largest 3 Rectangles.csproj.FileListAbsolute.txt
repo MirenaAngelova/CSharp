@@ -1,0 +1,5 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\47.Largest 3 Rectangles\bin\Debug\47.Largest 3 Rectangles.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\47.Largest 3 Rectangles\bin\Debug\47.Largest 3 Rectangles.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\47.Largest 3 Rectangles\bin\Debug\47.Largest 3 Rectangles.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\47.Largest 3 Rectangles\obj\Debug\47.Largest 3 Rectangles.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\47.Largest 3 Rectangles\obj\Debug\47.Largest 3 Rectangles.pdb

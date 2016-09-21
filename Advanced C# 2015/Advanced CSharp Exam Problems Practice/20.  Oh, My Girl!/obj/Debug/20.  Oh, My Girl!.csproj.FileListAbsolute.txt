@@ -1,0 +1,12 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\20.  Oh, My Girl!\bin\Debug\_20.Oh__My_Girl_.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\20.  Oh, My Girl!\bin\Debug\_20.Oh__My_Girl_.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\20.  Oh, My Girl!\bin\Debug\_20.Oh__My_Girl_.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\20.  Oh, My Girl!\obj\Debug\20.  Oh, My Girl!.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\20.  Oh, My Girl!\obj\Debug\_20.Oh__My_Girl_.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\20.  Oh, My Girl!\obj\Debug\_20.Oh__My_Girl_.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\20.  Oh, My Girl!\bin\Debug\_20.Oh__My_Girl_.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\20.  Oh, My Girl!\obj\Debug\_20.Oh__My_Girl_.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\20.  Oh, My Girl!\obj\Debug\_20.Oh__My_Girl_.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\20.  Oh, My Girl!\bin\Debug\_20.Oh__My_Girl_.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\20.  Oh, My Girl!\bin\Debug\_20.Oh__My_Girl_.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\20.  Oh, My Girl!\obj\Debug\20.  Oh, My Girl!.csprojResolveAssemblyReference.cache

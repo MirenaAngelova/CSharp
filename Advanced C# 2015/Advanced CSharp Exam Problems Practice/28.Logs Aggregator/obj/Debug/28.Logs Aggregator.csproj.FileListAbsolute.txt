@@ -1,0 +1,1 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\28.Logs Aggregator\bin\Debug\28.Logs Aggregator.exe.config

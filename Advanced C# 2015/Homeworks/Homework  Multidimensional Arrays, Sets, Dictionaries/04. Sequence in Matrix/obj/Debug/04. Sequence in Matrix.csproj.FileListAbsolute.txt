@@ -1,0 +1,6 @@
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\04. Sequence in Matrix\bin\Debug\_04.Sequence_in_Matrix.exe.config
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\04. Sequence in Matrix\bin\Debug\_04.Sequence_in_Matrix.exe
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\04. Sequence in Matrix\bin\Debug\_04.Sequence_in_Matrix.pdb
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\04. Sequence in Matrix\obj\Debug\04. Sequence in Matrix.csprojResolveAssemblyReference.cache
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\04. Sequence in Matrix\obj\Debug\_04.Sequence_in_Matrix.exe
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\04. Sequence in Matrix\obj\Debug\_04.Sequence_in_Matrix.pdb

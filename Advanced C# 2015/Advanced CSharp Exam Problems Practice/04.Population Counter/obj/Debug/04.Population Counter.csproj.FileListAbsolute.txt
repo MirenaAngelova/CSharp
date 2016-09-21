@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\04.Population Counter\bin\Debug\04.Population Counter.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\04.Population Counter\bin\Debug\04.Population Counter.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\04.Population Counter\bin\Debug\04.Population Counter.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\04.Population Counter\obj\Debug\04.Population Counter.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\04.Population Counter\obj\Debug\04.Population Counter.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\04.Population Counter\obj\Debug\04.Population Counter.pdb

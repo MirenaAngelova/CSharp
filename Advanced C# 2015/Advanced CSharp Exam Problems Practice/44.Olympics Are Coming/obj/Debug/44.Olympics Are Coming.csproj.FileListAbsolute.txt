@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\44.Olympics Are Coming\bin\Debug\44.Olympics Are Coming.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\44.Olympics Are Coming\bin\Debug\44.Olympics Are Coming.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\44.Olympics Are Coming\bin\Debug\44.Olympics Are Coming.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\44.Olympics Are Coming\obj\Debug\44.Olympics Are Coming.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\44.Olympics Are Coming\obj\Debug\44.Olympics Are Coming.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\44.Olympics Are Coming\obj\Debug\44.Olympics Are Coming.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\44.Olympics Are Coming\bin\Debug\44.Olympics Are Coming.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\44.Olympics Are Coming\obj\Debug\44.Olympics Are Coming.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\44.Olympics Are Coming\obj\Debug\44.Olympics Are Coming.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework  Strings and Text Processing\05. Unicode Characters\bin\Debug\_05.Unicode_Characters.exe.config
+C:\Users\Pete\Desktop\Homework  Strings and Text Processing\05. Unicode Characters\bin\Debug\_05.Unicode_Characters.exe
+C:\Users\Pete\Desktop\Homework  Strings and Text Processing\05. Unicode Characters\bin\Debug\_05.Unicode_Characters.pdb
+C:\Users\Pete\Desktop\Homework  Strings and Text Processing\05. Unicode Characters\obj\Debug\05. Unicode Characters.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework  Strings and Text Processing\05. Unicode Characters\obj\Debug\_05.Unicode_Characters.exe
+C:\Users\Pete\Desktop\Homework  Strings and Text Processing\05. Unicode Characters\obj\Debug\_05.Unicode_Characters.pdb

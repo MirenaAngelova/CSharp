@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\02. String Matrix Rotation\bin\Debug\_02.String_Matrix_Rotation.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\02. String Matrix Rotation\bin\Debug\_02.String_Matrix_Rotation.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\02. String Matrix Rotation\bin\Debug\_02.String_Matrix_Rotation.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\02. String Matrix Rotation\obj\Debug\02. String Matrix Rotation.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\02. String Matrix Rotation\obj\Debug\_02.String_Matrix_Rotation.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\02. String Matrix Rotation\obj\Debug\_02.String_Matrix_Rotation.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\02. String Matrix Rotation\bin\Debug\_02.String_Matrix_Rotation.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\02. String Matrix Rotation\obj\Debug\_02.String_Matrix_Rotation.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\02. String Matrix Rotation\obj\Debug\_02.String_Matrix_Rotation.pdb

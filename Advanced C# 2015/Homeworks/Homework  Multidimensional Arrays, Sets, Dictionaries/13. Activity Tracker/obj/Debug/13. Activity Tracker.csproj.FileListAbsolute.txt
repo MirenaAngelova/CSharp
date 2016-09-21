@@ -1,0 +1,6 @@
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\13. Activity Tracker\bin\Debug\_13.Activity_Tracker.exe.config
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\13. Activity Tracker\bin\Debug\_13.Activity_Tracker.exe
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\13. Activity Tracker\bin\Debug\_13.Activity_Tracker.pdb
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\13. Activity Tracker\obj\Debug\13. Activity Tracker.csprojResolveAssemblyReference.cache
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\13. Activity Tracker\obj\Debug\_13.Activity_Tracker.exe
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\13. Activity Tracker\obj\Debug\_13.Activity_Tracker.pdb

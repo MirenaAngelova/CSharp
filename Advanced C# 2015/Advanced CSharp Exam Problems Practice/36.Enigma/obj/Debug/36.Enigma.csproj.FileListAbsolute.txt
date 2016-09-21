@@ -1,0 +1,7 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\36.Enigma\bin\Debug\36.Enigma.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\36.Enigma\bin\Debug\36.Enigma.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\36.Enigma\obj\Debug\36.Enigma.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\36.Enigma\bin\Debug\36.Enigma.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\36.Enigma\bin\Debug\36.Enigma.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\36.Enigma\obj\Debug\36.Enigma.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\36.Enigma\obj\Debug\36.Enigma.pdb

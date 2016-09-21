@@ -1,0 +1,5 @@
+C:\Users\Pete\Desktop\Homework  Regular Expressions\03. Extract Emails\bin\Debug\_03.Extract_Emails.exe.config
+C:\Users\Pete\Desktop\Homework  Regular Expressions\03. Extract Emails\bin\Debug\_03.Extract_Emails.exe
+C:\Users\Pete\Desktop\Homework  Regular Expressions\03. Extract Emails\bin\Debug\_03.Extract_Emails.pdb
+C:\Users\Pete\Desktop\Homework  Regular Expressions\03. Extract Emails\obj\Debug\_03.Extract_Emails.exe
+C:\Users\Pete\Desktop\Homework  Regular Expressions\03. Extract Emails\obj\Debug\_03.Extract_Emails.pdb

@@ -1,0 +1,1 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\45. Pythagorean Numbers\bin\Debug\_45.Pythagorean_Numbers.exe.config

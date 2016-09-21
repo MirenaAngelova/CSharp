@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\52.Array Slider\bin\Debug\52.Array Slider.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\52.Array Slider\bin\Debug\52.Array Slider.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\52.Array Slider\bin\Debug\52.Array Slider.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\52.Array Slider\obj\Debug\52.Array Slider.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\52.Array Slider\obj\Debug\52.Array Slider.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\52.Array Slider\obj\Debug\52.Array Slider.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\52.Array Slider\bin\Debug\52.Array Slider.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\52.Array Slider\obj\Debug\52.Array Slider.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\52.Array Slider\obj\Debug\52.Array Slider.pdb

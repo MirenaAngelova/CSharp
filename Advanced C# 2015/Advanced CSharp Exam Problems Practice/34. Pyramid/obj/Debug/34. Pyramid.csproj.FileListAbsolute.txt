@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\34. Pyramid\bin\Debug\_34.Pyramid.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\34. Pyramid\bin\Debug\_34.Pyramid.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\34. Pyramid\bin\Debug\_34.Pyramid.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\34. Pyramid\obj\Debug\34. Pyramid.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\34. Pyramid\obj\Debug\_34.Pyramid.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\34. Pyramid\obj\Debug\_34.Pyramid.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\34. Pyramid\bin\Debug\_34.Pyramid.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\34. Pyramid\obj\Debug\_34.Pyramid.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\34. Pyramid\obj\Debug\_34.Pyramid.pdb

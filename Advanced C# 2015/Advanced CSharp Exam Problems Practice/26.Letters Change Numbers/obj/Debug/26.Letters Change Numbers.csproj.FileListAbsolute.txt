@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\26.Letters Change Numbers\bin\Debug\26.Letters Change Numbers.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\26.Letters Change Numbers\bin\Debug\26.Letters Change Numbers.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\26.Letters Change Numbers\bin\Debug\26.Letters Change Numbers.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\26.Letters Change Numbers\obj\Debug\26.Letters Change Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\26.Letters Change Numbers\obj\Debug\26.Letters Change Numbers.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\26.Letters Change Numbers\obj\Debug\26.Letters Change Numbers.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\26.Letters Change Numbers\bin\Debug\26.Letters Change Numbers.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\26.Letters Change Numbers\obj\Debug\26.Letters Change Numbers.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\26.Letters Change Numbers\obj\Debug\26.Letters Change Numbers.pdb

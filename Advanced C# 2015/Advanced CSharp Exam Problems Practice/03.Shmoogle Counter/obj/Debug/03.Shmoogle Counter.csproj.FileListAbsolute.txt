@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\03.Shmoogle Counter\bin\Debug\03.Shmoogle Counter.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\03.Shmoogle Counter\bin\Debug\03.Shmoogle Counter.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\03.Shmoogle Counter\bin\Debug\03.Shmoogle Counter.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\03.Shmoogle Counter\obj\Debug\03.Shmoogle Counter.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\03.Shmoogle Counter\obj\Debug\03.Shmoogle Counter.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\03.Shmoogle Counter\obj\Debug\03.Shmoogle Counter.pdb

@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\31.Fire the Arrows\bin\Debug\31.Fire the Arrows.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\31.Fire the Arrows\bin\Debug\31.Fire the Arrows.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\31.Fire the Arrows\bin\Debug\31.Fire the Arrows.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\31.Fire the Arrows\obj\Debug\31.Fire the Arrows.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\31.Fire the Arrows\obj\Debug\31.Fire the Arrows.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\31.Fire the Arrows\obj\Debug\31.Fire the Arrows.pdb

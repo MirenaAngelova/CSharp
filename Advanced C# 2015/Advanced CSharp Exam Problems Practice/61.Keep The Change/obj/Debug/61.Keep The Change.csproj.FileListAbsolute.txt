@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\61.Keep The Change\bin\Debug\61.Keep The Change.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\61.Keep The Change\bin\Debug\61.Keep The Change.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\61.Keep The Change\bin\Debug\61.Keep The Change.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\61.Keep The Change\obj\Debug\61.Keep The Change.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\61.Keep The Change\obj\Debug\61.Keep The Change.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\61.Keep The Change\obj\Debug\61.Keep The Change.pdb

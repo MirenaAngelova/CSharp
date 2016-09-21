@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\PeterLoveMirena\bin\Debug\PeterLoveMirena.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\PeterLoveMirena\obj\Debug\PeterLoveMirena.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\PeterLoveMirena\bin\Debug\PeterLoveMirena.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\PeterLoveMirena\bin\Debug\PeterLoveMirena.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\PeterLoveMirena\obj\Debug\PeterLoveMirena.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\PeterLoveMirena\obj\Debug\PeterLoveMirena.pdb

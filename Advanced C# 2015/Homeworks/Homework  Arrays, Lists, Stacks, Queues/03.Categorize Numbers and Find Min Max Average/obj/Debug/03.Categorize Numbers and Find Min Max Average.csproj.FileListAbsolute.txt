@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\03.Categorize Numbers and Find Min Max Average\bin\Debug\03.Categorize Numbers and Find Min Max Average.exe.config
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\03.Categorize Numbers and Find Min Max Average\bin\Debug\03.Categorize Numbers and Find Min Max Average.exe
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\03.Categorize Numbers and Find Min Max Average\bin\Debug\03.Categorize Numbers and Find Min Max Average.pdb
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\03.Categorize Numbers and Find Min Max Average\obj\Debug\03.Categorize Numbers and Find Min Max Average.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\03.Categorize Numbers and Find Min Max Average\obj\Debug\03.Categorize Numbers and Find Min Max Average.exe
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\03.Categorize Numbers and Find Min Max Average\obj\Debug\03.Categorize Numbers and Find Min Max Average.pdb

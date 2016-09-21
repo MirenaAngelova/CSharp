@@ -1,0 +1,12 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\01.Exercise\bin\Debug\01.Exercise.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\01.Exercise\bin\Debug\01.Exercise.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\01.Exercise\bin\Debug\01.Exercise.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\01.Exercise\obj\Debug\01.Exercise.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\01.Exercise\obj\Debug\01.Exercise.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\01.Exercise\obj\Debug\01.Exercise.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.Exercise\bin\Debug\01.Exercise.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.Exercise\obj\Debug\01.Exercise.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.Exercise\obj\Debug\01.Exercise.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.Exercise\bin\Debug\01.Exercise.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.Exercise\bin\Debug\01.Exercise.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.Exercise\obj\Debug\01.Exercise.csprojResolveAssemblyReference.cache

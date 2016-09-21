@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\08.Lego Blocks\bin\Debug\08.Lego Blocks.exe.config
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\08.Lego Blocks\bin\Debug\08.Lego Blocks.exe
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\08.Lego Blocks\bin\Debug\08.Lego Blocks.pdb
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\08.Lego Blocks\obj\Debug\08.Lego Blocks.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\08.Lego Blocks\obj\Debug\08.Lego Blocks.exe
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\08.Lego Blocks\obj\Debug\08.Lego Blocks.pdb

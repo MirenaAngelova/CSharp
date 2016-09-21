@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\03.Rubik’s Matrix\bin\Debug\03.Rubik’s Matrix.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\03.Rubik’s Matrix\bin\Debug\03.Rubik’s Matrix.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\03.Rubik’s Matrix\bin\Debug\03.Rubik’s Matrix.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\03.Rubik’s Matrix\obj\Debug\03.Rubik’s Matrix.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\03.Rubik’s Matrix\obj\Debug\03.Rubik’s Matrix.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\03.Rubik’s Matrix\obj\Debug\03.Rubik’s Matrix.pdb

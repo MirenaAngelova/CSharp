@@ -1,0 +1,12 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\54.Population Counter\bin\Debug\54.Population Counter.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\54.Population Counter\bin\Debug\54.Population Counter.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\54.Population Counter\bin\Debug\54.Population Counter.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\54.Population Counter\obj\Debug\54.Population Counter.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\54.Population Counter\obj\Debug\54.Population Counter.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\54.Population Counter\obj\Debug\54.Population Counter.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\54.Population Counter\bin\Debug\54.Population Counter.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\54.Population Counter\obj\Debug\54.Population Counter.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\54.Population Counter\obj\Debug\54.Population Counter.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\54.Population Counter\bin\Debug\54.Population Counter.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\54.Population Counter\bin\Debug\54.Population Counter.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\54.Population Counter\obj\Debug\54.Population Counter.csprojResolveAssemblyReference.cache

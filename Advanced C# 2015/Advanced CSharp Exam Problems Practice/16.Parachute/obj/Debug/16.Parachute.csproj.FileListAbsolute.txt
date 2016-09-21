@@ -1,0 +1,8 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\16.Parachute\bin\Debug\16.Parachute.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\16.Parachute\bin\Debug\16.Parachute.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\16.Parachute\bin\Debug\16.Parachute.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\16.Parachute\obj\Debug\16.Parachute.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\16.Parachute\obj\Debug\16.Parachute.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\16.Parachute\bin\Debug\16.Parachute.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\16.Parachute\obj\Debug\16.Parachute.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\16.Parachute\obj\Debug\16.Parachute.pdb

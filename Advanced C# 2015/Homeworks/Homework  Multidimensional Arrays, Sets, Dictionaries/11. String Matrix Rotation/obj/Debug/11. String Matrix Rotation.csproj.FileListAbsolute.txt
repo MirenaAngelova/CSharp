@@ -1,0 +1,6 @@
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\11. String Matrix Rotation\bin\Debug\_11.String_Matrix_Rotation.exe.config
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\11. String Matrix Rotation\bin\Debug\_11.String_Matrix_Rotation.exe
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\11. String Matrix Rotation\bin\Debug\_11.String_Matrix_Rotation.pdb
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\11. String Matrix Rotation\obj\Debug\11. String Matrix Rotation.csprojResolveAssemblyReference.cache
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\11. String Matrix Rotation\obj\Debug\_11.String_Matrix_Rotation.exe
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\11. String Matrix Rotation\obj\Debug\_11.String_Matrix_Rotation.pdb

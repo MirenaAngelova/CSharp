@@ -1,0 +1,12 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\21.  IT Village\bin\Debug\_21.IT_Village.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\21.  IT Village\bin\Debug\_21.IT_Village.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\21.  IT Village\bin\Debug\_21.IT_Village.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\21.  IT Village\obj\Debug\21.  IT Village.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\21.  IT Village\obj\Debug\_21.IT_Village.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\21.  IT Village\obj\Debug\_21.IT_Village.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\21.  IT Village\bin\Debug\_21.IT_Village.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\21.  IT Village\obj\Debug\_21.IT_Village.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\21.  IT Village\obj\Debug\_21.IT_Village.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\21.  IT Village\bin\Debug\_21.IT_Village.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\21.  IT Village\bin\Debug\_21.IT_Village.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\21.  IT Village\obj\Debug\21.  IT Village.csprojResolveAssemblyReference.cache

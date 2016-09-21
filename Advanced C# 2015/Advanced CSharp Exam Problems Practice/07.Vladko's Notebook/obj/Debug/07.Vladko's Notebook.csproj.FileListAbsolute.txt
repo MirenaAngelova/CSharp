@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\07.Vladko's Notebook\bin\Debug\07.Vladko's Notebook.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\07.Vladko's Notebook\bin\Debug\07.Vladko's Notebook.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\07.Vladko's Notebook\bin\Debug\07.Vladko's Notebook.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\07.Vladko's Notebook\obj\Debug\07.Vladko's Notebook.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\07.Vladko's Notebook\obj\Debug\07.Vladko's Notebook.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\07.Vladko's Notebook\obj\Debug\07.Vladko's Notebook.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\07.Vladko's Notebook\bin\Debug\07.Vladko's Notebook.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\07.Vladko's Notebook\obj\Debug\07.Vladko's Notebook.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\07.Vladko's Notebook\obj\Debug\07.Vladko's Notebook.pdb

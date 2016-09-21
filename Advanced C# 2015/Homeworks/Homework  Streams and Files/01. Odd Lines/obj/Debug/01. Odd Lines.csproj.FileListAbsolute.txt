@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework  Streams and Files\01. Odd Lines\bin\Debug\_01.Odd_Lines.exe.config
+C:\Users\Pete\Desktop\Homework  Streams and Files\01. Odd Lines\bin\Debug\_01.Odd_Lines.exe
+C:\Users\Pete\Desktop\Homework  Streams and Files\01. Odd Lines\bin\Debug\_01.Odd_Lines.pdb
+C:\Users\Pete\Desktop\Homework  Streams and Files\01. Odd Lines\obj\Debug\01. Odd Lines.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework  Streams and Files\01. Odd Lines\obj\Debug\_01.Odd_Lines.exe
+C:\Users\Pete\Desktop\Homework  Streams and Files\01. Odd Lines\obj\Debug\_01.Odd_Lines.pdb

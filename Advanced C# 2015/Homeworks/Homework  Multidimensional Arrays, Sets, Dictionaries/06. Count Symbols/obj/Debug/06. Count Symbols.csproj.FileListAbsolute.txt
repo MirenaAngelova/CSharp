@@ -1,0 +1,6 @@
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\06. Count Symbols\bin\Debug\_06.Count_Symbols.exe.config
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\06. Count Symbols\bin\Debug\_06.Count_Symbols.exe
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\06. Count Symbols\bin\Debug\_06.Count_Symbols.pdb
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\06. Count Symbols\obj\Debug\06. Count Symbols.csprojResolveAssemblyReference.cache
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\06. Count Symbols\obj\Debug\_06.Count_Symbols.exe
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\06. Count Symbols\obj\Debug\_06.Count_Symbols.pdb

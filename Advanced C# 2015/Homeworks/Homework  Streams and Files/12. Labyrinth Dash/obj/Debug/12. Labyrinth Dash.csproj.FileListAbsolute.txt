@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework  Streams and Files\12. Labyrinth Dash\bin\Debug\_12.Labyrinth_Dash.exe.config
+C:\Users\Pete\Desktop\Homework  Streams and Files\12. Labyrinth Dash\bin\Debug\_12.Labyrinth_Dash.exe
+C:\Users\Pete\Desktop\Homework  Streams and Files\12. Labyrinth Dash\bin\Debug\_12.Labyrinth_Dash.pdb
+C:\Users\Pete\Desktop\Homework  Streams and Files\12. Labyrinth Dash\obj\Debug\12. Labyrinth Dash.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework  Streams and Files\12. Labyrinth Dash\obj\Debug\_12.Labyrinth_Dash.exe
+C:\Users\Pete\Desktop\Homework  Streams and Files\12. Labyrinth Dash\obj\Debug\_12.Labyrinth_Dash.pdb

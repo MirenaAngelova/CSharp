@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.CommandInterpreter\bin\Debug\01.CommandInterpreter.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.CommandInterpreter\bin\Debug\01.CommandInterpreter.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.CommandInterpreter\bin\Debug\01.CommandInterpreter.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.CommandInterpreter\obj\Debug\01.CommandInterpreter.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.CommandInterpreter\obj\Debug\01.CommandInterpreter.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.CommandInterpreter\obj\Debug\01.CommandInterpreter.pdb

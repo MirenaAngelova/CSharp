@@ -1,0 +1,6 @@
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\09. Terrorists Win!\bin\Debug\_09.Terrorists_Win_.exe.config
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\09. Terrorists Win!\bin\Debug\_09.Terrorists_Win_.exe
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\09. Terrorists Win!\bin\Debug\_09.Terrorists_Win_.pdb
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\09. Terrorists Win!\obj\Debug\_09.Terrorists_Win_.exe
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\09. Terrorists Win!\obj\Debug\_09.Terrorists_Win_.pdb
+c:\users\pete\documents\visual studio 2013\Projects\Homework  Multidimensional Arrays, Sets, Dictionaries\09. Terrorists Win!\obj\Debug\09. Terrorists Win!.csprojResolveAssemblyReference.cache

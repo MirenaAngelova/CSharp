@@ -1,0 +1,11 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\10.Clearing Commands\bin\Debug\10.Clearing Commands.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\10.Clearing Commands\bin\Debug\10.Clearing Commands.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\10.Clearing Commands\bin\Debug\10.Clearing Commands.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\10.Clearing Commands\obj\Debug\10.Clearing Commands.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\10.Clearing Commands\obj\Debug\10.Clearing Commands.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\10.Clearing Commands\bin\Debug\10.Clearing Commands.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\10.Clearing Commands\obj\Debug\10.Clearing Commands.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\10.Clearing Commands\obj\Debug\10.Clearing Commands.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\10.Clearing Commands\bin\Debug\10.Clearing Commands.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\10.Clearing Commands\bin\Debug\10.Clearing Commands.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\10.Clearing Commands\obj\Debug\10.Clearing Commands.csprojResolveAssemblyReference.cache

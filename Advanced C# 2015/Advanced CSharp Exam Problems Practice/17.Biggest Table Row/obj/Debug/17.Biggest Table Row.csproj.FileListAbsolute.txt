@@ -1,0 +1,7 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\17.Biggest Table Row\bin\Debug\17.Biggest Table Row.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\17.Biggest Table Row\bin\Debug\17.Biggest Table Row.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\17.Biggest Table Row\bin\Debug\17.Biggest Table Row.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\17.Biggest Table Row\bin\Debug\17.Biggest Table Row.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\17.Biggest Table Row\obj\Debug\17.Biggest Table Row.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\17.Biggest Table Row\obj\Debug\17.Biggest Table Row.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\17.Biggest Table Row\obj\Debug\17.Biggest Table Row.pdb

@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework  Regular Expressions\02. Replace A tag\bin\Debug\_02.Replace_A_tag.exe.config
+C:\Users\Pete\Desktop\Homework  Regular Expressions\02. Replace A tag\bin\Debug\_02.Replace_A_tag.exe
+C:\Users\Pete\Desktop\Homework  Regular Expressions\02. Replace A tag\bin\Debug\_02.Replace_A_tag.pdb
+C:\Users\Pete\Desktop\Homework  Regular Expressions\02. Replace A tag\obj\Debug\02. Replace A tag.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework  Regular Expressions\02. Replace A tag\obj\Debug\_02.Replace_A_tag.exe
+C:\Users\Pete\Desktop\Homework  Regular Expressions\02. Replace A tag\obj\Debug\_02.Replace_A_tag.pdb

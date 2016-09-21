@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\19.ChatLogger2\bin\Debug\19.ChatLogger2.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\19.ChatLogger2\bin\Debug\19.ChatLogger2.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\19.ChatLogger2\bin\Debug\19.ChatLogger2.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\19.ChatLogger2\obj\Debug\19.ChatLogger2.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\19.ChatLogger2\obj\Debug\19.ChatLogger2.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\19.ChatLogger2\obj\Debug\19.ChatLogger2.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\19.ChatLogger2\bin\Debug\19.ChatLogger2.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\19.ChatLogger2\obj\Debug\19.ChatLogger2.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\19.ChatLogger2\obj\Debug\19.ChatLogger2.pdb

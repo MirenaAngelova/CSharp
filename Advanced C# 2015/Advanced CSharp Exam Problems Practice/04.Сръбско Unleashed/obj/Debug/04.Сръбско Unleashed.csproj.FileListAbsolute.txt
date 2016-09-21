@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\04.Сръбско Unleashed\bin\Debug\04.Сръбско Unleashed.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\04.Сръбско Unleashed\bin\Debug\04.Сръбско Unleashed.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\04.Сръбско Unleashed\bin\Debug\04.Сръбско Unleashed.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\04.Сръбско Unleashed\obj\Debug\04.Сръбско Unleashed.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\04.Сръбско Unleashed\obj\Debug\04.Сръбско Unleashed.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\04.Сръбско Unleashed\obj\Debug\04.Сръбско Unleashed.pdb

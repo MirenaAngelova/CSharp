@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework  Functional Programming\17. Office Stuff\bin\Debug\_17.Office_Stuff.exe.config
+C:\Users\Pete\Desktop\Homework  Functional Programming\17. Office Stuff\bin\Debug\_17.Office_Stuff.exe
+C:\Users\Pete\Desktop\Homework  Functional Programming\17. Office Stuff\bin\Debug\_17.Office_Stuff.pdb
+C:\Users\Pete\Desktop\Homework  Functional Programming\17. Office Stuff\obj\Debug\17. Office Stuff.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework  Functional Programming\17. Office Stuff\obj\Debug\_17.Office_Stuff.exe
+C:\Users\Pete\Desktop\Homework  Functional Programming\17. Office Stuff\obj\Debug\_17.Office_Stuff.pdb

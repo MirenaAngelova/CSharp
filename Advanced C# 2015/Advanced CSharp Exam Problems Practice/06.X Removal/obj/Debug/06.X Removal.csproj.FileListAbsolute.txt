@@ -1,0 +1,8 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\06.X Removal\bin\Debug\06.X Removal.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\06.X Removal\bin\Debug\06.X Removal.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\06.X Removal\bin\Debug\06.X Removal.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\06.X Removal\obj\Debug\06.X Removal.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\06.X Removal\obj\Debug\06.X Removal.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\06.X Removal\bin\Debug\06.X Removal.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\06.X Removal\obj\Debug\06.X Removal.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\06.X Removal\obj\Debug\06.X Removal.pdb

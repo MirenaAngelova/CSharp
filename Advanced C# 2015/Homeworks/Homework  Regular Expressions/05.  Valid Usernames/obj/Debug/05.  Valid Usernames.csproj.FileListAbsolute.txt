@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework  Regular Expressions\05.  Valid Usernames\bin\Debug\_05.Valid_Usernames.exe.config
+C:\Users\Pete\Desktop\Homework  Regular Expressions\05.  Valid Usernames\bin\Debug\_05.Valid_Usernames.exe
+C:\Users\Pete\Desktop\Homework  Regular Expressions\05.  Valid Usernames\bin\Debug\_05.Valid_Usernames.pdb
+C:\Users\Pete\Desktop\Homework  Regular Expressions\05.  Valid Usernames\obj\Debug\05.  Valid Usernames.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework  Regular Expressions\05.  Valid Usernames\obj\Debug\_05.Valid_Usernames.exe
+C:\Users\Pete\Desktop\Homework  Regular Expressions\05.  Valid Usernames\obj\Debug\_05.Valid_Usernames.pdb

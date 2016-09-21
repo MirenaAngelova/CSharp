@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.SoftUni Palatka Conf\bin\Debug\01.SoftUni Palatka Conf.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.SoftUni Palatka Conf\bin\Debug\01.SoftUni Palatka Conf.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.SoftUni Palatka Conf\bin\Debug\01.SoftUni Palatka Conf.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.SoftUni Palatka Conf\obj\Debug\01.SoftUni Palatka Conf.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.SoftUni Palatka Conf\obj\Debug\01.SoftUni Palatka Conf.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.SoftUni Palatka Conf\obj\Debug\01.SoftUni Palatka Conf.pdb

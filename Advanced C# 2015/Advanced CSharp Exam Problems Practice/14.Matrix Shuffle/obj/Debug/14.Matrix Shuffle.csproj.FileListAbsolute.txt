@@ -1,0 +1,8 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\14.Matrix Shuffle\bin\Debug\14.Matrix Shuffle.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\14.Matrix Shuffle\bin\Debug\14.Matrix Shuffle.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\14.Matrix Shuffle\bin\Debug\14.Matrix Shuffle.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\14.Matrix Shuffle\obj\Debug\14.Matrix Shuffle.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\14.Matrix Shuffle\obj\Debug\14.Matrix Shuffle.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\14.Matrix Shuffle\bin\Debug\14.Matrix Shuffle.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\14.Matrix Shuffle\obj\Debug\14.Matrix Shuffle.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\14.Matrix Shuffle\obj\Debug\14.Matrix Shuffle.pdb

@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\57.Valid Usernames\bin\Debug\57.Valid Usernames.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\57.Valid Usernames\bin\Debug\57.Valid Usernames.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\57.Valid Usernames\bin\Debug\57.Valid Usernames.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\57.Valid Usernames\obj\Debug\57.Valid Usernames.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\57.Valid Usernames\obj\Debug\57.Valid Usernames.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\57.Valid Usernames\obj\Debug\57.Valid Usernames.pdb

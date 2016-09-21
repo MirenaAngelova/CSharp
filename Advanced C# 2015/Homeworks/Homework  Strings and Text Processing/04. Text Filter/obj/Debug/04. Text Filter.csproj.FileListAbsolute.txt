@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework  Strings and Text Processing\04. Text Filter\bin\Debug\_04.Text_Filter.exe.config
+C:\Users\Pete\Desktop\Homework  Strings and Text Processing\04. Text Filter\bin\Debug\_04.Text_Filter.exe
+C:\Users\Pete\Desktop\Homework  Strings and Text Processing\04. Text Filter\bin\Debug\_04.Text_Filter.pdb
+C:\Users\Pete\Desktop\Homework  Strings and Text Processing\04. Text Filter\obj\Debug\04. Text Filter.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework  Strings and Text Processing\04. Text Filter\obj\Debug\_04.Text_Filter.exe
+C:\Users\Pete\Desktop\Homework  Strings and Text Processing\04. Text Filter\obj\Debug\_04.Text_Filter.pdb

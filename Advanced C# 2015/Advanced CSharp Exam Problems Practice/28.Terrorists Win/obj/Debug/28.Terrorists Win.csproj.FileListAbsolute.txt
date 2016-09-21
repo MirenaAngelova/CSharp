@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\28.Terrorists Win\bin\Debug\28.Terrorists Win.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\28.Terrorists Win\bin\Debug\28.Terrorists Win.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\28.Terrorists Win\bin\Debug\28.Terrorists Win.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\28.Terrorists Win\obj\Debug\28.Terrorists Win.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\28.Terrorists Win\obj\Debug\28.Terrorists Win.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\28.Terrorists Win\obj\Debug\28.Terrorists Win.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\28.Terrorists Win\bin\Debug\28.Terrorists Win.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\28.Terrorists Win\obj\Debug\28.Terrorists Win.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\28.Terrorists Win\obj\Debug\28.Terrorists Win.pdb

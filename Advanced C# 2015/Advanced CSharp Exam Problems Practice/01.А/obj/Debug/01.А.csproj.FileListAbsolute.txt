@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.А\bin\Debug\01.А.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.А\bin\Debug\01.А.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.А\bin\Debug\01.А.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.А\obj\Debug\01.А.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.А\obj\Debug\01.А.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.А\obj\Debug\01.А.pdb

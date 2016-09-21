@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\04. Sequences of Equal Strings\bin\Debug\_04.Sequences_of_Equal_Strings.exe.config
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\04. Sequences of Equal Strings\bin\Debug\_04.Sequences_of_Equal_Strings.exe
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\04. Sequences of Equal Strings\bin\Debug\_04.Sequences_of_Equal_Strings.pdb
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\04. Sequences of Equal Strings\obj\Debug\04. Sequences of Equal Strings.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\04. Sequences of Equal Strings\obj\Debug\_04.Sequences_of_Equal_Strings.exe
+C:\Users\Pete\Desktop\Homework  Arrays, Lists, Stacks, Queues\04. Sequences of Equal Strings\obj\Debug\_04.Sequences_of_Equal_Strings.pdb

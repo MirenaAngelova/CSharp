@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\02.SoftUni Defense System™\bin\Debug\02.SoftUni Defense System™.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\02.SoftUni Defense System™\bin\Debug\02.SoftUni Defense System™.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\02.SoftUni Defense System™\bin\Debug\02.SoftUni Defense System™.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\02.SoftUni Defense System™\obj\Debug\02.SoftUni Defense System™.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\02.SoftUni Defense System™\obj\Debug\02.SoftUni Defense System™.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\02.SoftUni Defense System™\obj\Debug\02.SoftUni Defense System™.pdb

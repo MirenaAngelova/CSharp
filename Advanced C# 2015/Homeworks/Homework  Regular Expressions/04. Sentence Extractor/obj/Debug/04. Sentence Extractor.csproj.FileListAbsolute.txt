@@ -1,0 +1,6 @@
+C:\Users\Pete\Desktop\Homework  Regular Expressions\04. Sentence Extractor\bin\Debug\_04.Sentence_Extractor.exe.config
+C:\Users\Pete\Desktop\Homework  Regular Expressions\04. Sentence Extractor\bin\Debug\_04.Sentence_Extractor.exe
+C:\Users\Pete\Desktop\Homework  Regular Expressions\04. Sentence Extractor\bin\Debug\_04.Sentence_Extractor.pdb
+C:\Users\Pete\Desktop\Homework  Regular Expressions\04. Sentence Extractor\obj\Debug\04. Sentence Extractor.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Homework  Regular Expressions\04. Sentence Extractor\obj\Debug\_04.Sentence_Extractor.exe
+C:\Users\Pete\Desktop\Homework  Regular Expressions\04. Sentence Extractor\obj\Debug\_04.Sentence_Extractor.pdb

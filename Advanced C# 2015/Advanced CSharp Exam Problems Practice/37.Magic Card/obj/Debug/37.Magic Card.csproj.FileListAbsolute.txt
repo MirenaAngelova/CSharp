@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\37.Magic Card\bin\Debug\37.Magic Card.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\37.Magic Card\bin\Debug\37.Magic Card.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\37.Magic Card\bin\Debug\37.Magic Card.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\37.Magic Card\obj\Debug\37.Magic Card.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\37.Magic Card\obj\Debug\37.Magic Card.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\37.Magic Card\obj\Debug\37.Magic Card.csprojResolveAssemblyReference.cache

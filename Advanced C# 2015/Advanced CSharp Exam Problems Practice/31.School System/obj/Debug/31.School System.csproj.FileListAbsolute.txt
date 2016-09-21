@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\31.School System\bin\Debug\31.School System.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\31.School System\bin\Debug\31.School System.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\31.School System\bin\Debug\31.School System.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\31.School System\obj\Debug\31.School System.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\31.School System\obj\Debug\31.School System.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\31.School System\obj\Debug\31.School System.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\31.School System\bin\Debug\31.School System.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\31.School System\obj\Debug\31.School System.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\31.School System\obj\Debug\31.School System.pdb

@@ -1,0 +1,6 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\24.User Logs\bin\Debug\24.User Logs.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\24.User Logs\bin\Debug\24.User Logs.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\24.User Logs\bin\Debug\24.User Logs.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\24.User Logs\obj\Debug\24.User Logs.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\24.User Logs\obj\Debug\24.User Logs.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\24.User Logs\obj\Debug\24.User Logs.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\26.Sum Cards\bin\Debug\26.Sum Cards.exe.config

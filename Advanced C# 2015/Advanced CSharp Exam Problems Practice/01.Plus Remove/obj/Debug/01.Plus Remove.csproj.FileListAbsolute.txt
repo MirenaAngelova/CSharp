@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\01.Plus Remove\bin\Debug\01.Plus Remove.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\01.Plus Remove\bin\Debug\01.Plus Remove.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\01.Plus Remove\bin\Debug\01.Plus Remove.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\01.Plus Remove\obj\Debug\01.Plus Remove.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\01.Plus Remove\obj\Debug\01.Plus Remove.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\01.Plus Remove\obj\Debug\01.Plus Remove.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.Plus Remove\bin\Debug\01.Plus Remove.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.Plus Remove\obj\Debug\01.Plus Remove.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\01.Plus Remove\obj\Debug\01.Plus Remove.pdb

@@ -1,0 +1,9 @@
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\02. Target Practice\bin\Debug\_02.Target_Practice.exe.config
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\02. Target Practice\bin\Debug\_02.Target_Practice.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\02. Target Practice\bin\Debug\_02.Target_Practice.pdb
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\02. Target Practice\obj\Debug\42. Target Practice.csprojResolveAssemblyReference.cache
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\02. Target Practice\obj\Debug\_02.Target_Practice.exe
+C:\Users\Pete\Desktop\Advanced CSharp Exam Problems Practice\02. Target Practice\obj\Debug\_02.Target_Practice.pdb
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\02. Target Practice\bin\Debug\_02.Target_Practice.exe.config
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\02. Target Practice\obj\Debug\_02.Target_Practice.exe
+D:\SOFTUNI\Exsersises\Advanced CSharp Exam Problems Practice\02. Target Practice\obj\Debug\_02.Target_Practice.pdb
